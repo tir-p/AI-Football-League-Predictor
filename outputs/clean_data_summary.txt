@@ -10,13 +10,23 @@ Output file:
 data/processed/matches_clean.csv
 
 Result:
-- Number of rows: 19837
-- Number of missing values: 0
-- Class distribution of match_result:
-  - 0: 8761
-  - 1: 4988
-  - 2: 6088
+- Number of rows: 21690
+- Number of missing values: 2070
+- Played matches: 21276
+- Scheduled fixtures: 414
+- Class distribution of played match_result values:
+  - 0: 9399
+  - 1: 5353
+  - 2: 6524
 
 Cleaned dataset shape:
-- Rows: 19837
-- Columns: 10
+- Rows: 21690
+- Columns: 11
+
+Added columns:
+- is_played
+- match_result
+
+Notes:
+- Unplayed fixtures are preserved for current-season simulation.
+- Missing values are expected on scheduled fixtures that have no final score yet.

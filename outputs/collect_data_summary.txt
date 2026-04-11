@@ -10,7 +10,7 @@ Output file:
 data/raw/matches_raw.csv
 
 Result:
-- Number of rows: 19938
+- Number of rows: 21690
 - Number of columns: 9
 
 Columns:
@@ -25,8 +25,14 @@ Columns:
 - away_xg
 
 League distribution:
-- premier_league: 4180
-- la_liga: 4180
-- serie_a: 4180
-- ligue_1: 4032
-- bundesliga: 3366
+- premier_league: 4560
+- la_liga: 4560
+- serie_a: 4560
+- ligue_1: 4338
+- bundesliga: 3672
+
+Season coverage:
+- 2014 to 2025
+
+Season format:
+- season 2025 means 2025/26

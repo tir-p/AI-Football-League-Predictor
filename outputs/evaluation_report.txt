@@ -1,8 +1,8 @@
 Football Match Prediction Evaluation
 ========================================
-Test season: 2023
+Test season: 2024
 Number of matches: 1752
-Accuracy: 0.5263
-Macro F1: 0.4092
-Log loss: 0.9846
-Confusion matrix: [[595, 7, 153], [282, 10, 171], [207, 10, 317]]
+Accuracy: 0.5491
+Macro F1: 0.4283
+Log loss: 0.9337
+Confusion matrix: [[600, 1, 135], [270, 13, 155], [229, 0, 349]]
