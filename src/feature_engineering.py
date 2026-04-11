@@ -126,31 +126,33 @@ def build_match_features(df):
         feature_row["elo_difference"] = feature_row["home_elo"] - feature_row["away_elo"]
         feature_rows.append(feature_row)
 
-        home_points = 3 if match["match_result"] == 0 else 1 if match["match_result"] == 1 else 0
-        away_points = 3 if match["match_result"] == 2 else 1 if match["match_result"] == 1 else 0
+        # Scheduled fixtures should contribute features but must not update history.
+        if pd.notna(match["match_result"]):
+            home_points = 3 if match["match_result"] == 0 else 1 if match["match_result"] == 1 else 0
+            away_points = 3 if match["match_result"] == 2 else 1 if match["match_result"] == 1 else 0
 
-        new_home_elo, new_away_elo = update_elo_ratings(
-            home_elo=home_history["elo"],
-            away_elo=away_history["elo"],
-            match_result=match["match_result"],
-        )
+            new_home_elo, new_away_elo = update_elo_ratings(
+                home_elo=home_history["elo"],
+                away_elo=away_history["elo"],
+                match_result=match["match_result"],
+            )
 
-        update_team_history(
-            team_data=home_history,
-            points=home_points,
-            goals_scored=match["home_goals"],
-            xg_value=match["home_xg"],
-            match_date=match_date,
-            new_elo=new_home_elo,
-        )
-        update_team_history(
-            team_data=away_history,
-            points=away_points,
-            goals_scored=match["away_goals"],
-            xg_value=match["away_xg"],
-            match_date=match_date,
-            new_elo=new_away_elo,
-        )
+            update_team_history(
+                team_data=home_history,
+                points=home_points,
+                goals_scored=match["home_goals"],
+                xg_value=match["home_xg"],
+                match_date=match_date,
+                new_elo=new_home_elo,
+            )
+            update_team_history(
+                team_data=away_history,
+                points=away_points,
+                goals_scored=match["away_goals"],
+                xg_value=match["away_xg"],
+                match_date=match_date,
+                new_elo=new_away_elo,
+            )
 
     return pd.DataFrame(feature_rows)
 

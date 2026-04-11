@@ -3365,6 +3365,312 @@ bundesliga,2024,2025-05-17 13:30:00,Hoffenheim,Bayern Munich,0.0,4.0,0.661398,2.
 bundesliga,2024,2025-05-17 13:30:00,Mainz 05,Bayer Leverkusen,2.0,2.0,2.89903,1.33572
 bundesliga,2024,2025-05-17 13:30:00,RasenBallsport Leipzig,VfB Stuttgart,2.0,3.0,1.42373,3.34624
 bundesliga,2024,2025-05-17 13:30:00,St. Pauli,Bochum,0.0,2.0,0.802748,1.34252
+bundesliga,2025,2025-08-22 18:30:00,Bayern Munich,RasenBallsport Leipzig,6.0,0.0,3.29885,0.52226
+bundesliga,2025,2025-08-23 13:30:00,Bayer Leverkusen,Hoffenheim,1.0,2.0,1.05253,0.505193
+bundesliga,2025,2025-08-23 13:30:00,Eintracht Frankfurt,Werder Bremen,4.0,1.0,3.10684,0.587822
+bundesliga,2025,2025-08-23 13:30:00,FC Heidenheim,Wolfsburg,1.0,3.0,0.783156,2.57718
+bundesliga,2025,2025-08-23 13:30:00,Freiburg,Augsburg,1.0,3.0,2.27247,1.30191
+bundesliga,2025,2025-08-23 13:30:00,Union Berlin,VfB Stuttgart,2.0,1.0,0.529421,1.80147
+bundesliga,2025,2025-08-23 16:30:00,St. Pauli,Borussia Dortmund,3.0,3.0,1.46772,2.10289
+bundesliga,2025,2025-08-24 13:30:00,Mainz 05,FC Cologne,0.0,1.0,1.31655,1.64676
+bundesliga,2025,2025-08-24 15:30:00,Borussia M.Gladbach,Hamburger SV,0.0,0.0,1.01717,0.285593
+bundesliga,2025,2025-08-29 18:30:00,Hamburger SV,St. Pauli,0.0,2.0,0.74111,1.85404
+bundesliga,2025,2025-08-30 13:30:00,Hoffenheim,Eintracht Frankfurt,1.0,3.0,1.28178,1.82087
+bundesliga,2025,2025-08-30 13:30:00,RasenBallsport Leipzig,FC Heidenheim,2.0,0.0,3.29717,0.969982
+bundesliga,2025,2025-08-30 13:30:00,VfB Stuttgart,Borussia M.Gladbach,1.0,0.0,0.925105,1.60717
+bundesliga,2025,2025-08-30 13:30:00,Werder Bremen,Bayer Leverkusen,3.0,3.0,2.32676,2.03733
+bundesliga,2025,2025-08-30 16:30:00,Augsburg,Bayern Munich,2.0,3.0,0.506028,3.37523
+bundesliga,2025,2025-08-31 13:30:00,Wolfsburg,Mainz 05,1.0,1.0,0.616661,1.81482
+bundesliga,2025,2025-08-31 15:30:00,Borussia Dortmund,Union Berlin,3.0,0.0,1.82606,0.971167
+bundesliga,2025,2025-08-31 17:30:00,FC Cologne,Freiburg,4.0,1.0,1.84068,0.933072
+bundesliga,2025,2025-09-12 18:30:00,Bayer Leverkusen,Eintracht Frankfurt,3.0,1.0,2.31465,0.791863
+bundesliga,2025,2025-09-13 13:30:00,FC Heidenheim,Borussia Dortmund,0.0,2.0,0.299026,2.84999
+bundesliga,2025,2025-09-13 13:30:00,Freiburg,VfB Stuttgart,3.0,1.0,1.6832,0.548804
+bundesliga,2025,2025-09-13 13:30:00,Mainz 05,RasenBallsport Leipzig,0.0,1.0,0.770276,1.5009
+bundesliga,2025,2025-09-13 13:30:00,Union Berlin,Hoffenheim,2.0,4.0,3.0814,3.34084
+bundesliga,2025,2025-09-13 13:30:00,Wolfsburg,FC Cologne,3.0,3.0,1.79835,1.72631
+bundesliga,2025,2025-09-13 16:30:00,Bayern Munich,Hamburger SV,5.0,0.0,3.03718,0.559174
+bundesliga,2025,2025-09-14 13:30:00,St. Pauli,Augsburg,2.0,1.0,1.95499,0.934223
+bundesliga,2025,2025-09-14 15:30:00,Borussia M.Gladbach,Werder Bremen,0.0,4.0,1.58932,2.24671
+bundesliga,2025,2025-09-19 18:30:00,VfB Stuttgart,St. Pauli,2.0,0.0,2.78829,1.05657
+bundesliga,2025,2025-09-20 13:30:00,Augsburg,Mainz 05,1.0,4.0,0.870451,2.57047
+bundesliga,2025,2025-09-20 13:30:00,Hamburger SV,FC Heidenheim,2.0,1.0,3.32157,2.63607
+bundesliga,2025,2025-09-20 13:30:00,Hoffenheim,Bayern Munich,1.0,4.0,1.03716,2.7142
+bundesliga,2025,2025-09-20 13:30:00,Werder Bremen,Freiburg,0.0,3.0,1.27257,2.36315
+bundesliga,2025,2025-09-20 16:30:00,RasenBallsport Leipzig,FC Cologne,3.0,1.0,3.79591,1.39264
+bundesliga,2025,2025-09-21 13:30:00,Eintracht Frankfurt,Union Berlin,3.0,4.0,1.75582,2.23419
+bundesliga,2025,2025-09-21 15:30:00,Bayer Leverkusen,Borussia M.Gladbach,1.0,1.0,1.9461,1.29876
+bundesliga,2025,2025-09-21 17:30:00,Borussia Dortmund,Wolfsburg,1.0,0.0,1.24747,0.975457
+bundesliga,2025,2025-09-26 18:30:00,Bayern Munich,Werder Bremen,4.0,0.0,4.31859,0.298618
+bundesliga,2025,2025-09-27 13:30:00,FC Heidenheim,Augsburg,2.0,1.0,1.79097,0.619833
+bundesliga,2025,2025-09-27 13:30:00,Mainz 05,Borussia Dortmund,0.0,2.0,0.525149,1.75519
+bundesliga,2025,2025-09-27 13:30:00,St. Pauli,Bayer Leverkusen,1.0,2.0,0.813325,1.28912
+bundesliga,2025,2025-09-27 13:30:00,Wolfsburg,RasenBallsport Leipzig,0.0,1.0,2.59654,2.61107
+bundesliga,2025,2025-09-27 16:30:00,Borussia M.Gladbach,Eintracht Frankfurt,4.0,6.0,2.12935,3.78879
+bundesliga,2025,2025-09-28 13:30:00,Freiburg,Hoffenheim,1.0,1.0,1.2587,2.24224
+bundesliga,2025,2025-09-28 15:30:00,FC Cologne,VfB Stuttgart,1.0,2.0,1.07972,2.20939
+bundesliga,2025,2025-09-28 17:30:00,Union Berlin,Hamburger SV,0.0,0.0,1.54274,1.11274
+bundesliga,2025,2025-10-03 18:30:00,Hoffenheim,FC Cologne,0.0,1.0,1.42371,1.30873
+bundesliga,2025,2025-10-04 13:30:00,Augsburg,Wolfsburg,3.0,1.0,1.75326,1.22584
+bundesliga,2025,2025-10-04 13:30:00,Bayer Leverkusen,Union Berlin,2.0,0.0,3.35673,1.19684
+bundesliga,2025,2025-10-04 13:30:00,Borussia Dortmund,RasenBallsport Leipzig,1.0,1.0,0.668613,1.14077
+bundesliga,2025,2025-10-04 13:30:00,Werder Bremen,St. Pauli,1.0,0.0,1.77957,0.912425
+bundesliga,2025,2025-10-04 16:30:00,Eintracht Frankfurt,Bayern Munich,0.0,3.0,0.560138,2.2301
+bundesliga,2025,2025-10-05 13:30:00,VfB Stuttgart,FC Heidenheim,1.0,0.0,1.10781,0.290942
+bundesliga,2025,2025-10-05 15:30:00,Hamburger SV,Mainz 05,4.0,0.0,1.65883,0.591161
+bundesliga,2025,2025-10-05 17:30:00,Borussia M.Gladbach,Freiburg,0.0,0.0,0.471184,0.689073
+bundesliga,2025,2025-10-17 18:30:00,Union Berlin,Borussia M.Gladbach,3.0,1.0,1.53032,0.628848
+bundesliga,2025,2025-10-18 13:30:00,FC Cologne,Augsburg,1.0,1.0,0.523854,1.11917
+bundesliga,2025,2025-10-18 13:30:00,FC Heidenheim,Werder Bremen,2.0,2.0,3.07635,1.85638
+bundesliga,2025,2025-10-18 13:30:00,Mainz 05,Bayer Leverkusen,3.0,4.0,1.62978,4.43462
+bundesliga,2025,2025-10-18 13:30:00,RasenBallsport Leipzig,Hamburger SV,2.0,1.0,1.15611,1.29355
+bundesliga,2025,2025-10-18 13:30:00,Wolfsburg,VfB Stuttgart,0.0,3.0,0.392885,2.39474
+bundesliga,2025,2025-10-18 16:30:00,Bayern Munich,Borussia Dortmund,2.0,1.0,2.81994,1.41011
+bundesliga,2025,2025-10-19 13:30:00,Freiburg,Eintracht Frankfurt,2.0,2.0,1.12896,0.772638
+bundesliga,2025,2025-10-19 15:30:00,St. Pauli,Hoffenheim,0.0,3.0,0.871968,1.79103
+bundesliga,2025,2025-10-24 18:30:00,Werder Bremen,Union Berlin,1.0,0.0,1.1444,0.487613
+bundesliga,2025,2025-10-25 13:30:00,Augsburg,RasenBallsport Leipzig,0.0,6.0,0.639182,2.69438
+bundesliga,2025,2025-10-25 13:30:00,Borussia M.Gladbach,Bayern Munich,0.0,3.0,0.757777,2.65026
+bundesliga,2025,2025-10-25 13:30:00,Eintracht Frankfurt,St. Pauli,2.0,0.0,2.42632,0.519973
+bundesliga,2025,2025-10-25 13:30:00,Hamburger SV,Wolfsburg,0.0,1.0,2.40547,0.695528
+bundesliga,2025,2025-10-25 13:30:00,Hoffenheim,FC Heidenheim,3.0,1.0,2.4278,0.902315
+bundesliga,2025,2025-10-25 16:30:00,Borussia Dortmund,FC Cologne,1.0,0.0,2.09125,0.70563
+bundesliga,2025,2025-10-26 13:30:00,Bayer Leverkusen,Freiburg,2.0,0.0,2.46787,0.542897
+bundesliga,2025,2025-10-26 15:30:00,VfB Stuttgart,Mainz 05,2.0,1.0,1.66805,1.40956
+bundesliga,2025,2025-10-31 19:30:00,Augsburg,Borussia Dortmund,0.0,1.0,0.969501,0.588196
+bundesliga,2025,2025-11-01 14:30:00,FC Heidenheim,Eintracht Frankfurt,1.0,1.0,0.831882,1.22406
+bundesliga,2025,2025-11-01 14:30:00,Mainz 05,Werder Bremen,1.0,1.0,1.90161,0.880505
+bundesliga,2025,2025-11-01 14:30:00,RasenBallsport Leipzig,VfB Stuttgart,3.0,1.0,1.73471,1.0701
+bundesliga,2025,2025-11-01 14:30:00,St. Pauli,Borussia M.Gladbach,0.0,4.0,0.804394,3.6262
+bundesliga,2025,2025-11-01 14:30:00,Union Berlin,Freiburg,0.0,0.0,1.34842,1.16519
+bundesliga,2025,2025-11-01 17:30:00,Bayern Munich,Bayer Leverkusen,3.0,0.0,2.28295,0.382774
+bundesliga,2025,2025-11-02 14:30:00,FC Cologne,Hamburger SV,4.0,1.0,3.87376,1.19296
+bundesliga,2025,2025-11-02 16:30:00,Wolfsburg,Hoffenheim,2.0,3.0,1.40117,1.74291
+bundesliga,2025,2025-11-07 19:30:00,Werder Bremen,Wolfsburg,2.0,1.0,1.69456,0.676326
+bundesliga,2025,2025-11-08 14:30:00,Bayer Leverkusen,FC Heidenheim,6.0,0.0,3.90142,0.063377
+bundesliga,2025,2025-11-08 14:30:00,Hamburger SV,Borussia Dortmund,1.0,1.0,0.419878,1.42582
+bundesliga,2025,2025-11-08 14:30:00,Hoffenheim,RasenBallsport Leipzig,3.0,1.0,1.92349,1.56187
+bundesliga,2025,2025-11-08 14:30:00,Union Berlin,Bayern Munich,2.0,2.0,1.02778,1.34246
+bundesliga,2025,2025-11-08 17:30:00,Borussia M.Gladbach,FC Cologne,3.0,1.0,2.46206,2.15818
+bundesliga,2025,2025-11-09 14:30:00,Freiburg,St. Pauli,2.0,1.0,1.66558,0.640748
+bundesliga,2025,2025-11-09 16:30:00,VfB Stuttgart,Augsburg,3.0,2.0,2.44526,1.90345
+bundesliga,2025,2025-11-09 18:30:00,Eintracht Frankfurt,Mainz 05,1.0,0.0,1.77854,0.121469
+bundesliga,2025,2025-11-21 19:30:00,Mainz 05,Hoffenheim,1.0,1.0,2.88712,1.54404
+bundesliga,2025,2025-11-22 14:30:00,Augsburg,Hamburger SV,1.0,0.0,1.61897,1.555
+bundesliga,2025,2025-11-22 14:30:00,Bayern Munich,Freiburg,6.0,2.0,3.13858,0.516966
+bundesliga,2025,2025-11-22 14:30:00,Borussia Dortmund,VfB Stuttgart,3.0,3.0,3.15124,1.80942
+bundesliga,2025,2025-11-22 14:30:00,FC Heidenheim,Borussia M.Gladbach,0.0,3.0,0.363207,2.79666
+bundesliga,2025,2025-11-22 14:30:00,Wolfsburg,Bayer Leverkusen,1.0,3.0,2.07979,1.58644
+bundesliga,2025,2025-11-22 17:30:00,FC Cologne,Eintracht Frankfurt,3.0,4.0,1.38923,2.44506
+bundesliga,2025,2025-11-23 14:30:00,RasenBallsport Leipzig,Werder Bremen,2.0,0.0,2.42834,0.774872
+bundesliga,2025,2025-11-23 16:30:00,St. Pauli,Union Berlin,0.0,1.0,0.568717,0.398431
+bundesliga,2025,2025-11-28 19:30:00,Borussia M.Gladbach,RasenBallsport Leipzig,0.0,0.0,0.388883,1.09232
+bundesliga,2025,2025-11-29 14:30:00,Bayern Munich,St. Pauli,3.0,1.0,2.53942,0.74073
+bundesliga,2025,2025-11-29 14:30:00,Hoffenheim,Augsburg,3.0,0.0,1.79612,0.655496
+bundesliga,2025,2025-11-29 14:30:00,Union Berlin,FC Heidenheim,1.0,2.0,0.942923,0.522102
+bundesliga,2025,2025-11-29 14:30:00,Werder Bremen,FC Cologne,1.0,1.0,1.53668,1.1848
+bundesliga,2025,2025-11-29 17:30:00,Bayer Leverkusen,Borussia Dortmund,1.0,2.0,1.08287,1.1562
+bundesliga,2025,2025-11-30 14:30:00,Hamburger SV,VfB Stuttgart,2.0,1.0,1.21357,1.10868
+bundesliga,2025,2025-11-30 16:30:00,Eintracht Frankfurt,Wolfsburg,1.0,1.0,1.66051,1.60645
+bundesliga,2025,2025-11-30 18:30:00,Freiburg,Mainz 05,4.0,0.0,4.15677,0.0500621
+bundesliga,2025,2025-12-05 19:30:00,Mainz 05,Borussia M.Gladbach,0.0,1.0,1.09331,1.90297
+bundesliga,2025,2025-12-06 14:30:00,Augsburg,Bayer Leverkusen,2.0,0.0,2.14102,1.41889
+bundesliga,2025,2025-12-06 14:30:00,FC Cologne,St. Pauli,1.0,1.0,1.90409,0.143945
+bundesliga,2025,2025-12-06 14:30:00,FC Heidenheim,Freiburg,2.0,1.0,2.66592,0.800321
+bundesliga,2025,2025-12-06 14:30:00,VfB Stuttgart,Bayern Munich,0.0,5.0,0.729313,4.07867
+bundesliga,2025,2025-12-06 14:30:00,Wolfsburg,Union Berlin,3.0,1.0,0.929936,2.01932
+bundesliga,2025,2025-12-06 17:30:00,RasenBallsport Leipzig,Eintracht Frankfurt,6.0,0.0,3.64182,0.473289
+bundesliga,2025,2025-12-07 14:30:00,Hamburger SV,Werder Bremen,3.0,2.0,1.57713,1.17349
+bundesliga,2025,2025-12-07 16:30:00,Borussia Dortmund,Hoffenheim,2.0,0.0,1.10147,1.42364
+bundesliga,2025,2025-12-12 19:30:00,Union Berlin,RasenBallsport Leipzig,3.0,1.0,1.4766,0.495677
+bundesliga,2025,2025-12-13 14:30:00,Borussia M.Gladbach,Wolfsburg,1.0,3.0,0.620418,2.72142
+bundesliga,2025,2025-12-13 14:30:00,Eintracht Frankfurt,Augsburg,1.0,0.0,1.52024,0.655733
+bundesliga,2025,2025-12-13 14:30:00,Hoffenheim,Hamburger SV,4.0,1.0,2.48806,1.40522
+bundesliga,2025,2025-12-13 14:30:00,St. Pauli,FC Heidenheim,2.0,1.0,1.00037,1.8944
+bundesliga,2025,2025-12-13 17:30:00,Bayer Leverkusen,FC Cologne,2.0,0.0,2.295,0.436565
+bundesliga,2025,2025-12-14 14:30:00,Freiburg,Borussia Dortmund,1.0,1.0,1.10621,1.47427
+bundesliga,2025,2025-12-14 16:30:00,Bayern Munich,Mainz 05,2.0,2.0,4.67956,0.803171
+bundesliga,2025,2025-12-14 18:30:00,Werder Bremen,VfB Stuttgart,0.0,4.0,0.607898,2.05209
+bundesliga,2025,2025-12-19 19:30:00,Borussia Dortmund,Borussia M.Gladbach,2.0,0.0,1.65394,0.221237
+bundesliga,2025,2025-12-20 14:30:00,Augsburg,Werder Bremen,0.0,0.0,1.49411,0.90686
+bundesliga,2025,2025-12-20 14:30:00,FC Cologne,Union Berlin,0.0,1.0,0.677102,1.4739
+bundesliga,2025,2025-12-20 14:30:00,Hamburger SV,Eintracht Frankfurt,1.0,1.0,1.09769,1.09137
+bundesliga,2025,2025-12-20 14:30:00,VfB Stuttgart,Hoffenheim,0.0,0.0,1.46116,0.154175
+bundesliga,2025,2025-12-20 14:30:00,Wolfsburg,Freiburg,3.0,4.0,1.30583,2.65964
+bundesliga,2025,2025-12-20 17:30:00,RasenBallsport Leipzig,Bayer Leverkusen,1.0,3.0,1.93929,2.70478
+bundesliga,2025,2025-12-21 14:30:00,Mainz 05,St. Pauli,0.0,0.0,1.87368,0.227249
+bundesliga,2025,2025-12-21 16:30:00,FC Heidenheim,Bayern Munich,0.0,4.0,1.48758,3.36795
+bundesliga,2025,2026-01-09 19:30:00,Eintracht Frankfurt,Borussia Dortmund,3.0,3.0,1.66426,2.29827
+bundesliga,2025,2026-01-10 14:30:00,FC Heidenheim,FC Cologne,2.0,2.0,2.14635,2.75624
+bundesliga,2025,2026-01-10 14:30:00,Freiburg,Hamburger SV,2.0,1.0,2.93517,0.850812
+bundesliga,2025,2026-01-10 14:30:00,Union Berlin,Mainz 05,2.0,2.0,3.6505,1.56492
+bundesliga,2025,2026-01-10 17:30:00,Bayer Leverkusen,VfB Stuttgart,1.0,4.0,1.98318,2.68822
+bundesliga,2025,2026-01-11 14:30:00,Borussia M.Gladbach,Augsburg,4.0,0.0,3.57201,1.57502
+bundesliga,2025,2026-01-11 16:30:00,Bayern Munich,Wolfsburg,8.0,1.0,3.54931,1.08515
+bundesliga,2025,2026-01-13 17:30:00,VfB Stuttgart,Eintracht Frankfurt,3.0,2.0,3.54461,0.896468
+bundesliga,2025,2026-01-13 19:30:00,Borussia Dortmund,Werder Bremen,3.0,0.0,2.31769,0.39948
+bundesliga,2025,2026-01-13 19:30:00,Mainz 05,FC Heidenheim,2.0,1.0,1.95686,1.23557
+bundesliga,2025,2026-01-14 17:30:00,Wolfsburg,St. Pauli,2.0,1.0,1.78032,1.21171
+bundesliga,2025,2026-01-14 19:30:00,FC Cologne,Bayern Munich,1.0,3.0,0.714659,2.11635
+bundesliga,2025,2026-01-14 19:30:00,Hoffenheim,Borussia M.Gladbach,5.0,1.0,4.3777,0.83294
+bundesliga,2025,2026-01-14 19:30:00,RasenBallsport Leipzig,Freiburg,2.0,0.0,2.80289,0.147682
+bundesliga,2025,2026-01-15 19:30:00,Augsburg,Union Berlin,1.0,1.0,0.559529,1.73831
+bundesliga,2025,2026-01-16 19:30:00,Werder Bremen,Eintracht Frankfurt,3.0,3.0,2.10111,1.20772
+bundesliga,2025,2026-01-17 14:30:00,Borussia Dortmund,St. Pauli,3.0,2.0,2.5477,0.532613
+bundesliga,2025,2026-01-17 14:30:00,FC Cologne,Mainz 05,2.0,1.0,2.41277,1.91073
+bundesliga,2025,2026-01-17 14:30:00,Hamburger SV,Borussia M.Gladbach,0.0,0.0,1.26205,0.576522
+bundesliga,2025,2026-01-17 14:30:00,Hoffenheim,Bayer Leverkusen,1.0,0.0,2.11995,1.27048
+bundesliga,2025,2026-01-17 14:30:00,Wolfsburg,FC Heidenheim,1.0,1.0,1.07653,0.991172
+bundesliga,2025,2026-01-17 17:30:00,RasenBallsport Leipzig,Bayern Munich,1.0,5.0,2.86917,4.65226
+bundesliga,2025,2026-01-18 14:30:00,VfB Stuttgart,Union Berlin,1.0,1.0,2.1978,1.88763
+bundesliga,2025,2026-01-18 16:30:00,Augsburg,Freiburg,2.0,2.0,0.986653,1.59107
+bundesliga,2025,2026-01-23 19:30:00,St. Pauli,Hamburger SV,0.0,0.0,0.311991,0.333197
+bundesliga,2025,2026-01-24 14:30:00,Bayer Leverkusen,Werder Bremen,1.0,0.0,2.51599,0.673986
+bundesliga,2025,2026-01-24 14:30:00,Bayern Munich,Augsburg,1.0,2.0,2.30773,1.24551
+bundesliga,2025,2026-01-24 14:30:00,Eintracht Frankfurt,Hoffenheim,1.0,3.0,0.829658,1.62813
+bundesliga,2025,2026-01-24 14:30:00,FC Heidenheim,RasenBallsport Leipzig,0.0,3.0,0.987658,2.07675
+bundesliga,2025,2026-01-24 14:30:00,Mainz 05,Wolfsburg,3.0,1.0,4.34199,1.09338
+bundesliga,2025,2026-01-24 17:30:00,Union Berlin,Borussia Dortmund,0.0,3.0,0.989732,2.27286
+bundesliga,2025,2026-01-25 14:30:00,Borussia M.Gladbach,VfB Stuttgart,0.0,3.0,1.22197,2.72682
+bundesliga,2025,2026-01-25 16:30:00,Freiburg,FC Cologne,2.0,1.0,2.56728,1.69119
+bundesliga,2025,2026-01-27 19:30:00,St. Pauli,RasenBallsport Leipzig,1.0,1.0,1.33165,2.05989
+bundesliga,2025,2026-01-27 19:30:00,Werder Bremen,Hoffenheim,0.0,2.0,1.42692,0.567567
+bundesliga,2025,2026-01-30 19:30:00,FC Cologne,Wolfsburg,1.0,0.0,1.43559,1.34631
+bundesliga,2025,2026-01-31 14:30:00,Augsburg,St. Pauli,2.0,1.0,2.11699,2.88611
+bundesliga,2025,2026-01-31 14:30:00,Eintracht Frankfurt,Bayer Leverkusen,1.0,3.0,1.31849,1.52952
+bundesliga,2025,2026-01-31 14:30:00,Hoffenheim,Union Berlin,3.0,1.0,1.50682,1.23275
+bundesliga,2025,2026-01-31 14:30:00,RasenBallsport Leipzig,Mainz 05,1.0,2.0,2.09422,2.57678
+bundesliga,2025,2026-01-31 14:30:00,Werder Bremen,Borussia M.Gladbach,1.0,1.0,0.991152,1.25715
+bundesliga,2025,2026-01-31 17:30:00,Hamburger SV,Bayern Munich,2.0,2.0,2.64497,2.28911
+bundesliga,2025,2026-02-01 14:30:00,VfB Stuttgart,Freiburg,1.0,0.0,2.95203,0.936187
+bundesliga,2025,2026-02-01 16:30:00,Borussia Dortmund,FC Heidenheim,3.0,2.0,4.13897,3.04324
+bundesliga,2025,2026-02-06 19:30:00,Union Berlin,Eintracht Frankfurt,1.0,1.0,1.27118,0.296813
+bundesliga,2025,2026-02-07 14:30:00,FC Heidenheim,Hamburger SV,0.0,2.0,1.04614,1.55106
+bundesliga,2025,2026-02-07 14:30:00,Freiburg,Werder Bremen,1.0,0.0,0.36452,1.12332
+bundesliga,2025,2026-02-07 14:30:00,Mainz 05,Augsburg,2.0,0.0,3.00656,1.35939
+bundesliga,2025,2026-02-07 14:30:00,St. Pauli,VfB Stuttgart,2.0,1.0,1.66217,0.912627
+bundesliga,2025,2026-02-07 14:30:00,Wolfsburg,Borussia Dortmund,1.0,2.0,2.02751,1.70601
+bundesliga,2025,2026-02-07 17:30:00,Borussia M.Gladbach,Bayer Leverkusen,1.0,1.0,0.783478,0.741257
+bundesliga,2025,2026-02-08 14:30:00,FC Cologne,RasenBallsport Leipzig,1.0,2.0,1.12167,3.0577
+bundesliga,2025,2026-02-08 16:30:00,Bayern Munich,Hoffenheim,5.0,1.0,6.37827,2.66829
+bundesliga,2025,2026-02-13 19:30:00,Borussia Dortmund,Mainz 05,4.0,0.0,1.81026,1.67199
+bundesliga,2025,2026-02-14 14:30:00,Bayer Leverkusen,St. Pauli,4.0,0.0,2.26044,0.654783
+bundesliga,2025,2026-02-14 14:30:00,Eintracht Frankfurt,Borussia M.Gladbach,3.0,0.0,1.98736,1.03155
+bundesliga,2025,2026-02-14 14:30:00,Hamburger SV,Union Berlin,3.0,2.0,2.20339,2.18966
+bundesliga,2025,2026-02-14 14:30:00,Hoffenheim,Freiburg,3.0,0.0,1.90052,0.744054
+bundesliga,2025,2026-02-14 14:30:00,Werder Bremen,Bayern Munich,0.0,3.0,0.77965,1.87713
+bundesliga,2025,2026-02-14 17:30:00,VfB Stuttgart,FC Cologne,3.0,1.0,2.56266,1.13246
+bundesliga,2025,2026-02-15 14:30:00,Augsburg,FC Heidenheim,1.0,0.0,1.87679,0.697774
+bundesliga,2025,2026-02-15 16:30:00,RasenBallsport Leipzig,Wolfsburg,2.0,2.0,2.51087,0.687761
+bundesliga,2025,2026-02-20 19:30:00,Mainz 05,Hamburger SV,1.0,1.0,1.75215,0.823398
+bundesliga,2025,2026-02-21 14:30:00,Bayern Munich,Eintracht Frankfurt,3.0,2.0,2.83518,2.29258
+bundesliga,2025,2026-02-21 14:30:00,FC Cologne,Hoffenheim,2.0,2.0,1.12252,1.8243
+bundesliga,2025,2026-02-21 14:30:00,Union Berlin,Bayer Leverkusen,1.0,0.0,0.757702,1.20274
+bundesliga,2025,2026-02-21 14:30:00,Wolfsburg,Augsburg,2.0,3.0,2.17584,1.56427
+bundesliga,2025,2026-02-21 17:30:00,RasenBallsport Leipzig,Borussia Dortmund,2.0,2.0,3.50934,1.35347
+bundesliga,2025,2026-02-22 14:30:00,Freiburg,Borussia M.Gladbach,2.0,1.0,1.29234,1.02855
+bundesliga,2025,2026-02-22 16:30:00,St. Pauli,Werder Bremen,2.0,1.0,0.260698,1.61141
+bundesliga,2025,2026-02-22 18:30:00,FC Heidenheim,VfB Stuttgart,3.0,3.0,2.21575,2.27505
+bundesliga,2025,2026-02-27 19:30:00,Augsburg,FC Cologne,2.0,0.0,1.55844,0.492698
+bundesliga,2025,2026-02-28 14:30:00,Bayer Leverkusen,Mainz 05,1.0,1.0,1.94817,0.9714
+bundesliga,2025,2026-02-28 14:30:00,Borussia M.Gladbach,Union Berlin,1.0,0.0,2.56014,0.137598
+bundesliga,2025,2026-02-28 14:30:00,Hoffenheim,St. Pauli,0.0,1.0,2.57411,0.946504
+bundesliga,2025,2026-02-28 14:30:00,Werder Bremen,FC Heidenheim,2.0,0.0,3.47889,1.70919
+bundesliga,2025,2026-02-28 17:30:00,Borussia Dortmund,Bayern Munich,2.0,3.0,1.39761,1.89016
+bundesliga,2025,2026-03-01 14:30:00,VfB Stuttgart,Wolfsburg,4.0,0.0,2.95189,0.865739
+bundesliga,2025,2026-03-01 16:30:00,Eintracht Frankfurt,Freiburg,2.0,0.0,1.67095,0.64193
+bundesliga,2025,2026-03-01 18:30:00,Hamburger SV,RasenBallsport Leipzig,1.0,2.0,0.820585,2.28997
+bundesliga,2025,2026-03-04 19:30:00,Hamburger SV,Bayer Leverkusen,0.0,1.0,1.28692,2.67874
+bundesliga,2025,2026-03-06 19:30:00,Bayern Munich,Borussia M.Gladbach,4.0,1.0,3.11976,1.21993
+bundesliga,2025,2026-03-07 14:30:00,FC Heidenheim,Hoffenheim,2.0,4.0,0.966678,2.79383
+bundesliga,2025,2026-03-07 14:30:00,Freiburg,Bayer Leverkusen,3.0,3.0,2.58409,2.1863
+bundesliga,2025,2026-03-07 14:30:00,Mainz 05,VfB Stuttgart,2.0,2.0,3.52523,0.920068
+bundesliga,2025,2026-03-07 14:30:00,RasenBallsport Leipzig,Augsburg,2.0,1.0,2.19435,3.6651
+bundesliga,2025,2026-03-07 14:30:00,Wolfsburg,Hamburger SV,1.0,2.0,2.46612,1.80445
+bundesliga,2025,2026-03-07 17:30:00,FC Cologne,Borussia Dortmund,1.0,2.0,0.96405,1.9574
+bundesliga,2025,2026-03-08 14:30:00,St. Pauli,Eintracht Frankfurt,0.0,0.0,0.472285,0.451537
+bundesliga,2025,2026-03-08 16:30:00,Union Berlin,Werder Bremen,1.0,4.0,1.12998,2.23984
+bundesliga,2025,2026-03-13 19:30:00,Borussia M.Gladbach,St. Pauli,2.0,0.0,1.08342,0.628713
+bundesliga,2025,2026-03-14 14:30:00,Bayer Leverkusen,Bayern Munich,1.0,1.0,2.65255,1.26817
+bundesliga,2025,2026-03-14 14:30:00,Borussia Dortmund,Augsburg,2.0,0.0,2.49053,0.755745
+bundesliga,2025,2026-03-14 14:30:00,Eintracht Frankfurt,FC Heidenheim,1.0,0.0,0.725159,0.136174
+bundesliga,2025,2026-03-14 14:30:00,Hoffenheim,Wolfsburg,1.0,1.0,2.23813,0.221431
+bundesliga,2025,2026-03-14 17:30:00,Hamburger SV,FC Cologne,1.0,1.0,0.556493,0.984168
+bundesliga,2025,2026-03-15 14:30:00,Werder Bremen,Mainz 05,0.0,2.0,0.890006,2.05621
+bundesliga,2025,2026-03-15 16:30:00,Freiburg,Union Berlin,0.0,1.0,1.34508,1.0006
+bundesliga,2025,2026-03-15 18:30:00,VfB Stuttgart,RasenBallsport Leipzig,1.0,0.0,1.93167,1.12178
+bundesliga,2025,2026-03-20 19:30:00,RasenBallsport Leipzig,Hoffenheim,5.0,0.0,2.90699,0.521404
+bundesliga,2025,2026-03-21 14:30:00,Bayern Munich,Union Berlin,4.0,0.0,5.93389,0.224572
+bundesliga,2025,2026-03-21 14:30:00,FC Cologne,Borussia M.Gladbach,3.0,3.0,1.29293,1.08153
+bundesliga,2025,2026-03-21 14:30:00,FC Heidenheim,Bayer Leverkusen,3.0,3.0,1.73738,1.96287
+bundesliga,2025,2026-03-21 14:30:00,Wolfsburg,Werder Bremen,0.0,1.0,1.05686,0.414924
+bundesliga,2025,2026-03-21 17:30:00,Borussia Dortmund,Hamburger SV,3.0,2.0,6.10187,1.23049
+bundesliga,2025,2026-03-22 14:30:00,Mainz 05,Eintracht Frankfurt,2.0,1.0,1.38387,1.71748
+bundesliga,2025,2026-03-22 16:30:00,St. Pauli,Freiburg,1.0,2.0,1.39653,2.74421
+bundesliga,2025,2026-03-22 18:30:00,Augsburg,VfB Stuttgart,2.0,5.0,1.59097,3.87094
+bundesliga,2025,2026-04-04 13:30:00,Bayer Leverkusen,Wolfsburg,6.0,3.0,4.59518,2.54712
+bundesliga,2025,2026-04-04 13:30:00,Borussia M.Gladbach,FC Heidenheim,2.0,2.0,1.09174,0.883368
+bundesliga,2025,2026-04-04 13:30:00,Freiburg,Bayern Munich,2.0,3.0,2.04585,2.49116
+bundesliga,2025,2026-04-04 13:30:00,Hamburger SV,Augsburg,1.0,1.0,1.53108,2.57589
+bundesliga,2025,2026-04-04 13:30:00,Hoffenheim,Mainz 05,1.0,2.0,1.51732,2.22893
+bundesliga,2025,2026-04-04 13:30:00,Werder Bremen,RasenBallsport Leipzig,1.0,2.0,0.898486,1.61345
+bundesliga,2025,2026-04-04 16:30:00,VfB Stuttgart,Borussia Dortmund,0.0,2.0,0.553248,0.76449
+bundesliga,2025,2026-04-05 13:30:00,Union Berlin,St. Pauli,1.0,1.0,1.78288,0.325477
+bundesliga,2025,2026-04-05 15:30:00,Eintracht Frankfurt,FC Cologne,2.0,2.0,2.16998,3.09815
+bundesliga,2025,2026-04-10 18:30:00,Augsburg,Hoffenheim,2.0,2.0,2.67199,1.43152
+bundesliga,2025,2026-04-11 13:30:00,Borussia Dortmund,Bayer Leverkusen,0.0,1.0,1.01423,0.728586
+bundesliga,2025,2026-04-11 13:30:00,FC Heidenheim,Union Berlin,3.0,1.0,2.11247,1.11885
+bundesliga,2025,2026-04-11 13:30:00,RasenBallsport Leipzig,Borussia M.Gladbach,1.0,0.0,2.56843,1.66258
+bundesliga,2025,2026-04-11 13:30:00,Wolfsburg,Eintracht Frankfurt,1.0,2.0,2.26232,1.38694
+bundesliga,2025,2026-04-11 16:30:00,St. Pauli,Bayern Munich,,,,
+bundesliga,2025,2026-04-12 13:30:00,FC Cologne,Werder Bremen,,,,
+bundesliga,2025,2026-04-12 15:30:00,VfB Stuttgart,Hamburger SV,,,,
+bundesliga,2025,2026-04-12 17:30:00,Mainz 05,Freiburg,,,,
+bundesliga,2025,2026-04-17 18:30:00,St. Pauli,FC Cologne,,,,
+bundesliga,2025,2026-04-18 13:30:00,Bayer Leverkusen,Augsburg,,,,
+bundesliga,2025,2026-04-18 13:30:00,Hoffenheim,Borussia Dortmund,,,,
+bundesliga,2025,2026-04-18 13:30:00,Union Berlin,Wolfsburg,,,,
+bundesliga,2025,2026-04-18 13:30:00,Werder Bremen,Hamburger SV,,,,
+bundesliga,2025,2026-04-18 16:30:00,Eintracht Frankfurt,RasenBallsport Leipzig,,,,
+bundesliga,2025,2026-04-19 13:30:00,Freiburg,FC Heidenheim,,,,
+bundesliga,2025,2026-04-19 15:30:00,Bayern Munich,VfB Stuttgart,,,,
+bundesliga,2025,2026-04-19 17:30:00,Borussia M.Gladbach,Mainz 05,,,,
+bundesliga,2025,2026-04-24 18:30:00,RasenBallsport Leipzig,Union Berlin,,,,
+bundesliga,2025,2026-04-25 13:30:00,Augsburg,Eintracht Frankfurt,,,,
+bundesliga,2025,2026-04-25 13:30:00,FC Cologne,Bayer Leverkusen,,,,
+bundesliga,2025,2026-04-25 13:30:00,FC Heidenheim,St. Pauli,,,,
+bundesliga,2025,2026-04-25 13:30:00,Mainz 05,Bayern Munich,,,,
+bundesliga,2025,2026-04-25 13:30:00,Wolfsburg,Borussia M.Gladbach,,,,
+bundesliga,2025,2026-04-25 16:30:00,Hamburger SV,Hoffenheim,,,,
+bundesliga,2025,2026-04-26 13:30:00,VfB Stuttgart,Werder Bremen,,,,
+bundesliga,2025,2026-04-26 15:30:00,Borussia Dortmund,Freiburg,,,,
+bundesliga,2025,2026-05-02 13:30:00,Bayern Munich,FC Heidenheim,,,,
+bundesliga,2025,2026-05-02 13:30:00,Eintracht Frankfurt,Hamburger SV,,,,
+bundesliga,2025,2026-05-02 13:30:00,Hoffenheim,VfB Stuttgart,,,,
+bundesliga,2025,2026-05-02 13:30:00,Union Berlin,FC Cologne,,,,
+bundesliga,2025,2026-05-02 13:30:00,Werder Bremen,Augsburg,,,,
+bundesliga,2025,2026-05-02 16:30:00,Bayer Leverkusen,RasenBallsport Leipzig,,,,
+bundesliga,2025,2026-05-03 13:30:00,St. Pauli,Mainz 05,,,,
+bundesliga,2025,2026-05-03 15:30:00,Borussia M.Gladbach,Borussia Dortmund,,,,
+bundesliga,2025,2026-05-03 17:30:00,Freiburg,Wolfsburg,,,,
+bundesliga,2025,2026-05-08 18:30:00,Borussia Dortmund,Eintracht Frankfurt,,,,
+bundesliga,2025,2026-05-09 13:30:00,Augsburg,Borussia M.Gladbach,,,,
+bundesliga,2025,2026-05-09 13:30:00,Hoffenheim,Werder Bremen,,,,
+bundesliga,2025,2026-05-09 13:30:00,RasenBallsport Leipzig,St. Pauli,,,,
+bundesliga,2025,2026-05-09 13:30:00,VfB Stuttgart,Bayer Leverkusen,,,,
+bundesliga,2025,2026-05-09 16:30:00,Wolfsburg,Bayern Munich,,,,
+bundesliga,2025,2026-05-10 13:30:00,Hamburger SV,Freiburg,,,,
+bundesliga,2025,2026-05-10 15:30:00,FC Cologne,FC Heidenheim,,,,
+bundesliga,2025,2026-05-10 17:30:00,Mainz 05,Union Berlin,,,,
+bundesliga,2025,2026-05-16 13:30:00,Bayer Leverkusen,Hamburger SV,,,,
+bundesliga,2025,2026-05-16 13:30:00,Bayern Munich,FC Cologne,,,,
+bundesliga,2025,2026-05-16 13:30:00,Borussia M.Gladbach,Hoffenheim,,,,
+bundesliga,2025,2026-05-16 13:30:00,Eintracht Frankfurt,VfB Stuttgart,,,,
+bundesliga,2025,2026-05-16 13:30:00,FC Heidenheim,Mainz 05,,,,
+bundesliga,2025,2026-05-16 13:30:00,Freiburg,RasenBallsport Leipzig,,,,
+bundesliga,2025,2026-05-16 13:30:00,St. Pauli,Wolfsburg,,,,
+bundesliga,2025,2026-05-16 13:30:00,Union Berlin,Augsburg,,,,
+bundesliga,2025,2026-05-16 13:30:00,Werder Bremen,Borussia Dortmund,,,,
 la_liga,2014,2014-08-23 18:00:00,Malaga,Athletic Club,1.0,0.0,1.32107,1.14151
 la_liga,2014,2014-08-23 20:00:00,Granada,Deportivo La Coruna,2.0,1.0,0.548351,0.379371
 la_liga,2014,2014-08-23 20:00:00,Sevilla,Valencia,1.0,1.0,1.17197,1.74903
@@ -7545,6 +7851,386 @@ la_liga,2024,2025-05-24 19:00:00,Rayo Vallecano,Mallorca,0.0,0.0,2.11982,0.74793
 la_liga,2024,2025-05-25 12:00:00,Girona,Atletico Madrid,0.0,4.0,0.0503369,3.10637
 la_liga,2024,2025-05-25 14:15:00,Villarreal,Sevilla,4.0,2.0,1.28805,1.64829
 la_liga,2024,2025-05-25 19:00:00,Athletic Club,Barcelona,0.0,3.0,0.750806,3.36402
+la_liga,2025,2025-08-15 17:00:00,Girona,Rayo Vallecano,1.0,3.0,0.795304,3.25355
+la_liga,2025,2025-08-15 19:30:00,Villarreal,Real Oviedo,2.0,0.0,2.60739,0.85578
+la_liga,2025,2025-08-16 17:30:00,Mallorca,Barcelona,0.0,3.0,0.529217,2.0243
+la_liga,2025,2025-08-16 19:30:00,Alaves,Levante,2.0,1.0,1.72315,0.74203
+la_liga,2025,2025-08-16 19:30:00,Valencia,Real Sociedad,1.0,1.0,1.58599,1.04897
+la_liga,2025,2025-08-17 15:00:00,Celta Vigo,Getafe,0.0,2.0,0.744247,1.50131
+la_liga,2025,2025-08-17 17:30:00,Athletic Club,Sevilla,3.0,2.0,2.67586,0.901645
+la_liga,2025,2025-08-17 19:30:00,Espanyol,Atletico Madrid,2.0,1.0,1.41508,1.29319
+la_liga,2025,2025-08-18 19:00:00,Elche,Real Betis,1.0,1.0,0.981494,1.59562
+la_liga,2025,2025-08-19 19:00:00,Real Madrid,Osasuna,1.0,0.0,1.4294,0.201044
+la_liga,2025,2025-08-22 19:30:00,Real Betis,Alaves,1.0,0.0,2.13985,1.43838
+la_liga,2025,2025-08-23 15:00:00,Mallorca,Celta Vigo,1.0,1.0,0.664974,0.917413
+la_liga,2025,2025-08-23 17:30:00,Atletico Madrid,Elche,1.0,1.0,1.68159,0.313268
+la_liga,2025,2025-08-23 19:30:00,Levante,Barcelona,2.0,3.0,2.68812,2.48128
+la_liga,2025,2025-08-24 15:00:00,Osasuna,Valencia,1.0,0.0,0.946758,0.589594
+la_liga,2025,2025-08-24 17:30:00,Real Sociedad,Espanyol,2.0,2.0,1.43366,1.87234
+la_liga,2025,2025-08-24 17:30:00,Villarreal,Girona,5.0,0.0,2.97707,0.140267
+la_liga,2025,2025-08-24 19:30:00,Real Oviedo,Real Madrid,0.0,3.0,0.33749,1.82072
+la_liga,2025,2025-08-25 17:30:00,Athletic Club,Rayo Vallecano,1.0,0.0,1.68759,0.493587
+la_liga,2025,2025-08-25 19:30:00,Sevilla,Getafe,1.0,2.0,0.833075,1.32944
+la_liga,2025,2025-08-27 19:00:00,Celta Vigo,Real Betis,1.0,1.0,0.905201,0.714458
+la_liga,2025,2025-08-29 17:30:00,Elche,Levante,2.0,0.0,1.44309,0.969663
+la_liga,2025,2025-08-29 19:30:00,Valencia,Getafe,3.0,0.0,1.54336,0.757418
+la_liga,2025,2025-08-30 15:00:00,Alaves,Atletico Madrid,1.0,1.0,0.855094,0.960547
+la_liga,2025,2025-08-30 17:00:00,Real Oviedo,Real Sociedad,1.0,0.0,0.45706,0.92221
+la_liga,2025,2025-08-30 17:30:00,Girona,Sevilla,0.0,2.0,2.00908,1.62032
+la_liga,2025,2025-08-30 19:30:00,Real Madrid,Mallorca,2.0,1.0,1.84116,0.549872
+la_liga,2025,2025-08-31 15:00:00,Celta Vigo,Villarreal,1.0,1.0,0.876041,0.96978
+la_liga,2025,2025-08-31 17:00:00,Real Betis,Athletic Club,1.0,2.0,0.716186,1.11141
+la_liga,2025,2025-08-31 17:30:00,Espanyol,Osasuna,1.0,0.0,1.36886,1.38167
+la_liga,2025,2025-08-31 19:30:00,Rayo Vallecano,Barcelona,1.0,1.0,1.87124,2.35774
+la_liga,2025,2025-09-12 19:00:00,Sevilla,Elche,2.0,2.0,0.346397,0.781151
+la_liga,2025,2025-09-13 12:00:00,Getafe,Real Oviedo,2.0,0.0,0.954087,0.369812
+la_liga,2025,2025-09-13 14:15:00,Real Sociedad,Real Madrid,1.0,2.0,3.14772,2.54171
+la_liga,2025,2025-09-13 16:30:00,Athletic Club,Alaves,0.0,1.0,0.866662,0.090756
+la_liga,2025,2025-09-13 19:00:00,Atletico Madrid,Villarreal,2.0,0.0,1.5106,0.668177
+la_liga,2025,2025-09-14 12:00:00,Celta Vigo,Girona,1.0,1.0,1.80278,1.41213
+la_liga,2025,2025-09-14 14:15:00,Levante,Real Betis,2.0,2.0,1.02425,2.19546
+la_liga,2025,2025-09-14 16:30:00,Osasuna,Rayo Vallecano,2.0,0.0,1.4012,0.979149
+la_liga,2025,2025-09-14 19:00:00,Barcelona,Valencia,6.0,0.0,3.46022,0.12495
+la_liga,2025,2025-09-15 19:00:00,Espanyol,Mallorca,3.0,2.0,2.67405,2.03185
+la_liga,2025,2025-09-19 19:00:00,Real Betis,Real Sociedad,3.0,1.0,2.53579,0.606673
+la_liga,2025,2025-09-20 12:00:00,Girona,Levante,0.0,4.0,0.423855,4.50183
+la_liga,2025,2025-09-20 14:15:00,Real Madrid,Espanyol,2.0,0.0,2.06136,0.969443
+la_liga,2025,2025-09-20 16:30:00,Alaves,Sevilla,1.0,2.0,0.910257,0.891992
+la_liga,2025,2025-09-20 16:30:00,Villarreal,Osasuna,2.0,1.0,3.56395,1.95599
+la_liga,2025,2025-09-20 19:00:00,Valencia,Athletic Club,2.0,0.0,2.01007,0.499198
+la_liga,2025,2025-09-21 12:00:00,Rayo Vallecano,Celta Vigo,1.0,1.0,1.3145,1.28175
+la_liga,2025,2025-09-21 14:15:00,Mallorca,Atletico Madrid,1.0,1.0,0.530939,2.08772
+la_liga,2025,2025-09-21 16:30:00,Elche,Real Oviedo,1.0,0.0,1.57497,1.10565
+la_liga,2025,2025-09-21 19:00:00,Barcelona,Getafe,3.0,0.0,2.96429,0.215949
+la_liga,2025,2025-09-23 17:00:00,Athletic Club,Girona,1.0,1.0,2.02629,0.856618
+la_liga,2025,2025-09-23 17:00:00,Espanyol,Valencia,2.0,2.0,3.31313,1.00785
+la_liga,2025,2025-09-23 19:30:00,Levante,Real Madrid,1.0,4.0,1.70121,4.06315
+la_liga,2025,2025-09-23 19:30:00,Sevilla,Villarreal,1.0,2.0,0.83617,2.40523
+la_liga,2025,2025-09-24 17:00:00,Getafe,Alaves,1.0,1.0,0.576203,1.21176
+la_liga,2025,2025-09-24 19:30:00,Atletico Madrid,Rayo Vallecano,3.0,2.0,4.95017,1.61988
+la_liga,2025,2025-09-24 19:30:00,Real Sociedad,Mallorca,1.0,0.0,2.82857,0.641137
+la_liga,2025,2025-09-25 17:30:00,Osasuna,Elche,1.0,1.0,1.17524,1.05089
+la_liga,2025,2025-09-25 19:30:00,Real Oviedo,Barcelona,1.0,3.0,1.45014,2.07001
+la_liga,2025,2025-09-26 19:00:00,Girona,Espanyol,0.0,0.0,1.07661,0.949116
+la_liga,2025,2025-09-27 12:00:00,Getafe,Levante,1.0,1.0,0.830967,1.27833
+la_liga,2025,2025-09-27 14:15:00,Atletico Madrid,Real Madrid,5.0,2.0,2.79075,1.02797
+la_liga,2025,2025-09-27 16:30:00,Mallorca,Alaves,1.0,0.0,1.04267,0.566415
+la_liga,2025,2025-09-27 19:00:00,Villarreal,Athletic Club,1.0,0.0,1.86396,1.56287
+la_liga,2025,2025-09-28 12:00:00,Rayo Vallecano,Sevilla,0.0,1.0,1.89093,0.579597
+la_liga,2025,2025-09-28 14:15:00,Elche,Celta Vigo,2.0,1.0,4.03596,0.821768
+la_liga,2025,2025-09-28 16:30:00,Barcelona,Real Sociedad,2.0,1.0,3.00954,0.957079
+la_liga,2025,2025-09-28 19:00:00,Real Betis,Osasuna,2.0,0.0,1.18955,0.578485
+la_liga,2025,2025-09-29 19:00:00,Valencia,Real Oviedo,1.0,2.0,1.72261,0.997143
+la_liga,2025,2025-10-03 19:00:00,Osasuna,Getafe,2.0,1.0,0.692026,0.856515
+la_liga,2025,2025-10-04 12:00:00,Real Oviedo,Levante,0.0,2.0,1.08551,1.62121
+la_liga,2025,2025-10-04 14:15:00,Girona,Valencia,2.0,1.0,1.16415,2.22808
+la_liga,2025,2025-10-04 16:30:00,Athletic Club,Mallorca,2.0,1.0,1.73351,0.213773
+la_liga,2025,2025-10-04 19:00:00,Real Madrid,Villarreal,3.0,1.0,4.32336,0.956644
+la_liga,2025,2025-10-05 12:00:00,Alaves,Elche,3.0,1.0,2.85063,0.661537
+la_liga,2025,2025-10-05 14:15:00,Sevilla,Barcelona,4.0,1.0,2.89414,2.4823
+la_liga,2025,2025-10-05 16:30:00,Espanyol,Real Betis,1.0,2.0,2.0699,1.43721
+la_liga,2025,2025-10-05 16:30:00,Real Sociedad,Rayo Vallecano,0.0,1.0,0.768998,0.684504
+la_liga,2025,2025-10-05 19:00:00,Celta Vigo,Atletico Madrid,1.0,1.0,2.27285,0.710823
+la_liga,2025,2025-10-17 19:00:00,Real Oviedo,Espanyol,0.0,2.0,1.21155,4.46256
+la_liga,2025,2025-10-18 12:00:00,Sevilla,Mallorca,1.0,3.0,1.25884,1.95555
+la_liga,2025,2025-10-18 14:15:00,Barcelona,Girona,2.0,1.0,2.41958,1.69375
+la_liga,2025,2025-10-18 16:30:00,Villarreal,Real Betis,2.0,2.0,0.980598,0.895532
+la_liga,2025,2025-10-18 19:00:00,Atletico Madrid,Osasuna,1.0,0.0,2.24415,0.981492
+la_liga,2025,2025-10-19 12:00:00,Elche,Athletic Club,0.0,0.0,0.823916,0.240214
+la_liga,2025,2025-10-19 14:15:00,Celta Vigo,Real Sociedad,1.0,1.0,0.717367,2.13562
+la_liga,2025,2025-10-19 16:30:00,Levante,Rayo Vallecano,0.0,3.0,0.940509,2.53118
+la_liga,2025,2025-10-19 19:00:00,Getafe,Real Madrid,0.0,1.0,0.530119,2.14595
+la_liga,2025,2025-10-20 19:00:00,Alaves,Valencia,0.0,0.0,1.05624,0.318076
+la_liga,2025,2025-10-24 19:00:00,Real Sociedad,Sevilla,2.0,1.0,1.64382,0.247146
+la_liga,2025,2025-10-25 12:00:00,Girona,Real Oviedo,3.0,3.0,2.24132,2.22406
+la_liga,2025,2025-10-25 14:15:00,Espanyol,Elche,1.0,0.0,1.70342,1.11414
+la_liga,2025,2025-10-25 16:30:00,Athletic Club,Getafe,0.0,1.0,0.358524,1.00378
+la_liga,2025,2025-10-25 19:00:00,Valencia,Villarreal,0.0,2.0,0.641435,2.62387
+la_liga,2025,2025-10-26 13:00:00,Mallorca,Levante,1.0,1.0,1.86979,2.3579
+la_liga,2025,2025-10-26 15:15:00,Real Madrid,Barcelona,2.0,1.0,3.41322,1.12434
+la_liga,2025,2025-10-26 17:30:00,Osasuna,Celta Vigo,2.0,3.0,2.318,1.54054
+la_liga,2025,2025-10-26 20:00:00,Rayo Vallecano,Alaves,1.0,0.0,1.54971,1.41466
+la_liga,2025,2025-10-27 20:00:00,Real Betis,Atletico Madrid,0.0,2.0,1.33792,0.876554
+la_liga,2025,2025-10-31 20:00:00,Getafe,Girona,2.0,1.0,1.40213,1.54366
+la_liga,2025,2025-11-01 13:00:00,Villarreal,Rayo Vallecano,4.0,0.0,2.7136,1.08632
+la_liga,2025,2025-11-01 15:15:00,Atletico Madrid,Sevilla,3.0,0.0,2.98632,0.376887
+la_liga,2025,2025-11-01 17:30:00,Real Sociedad,Athletic Club,3.0,2.0,1.8412,1.13112
+la_liga,2025,2025-11-01 20:00:00,Real Madrid,Valencia,4.0,0.0,2.89965,0.292177
+la_liga,2025,2025-11-02 13:00:00,Levante,Celta Vigo,1.0,2.0,1.23651,1.92474
+la_liga,2025,2025-11-02 15:15:00,Alaves,Espanyol,2.0,1.0,2.18038,1.04283
+la_liga,2025,2025-11-02 17:30:00,Barcelona,Elche,3.0,1.0,2.8073,0.549079
+la_liga,2025,2025-11-02 20:00:00,Real Betis,Mallorca,3.0,0.0,2.82134,0.749852
+la_liga,2025,2025-11-03 20:00:00,Real Oviedo,Osasuna,0.0,0.0,0.717473,0.626317
+la_liga,2025,2025-11-07 20:00:00,Elche,Real Sociedad,1.0,1.0,0.808307,1.47221
+la_liga,2025,2025-11-08 13:00:00,Girona,Alaves,1.0,0.0,1.26365,2.00772
+la_liga,2025,2025-11-08 15:15:00,Sevilla,Osasuna,1.0,0.0,1.22271,0.967352
+la_liga,2025,2025-11-08 17:30:00,Atletico Madrid,Levante,3.0,1.0,3.03599,1.29112
+la_liga,2025,2025-11-08 20:00:00,Espanyol,Villarreal,0.0,2.0,0.476157,1.47118
+la_liga,2025,2025-11-09 13:00:00,Athletic Club,Real Oviedo,1.0,0.0,2.65219,0.182696
+la_liga,2025,2025-11-09 15:15:00,Rayo Vallecano,Real Madrid,0.0,0.0,1.60641,0.841463
+la_liga,2025,2025-11-09 17:30:00,Mallorca,Getafe,1.0,0.0,1.30353,0.539674
+la_liga,2025,2025-11-09 17:30:00,Valencia,Real Betis,1.0,1.0,1.95148,1.58932
+la_liga,2025,2025-11-09 20:00:00,Celta Vigo,Barcelona,2.0,4.0,0.512253,3.42936
+la_liga,2025,2025-11-21 20:00:00,Valencia,Levante,1.0,0.0,1.65038,0.67426
+la_liga,2025,2025-11-22 13:00:00,Alaves,Celta Vigo,0.0,1.0,0.3056,1.32351
+la_liga,2025,2025-11-22 15:15:00,Barcelona,Athletic Club,4.0,0.0,2.32922,1.04615
+la_liga,2025,2025-11-22 17:30:00,Osasuna,Real Sociedad,1.0,3.0,1.27964,1.76546
+la_liga,2025,2025-11-22 20:00:00,Villarreal,Mallorca,2.0,1.0,2.6371,1.38464
+la_liga,2025,2025-11-23 13:00:00,Real Oviedo,Rayo Vallecano,0.0,0.0,0.499406,0.922998
+la_liga,2025,2025-11-23 15:15:00,Real Betis,Girona,1.0,1.0,1.5784,1.48903
+la_liga,2025,2025-11-23 17:30:00,Getafe,Atletico Madrid,0.0,1.0,0.578828,1.47677
+la_liga,2025,2025-11-23 20:00:00,Elche,Real Madrid,2.0,2.0,1.59518,3.88258
+la_liga,2025,2025-11-24 20:00:00,Espanyol,Sevilla,2.0,1.0,1.16625,1.80002
+la_liga,2025,2025-11-28 20:00:00,Getafe,Elche,1.0,0.0,1.34046,0.448894
+la_liga,2025,2025-11-29 13:00:00,Mallorca,Osasuna,2.0,2.0,1.10581,1.11108
+la_liga,2025,2025-11-29 15:15:00,Barcelona,Alaves,3.0,1.0,2.51096,2.09256
+la_liga,2025,2025-11-29 17:30:00,Levante,Athletic Club,0.0,2.0,1.20253,2.80864
+la_liga,2025,2025-11-29 20:00:00,Atletico Madrid,Real Oviedo,2.0,0.0,2.40693,0.921985
+la_liga,2025,2025-11-30 13:00:00,Real Sociedad,Villarreal,2.0,3.0,1.3715,1.63038
+la_liga,2025,2025-11-30 15:15:00,Sevilla,Real Betis,0.0,2.0,0.735196,1.17861
+la_liga,2025,2025-11-30 17:30:00,Celta Vigo,Espanyol,0.0,1.0,0.635572,0.599243
+la_liga,2025,2025-11-30 20:00:00,Girona,Real Madrid,1.0,1.0,1.05171,2.21359
+la_liga,2025,2025-12-01 20:00:00,Rayo Vallecano,Valencia,1.0,1.0,2.13298,0.897663
+la_liga,2025,2025-12-02 20:00:00,Barcelona,Atletico Madrid,3.0,1.0,3.46121,1.35018
+la_liga,2025,2025-12-03 18:00:00,Athletic Club,Real Madrid,0.0,3.0,0.917315,2.36743
+la_liga,2025,2025-12-05 20:00:00,Real Oviedo,Mallorca,0.0,0.0,1.60009,0.617185
+la_liga,2025,2025-12-06 13:00:00,Villarreal,Getafe,2.0,0.0,0.816941,0.282254
+la_liga,2025,2025-12-06 15:15:00,Alaves,Real Sociedad,1.0,0.0,1.88765,1.09935
+la_liga,2025,2025-12-06 17:30:00,Real Betis,Barcelona,3.0,5.0,2.74214,3.30288
+la_liga,2025,2025-12-06 20:00:00,Athletic Club,Atletico Madrid,1.0,0.0,1.18636,0.771885
+la_liga,2025,2025-12-07 13:00:00,Elche,Girona,3.0,0.0,1.59513,0.781043
+la_liga,2025,2025-12-07 15:15:00,Valencia,Sevilla,1.0,1.0,1.23901,0.635478
+la_liga,2025,2025-12-07 17:30:00,Espanyol,Rayo Vallecano,1.0,0.0,1.57985,0.285545
+la_liga,2025,2025-12-07 20:00:00,Real Madrid,Celta Vigo,0.0,2.0,2.41681,1.60908
+la_liga,2025,2025-12-08 20:00:00,Osasuna,Levante,2.0,0.0,1.74988,0.544977
+la_liga,2025,2025-12-12 20:00:00,Real Sociedad,Girona,1.0,2.0,1.02349,1.16894
+la_liga,2025,2025-12-13 13:00:00,Atletico Madrid,Valencia,2.0,1.0,2.07076,1.26068
+la_liga,2025,2025-12-13 15:15:00,Mallorca,Elche,3.0,1.0,2.581,0.311674
+la_liga,2025,2025-12-13 17:30:00,Barcelona,Osasuna,2.0,0.0,2.14468,0.228217
+la_liga,2025,2025-12-13 20:00:00,Getafe,Espanyol,0.0,1.0,0.305925,0.75472
+la_liga,2025,2025-12-14 13:00:00,Sevilla,Real Oviedo,4.0,0.0,2.31899,0.416975
+la_liga,2025,2025-12-14 15:15:00,Celta Vigo,Athletic Club,2.0,0.0,1.97074,1.66561
+la_liga,2025,2025-12-14 20:00:00,Alaves,Real Madrid,1.0,2.0,1.313,1.90656
+la_liga,2025,2025-12-15 20:00:00,Rayo Vallecano,Real Betis,0.0,0.0,2.1848,0.788766
+la_liga,2025,2025-12-19 20:00:00,Valencia,Mallorca,1.0,1.0,2.16012,0.199412
+la_liga,2025,2025-12-20 13:00:00,Real Oviedo,Celta Vigo,0.0,0.0,0.517531,0.600009
+la_liga,2025,2025-12-20 15:15:00,Levante,Real Sociedad,1.0,1.0,1.22005,1.62986
+la_liga,2025,2025-12-20 17:30:00,Osasuna,Alaves,3.0,0.0,2.39145,0.718671
+la_liga,2025,2025-12-20 20:00:00,Real Madrid,Sevilla,2.0,0.0,4.00139,1.51418
+la_liga,2025,2025-12-21 13:00:00,Girona,Atletico Madrid,0.0,3.0,1.11565,1.26201
+la_liga,2025,2025-12-21 15:15:00,Villarreal,Barcelona,0.0,2.0,2.16466,3.27381
+la_liga,2025,2025-12-21 17:30:00,Elche,Rayo Vallecano,4.0,0.0,3.66996,1.14923
+la_liga,2025,2025-12-21 20:00:00,Real Betis,Getafe,4.0,0.0,3.46022,1.24726
+la_liga,2025,2025-12-22 20:00:00,Athletic Club,Espanyol,1.0,2.0,1.72282,0.908988
+la_liga,2025,2026-01-02 20:00:00,Rayo Vallecano,Getafe,1.0,1.0,0.662324,0.663898
+la_liga,2025,2026-01-03 13:00:00,Celta Vigo,Valencia,4.0,1.0,2.59029,1.79296
+la_liga,2025,2026-01-03 15:15:00,Osasuna,Athletic Club,1.0,1.0,0.868051,1.554
+la_liga,2025,2026-01-03 17:30:00,Elche,Villarreal,1.0,3.0,1.52119,2.635
+la_liga,2025,2026-01-03 20:00:00,Espanyol,Barcelona,0.0,2.0,1.79661,2.94252
+la_liga,2025,2026-01-04 13:00:00,Sevilla,Levante,0.0,3.0,1.66562,1.65102
+la_liga,2025,2026-01-04 15:15:00,Real Madrid,Real Betis,5.0,1.0,3.0073,0.974623
+la_liga,2025,2026-01-04 17:30:00,Alaves,Real Oviedo,1.0,1.0,1.56756,3.21906
+la_liga,2025,2026-01-04 17:30:00,Mallorca,Girona,1.0,2.0,1.48338,1.45714
+la_liga,2025,2026-01-04 20:00:00,Real Sociedad,Atletico Madrid,1.0,1.0,1.70649,1.37325
+la_liga,2025,2026-01-09 20:00:00,Getafe,Real Sociedad,1.0,2.0,0.240168,1.25801
+la_liga,2025,2026-01-10 13:00:00,Real Oviedo,Real Betis,1.0,1.0,1.01026,2.70809
+la_liga,2025,2026-01-10 15:15:00,Villarreal,Alaves,3.0,1.0,1.38322,0.844572
+la_liga,2025,2026-01-10 17:30:00,Girona,Osasuna,1.0,0.0,0.984024,1.22674
+la_liga,2025,2026-01-10 20:00:00,Valencia,Elche,1.0,1.0,2.04147,0.244413
+la_liga,2025,2026-01-11 13:00:00,Rayo Vallecano,Mallorca,2.0,1.0,2.05105,1.05743
+la_liga,2025,2026-01-11 15:15:00,Levante,Espanyol,1.0,1.0,1.18232,1.58922
+la_liga,2025,2026-01-12 20:00:00,Sevilla,Celta Vigo,0.0,1.0,0.262521,2.07629
+la_liga,2025,2026-01-16 20:00:00,Espanyol,Girona,0.0,2.0,1.26738,1.82377
+la_liga,2025,2026-01-17 13:00:00,Real Madrid,Levante,2.0,0.0,2.54865,0.787501
+la_liga,2025,2026-01-17 15:15:00,Mallorca,Athletic Club,3.0,2.0,3.11432,2.28242
+la_liga,2025,2026-01-17 17:30:00,Osasuna,Real Oviedo,3.0,2.0,2.03551,1.36173
+la_liga,2025,2026-01-17 20:00:00,Real Betis,Villarreal,2.0,0.0,1.34951,1.17907
+la_liga,2025,2026-01-18 13:00:00,Getafe,Valencia,0.0,1.0,0.584591,0.746856
+la_liga,2025,2026-01-18 15:15:00,Atletico Madrid,Alaves,1.0,0.0,1.7743,1.21004
+la_liga,2025,2026-01-18 17:30:00,Celta Vigo,Rayo Vallecano,3.0,0.0,1.90274,1.31932
+la_liga,2025,2026-01-18 20:00:00,Real Sociedad,Barcelona,2.0,1.0,1.55875,3.92031
+la_liga,2025,2026-01-19 20:00:00,Elche,Sevilla,2.0,2.0,1.48075,2.4961
+la_liga,2025,2026-01-23 20:00:00,Levante,Elche,3.0,2.0,3.24455,0.632971
+la_liga,2025,2026-01-24 13:00:00,Rayo Vallecano,Osasuna,1.0,3.0,0.669564,1.36861
+la_liga,2025,2026-01-24 15:15:00,Valencia,Espanyol,3.0,2.0,2.76956,1.75941
+la_liga,2025,2026-01-24 17:30:00,Sevilla,Athletic Club,2.0,1.0,1.43055,1.91259
+la_liga,2025,2026-01-24 20:00:00,Villarreal,Real Madrid,0.0,2.0,0.952831,1.62206
+la_liga,2025,2026-01-25 13:00:00,Atletico Madrid,Mallorca,3.0,0.0,1.42501,0.367893
+la_liga,2025,2026-01-25 15:15:00,Barcelona,Real Oviedo,3.0,0.0,2.59917,0.486404
+la_liga,2025,2026-01-25 17:30:00,Real Sociedad,Celta Vigo,3.0,1.0,2.15496,1.63115
+la_liga,2025,2026-01-25 20:00:00,Alaves,Real Betis,2.0,1.0,1.67102,1.78662
+la_liga,2025,2026-01-26 20:00:00,Girona,Getafe,1.0,1.0,1.01571,1.1089
+la_liga,2025,2026-01-30 20:00:00,Espanyol,Alaves,1.0,2.0,1.20096,1.32248
+la_liga,2025,2026-01-31 13:00:00,Real Oviedo,Girona,1.0,0.0,1.26601,0.664225
+la_liga,2025,2026-01-31 15:15:00,Osasuna,Villarreal,2.0,2.0,2.13467,0.911128
+la_liga,2025,2026-01-31 17:30:00,Levante,Atletico Madrid,0.0,0.0,0.41109,0.615283
+la_liga,2025,2026-01-31 20:00:00,Elche,Barcelona,1.0,3.0,0.839,7.11049
+la_liga,2025,2026-02-01 13:00:00,Real Madrid,Rayo Vallecano,2.0,1.0,2.30208,1.06935
+la_liga,2025,2026-02-01 15:15:00,Real Betis,Valencia,2.0,1.0,2.16883,1.88674
+la_liga,2025,2026-02-01 17:30:00,Getafe,Celta Vigo,0.0,0.0,0.499866,0.256881
+la_liga,2025,2026-02-01 20:00:00,Athletic Club,Real Sociedad,1.0,1.0,0.893754,1.58578
+la_liga,2025,2026-02-02 20:00:00,Mallorca,Sevilla,4.0,1.0,3.04346,1.24318
+la_liga,2025,2026-02-06 20:00:00,Celta Vigo,Osasuna,1.0,2.0,2.0351,1.00253
+la_liga,2025,2026-02-07 15:15:00,Barcelona,Mallorca,3.0,0.0,2.48168,1.01087
+la_liga,2025,2026-02-07 20:00:00,Real Sociedad,Elche,3.0,1.0,1.7719,1.08664
+la_liga,2025,2026-02-08 13:00:00,Alaves,Getafe,0.0,2.0,3.01162,1.7859
+la_liga,2025,2026-02-08 15:15:00,Athletic Club,Levante,4.0,2.0,2.77377,0.615311
+la_liga,2025,2026-02-08 15:15:00,Sevilla,Girona,1.0,1.0,0.958247,2.60199
+la_liga,2025,2026-02-08 17:30:00,Atletico Madrid,Real Betis,0.0,1.0,0.625525,0.839838
+la_liga,2025,2026-02-08 20:00:00,Valencia,Real Madrid,0.0,2.0,0.571838,1.04576
+la_liga,2025,2026-02-09 20:00:00,Villarreal,Espanyol,4.0,1.0,1.53925,0.744747
+la_liga,2025,2026-02-13 20:00:00,Elche,Osasuna,0.0,0.0,2.33332,0.81264
+la_liga,2025,2026-02-14 13:00:00,Espanyol,Celta Vigo,2.0,2.0,1.16112,2.81494
+la_liga,2025,2026-02-14 15:15:00,Getafe,Villarreal,2.0,1.0,1.61761,0.969388
+la_liga,2025,2026-02-14 17:30:00,Sevilla,Alaves,1.0,1.0,0.354256,1.38983
+la_liga,2025,2026-02-14 20:00:00,Real Madrid,Real Sociedad,4.0,1.0,3.05918,1.66018
+la_liga,2025,2026-02-15 13:00:00,Real Oviedo,Athletic Club,1.0,2.0,0.861013,1.20566
+la_liga,2025,2026-02-15 15:15:00,Rayo Vallecano,Atletico Madrid,3.0,0.0,2.75329,0.752854
+la_liga,2025,2026-02-15 17:30:00,Levante,Valencia,0.0,2.0,1.45737,0.743814
+la_liga,2025,2026-02-15 20:00:00,Mallorca,Real Betis,1.0,2.0,0.731317,2.04841
+la_liga,2025,2026-02-16 20:00:00,Girona,Barcelona,2.0,1.0,2.8897,2.69655
+la_liga,2025,2026-02-18 19:00:00,Levante,Villarreal,0.0,1.0,0.774339,2.40024
+la_liga,2025,2026-02-20 20:00:00,Athletic Club,Elche,2.0,1.0,3.38352,0.783583
+la_liga,2025,2026-02-21 13:00:00,Real Sociedad,Real Oviedo,3.0,3.0,2.77486,1.75088
+la_liga,2025,2026-02-21 15:15:00,Real Betis,Rayo Vallecano,1.0,1.0,2.13548,1.30345
+la_liga,2025,2026-02-21 17:30:00,Osasuna,Real Madrid,2.0,1.0,2.31248,2.02307
+la_liga,2025,2026-02-21 20:00:00,Atletico Madrid,Espanyol,4.0,2.0,3.28587,1.04114
+la_liga,2025,2026-02-22 13:00:00,Getafe,Sevilla,0.0,1.0,0.250539,0.283172
+la_liga,2025,2026-02-22 15:15:00,Barcelona,Levante,3.0,0.0,4.24402,0.602552
+la_liga,2025,2026-02-22 17:30:00,Celta Vigo,Mallorca,2.0,0.0,2.93904,0.0207331
+la_liga,2025,2026-02-22 20:00:00,Villarreal,Valencia,2.0,1.0,2.38144,1.91256
+la_liga,2025,2026-02-23 20:00:00,Alaves,Girona,2.0,2.0,2.1366,2.05717
+la_liga,2025,2026-02-27 20:00:00,Levante,Alaves,2.0,0.0,2.77253,1.29855
+la_liga,2025,2026-02-28 13:00:00,Rayo Vallecano,Athletic Club,1.0,1.0,1.35951,0.428457
+la_liga,2025,2026-02-28 15:15:00,Barcelona,Villarreal,4.0,1.0,3.54743,1.36182
+la_liga,2025,2026-02-28 17:30:00,Mallorca,Real Sociedad,0.0,1.0,0.754182,0.929702
+la_liga,2025,2026-02-28 20:00:00,Real Oviedo,Atletico Madrid,0.0,1.0,1.50089,0.853142
+la_liga,2025,2026-03-01 13:00:00,Elche,Espanyol,2.0,2.0,1.82376,0.834858
+la_liga,2025,2026-03-01 15:15:00,Valencia,Osasuna,1.0,0.0,1.31076,0.259132
+la_liga,2025,2026-03-01 17:30:00,Real Betis,Sevilla,2.0,2.0,1.48441,0.656164
+la_liga,2025,2026-03-01 20:00:00,Girona,Celta Vigo,1.0,2.0,1.57036,0.697106
+la_liga,2025,2026-03-02 20:00:00,Real Madrid,Getafe,0.0,1.0,2.02274,0.476324
+la_liga,2025,2026-03-04 18:00:00,Rayo Vallecano,Real Oviedo,3.0,0.0,2.55086,1.01052
+la_liga,2025,2026-03-06 20:00:00,Celta Vigo,Real Madrid,1.0,2.0,0.910298,0.637644
+la_liga,2025,2026-03-07 13:00:00,Osasuna,Mallorca,2.0,2.0,3.09031,1.03165
+la_liga,2025,2026-03-07 15:15:00,Levante,Girona,1.0,1.0,0.819009,1.917
+la_liga,2025,2026-03-07 17:30:00,Atletico Madrid,Real Sociedad,3.0,2.0,3.57972,0.313932
+la_liga,2025,2026-03-07 20:00:00,Athletic Club,Barcelona,0.0,1.0,1.04698,0.560009
+la_liga,2025,2026-03-08 13:00:00,Villarreal,Elche,2.0,1.0,2.30632,1.62051
+la_liga,2025,2026-03-08 15:15:00,Getafe,Real Betis,2.0,0.0,0.821088,1.24912
+la_liga,2025,2026-03-08 17:30:00,Sevilla,Rayo Vallecano,1.0,1.0,1.14573,0.211673
+la_liga,2025,2026-03-08 20:00:00,Valencia,Alaves,3.0,2.0,2.51657,1.60795
+la_liga,2025,2026-03-09 20:00:00,Espanyol,Real Oviedo,1.0,1.0,1.55092,0.886689
+la_liga,2025,2026-03-13 20:00:00,Alaves,Villarreal,1.0,1.0,0.287232,0.873846
+la_liga,2025,2026-03-14 13:00:00,Girona,Athletic Club,3.0,0.0,2.19442,1.97271
+la_liga,2025,2026-03-14 15:15:00,Atletico Madrid,Getafe,1.0,0.0,2.14469,1.58248
+la_liga,2025,2026-03-14 17:30:00,Real Oviedo,Valencia,1.0,0.0,1.8648,0.486871
+la_liga,2025,2026-03-14 20:00:00,Real Madrid,Elche,4.0,1.0,1.72531,1.3711
+la_liga,2025,2026-03-15 13:00:00,Mallorca,Espanyol,2.0,1.0,2.1497,1.35243
+la_liga,2025,2026-03-15 15:15:00,Barcelona,Sevilla,5.0,2.0,3.8639,1.04304
+la_liga,2025,2026-03-15 17:30:00,Real Betis,Celta Vigo,1.0,1.0,1.87752,0.646702
+la_liga,2025,2026-03-15 20:00:00,Real Sociedad,Osasuna,3.0,1.0,2.91429,0.615126
+la_liga,2025,2026-03-16 20:00:00,Rayo Vallecano,Levante,1.0,1.0,1.68134,1.45599
+la_liga,2025,2026-03-20 20:00:00,Villarreal,Real Sociedad,3.0,1.0,3.35586,0.894953
+la_liga,2025,2026-03-21 13:00:00,Elche,Mallorca,2.0,1.0,1.51605,1.51939
+la_liga,2025,2026-03-21 15:15:00,Espanyol,Getafe,1.0,2.0,1.51208,2.06384
+la_liga,2025,2026-03-21 17:30:00,Levante,Real Oviedo,4.0,2.0,2.92669,1.33569
+la_liga,2025,2026-03-21 17:30:00,Osasuna,Girona,1.0,0.0,2.26232,0.232115
+la_liga,2025,2026-03-21 20:00:00,Sevilla,Valencia,0.0,2.0,0.505411,1.7133
+la_liga,2025,2026-03-22 13:00:00,Barcelona,Rayo Vallecano,1.0,0.0,1.92205,2.19631
+la_liga,2025,2026-03-22 15:15:00,Celta Vigo,Alaves,3.0,4.0,1.70969,1.67221
+la_liga,2025,2026-03-22 17:30:00,Athletic Club,Real Betis,2.0,1.0,1.92715,0.591202
+la_liga,2025,2026-03-22 20:00:00,Real Madrid,Atletico Madrid,3.0,2.0,2.96605,1.40234
+la_liga,2025,2026-04-03 19:00:00,Rayo Vallecano,Elche,1.0,0.0,1.51493,0.601974
+la_liga,2025,2026-04-04 12:00:00,Real Sociedad,Levante,2.0,0.0,2.96404,0.320219
+la_liga,2025,2026-04-04 14:15:00,Mallorca,Real Madrid,2.0,1.0,1.03875,1.51454
+la_liga,2025,2026-04-04 16:30:00,Real Betis,Espanyol,0.0,0.0,2.00215,0.144091
+la_liga,2025,2026-04-04 19:00:00,Atletico Madrid,Barcelona,1.0,2.0,0.919286,2.68584
+la_liga,2025,2026-04-05 12:00:00,Getafe,Athletic Club,2.0,0.0,1.96345,0.524379
+la_liga,2025,2026-04-05 14:15:00,Valencia,Celta Vigo,2.0,3.0,0.720964,1.457
+la_liga,2025,2026-04-05 16:30:00,Real Oviedo,Sevilla,1.0,0.0,0.785105,0.840736
+la_liga,2025,2026-04-05 19:00:00,Alaves,Osasuna,2.0,2.0,1.65967,1.61149
+la_liga,2025,2026-04-06 19:00:00,Girona,Villarreal,1.0,0.0,0.653493,0.443518
+la_liga,2025,2026-04-10 19:00:00,Real Madrid,Girona,1.0,1.0,1.98086,0.46667
+la_liga,2025,2026-04-11 12:00:00,Real Sociedad,Alaves,3.0,3.0,1.295,1.206
+la_liga,2025,2026-04-11 14:15:00,Elche,Valencia,1.0,0.0,1.03489,2.76889
+la_liga,2025,2026-04-11 16:30:00,Barcelona,Espanyol,,,,
+la_liga,2025,2026-04-11 19:00:00,Sevilla,Atletico Madrid,,,,
+la_liga,2025,2026-04-12 12:00:00,Osasuna,Real Betis,,,,
+la_liga,2025,2026-04-12 14:15:00,Mallorca,Rayo Vallecano,,,,
+la_liga,2025,2026-04-12 16:30:00,Celta Vigo,Real Oviedo,,,,
+la_liga,2025,2026-04-12 19:00:00,Athletic Club,Villarreal,,,,
+la_liga,2025,2026-04-13 19:00:00,Levante,Getafe,,,,
+la_liga,2025,2026-04-22 19:00:00,Athletic Club,Osasuna,,,,
+la_liga,2025,2026-04-22 19:00:00,Barcelona,Celta Vigo,,,,
+la_liga,2025,2026-04-22 19:00:00,Elche,Atletico Madrid,,,,
+la_liga,2025,2026-04-22 19:00:00,Girona,Real Betis,,,,
+la_liga,2025,2026-04-22 19:00:00,Levante,Sevilla,,,,
+la_liga,2025,2026-04-22 19:00:00,Mallorca,Valencia,,,,
+la_liga,2025,2026-04-22 19:00:00,Rayo Vallecano,Espanyol,,,,
+la_liga,2025,2026-04-22 19:00:00,Real Madrid,Alaves,,,,
+la_liga,2025,2026-04-22 19:00:00,Real Oviedo,Villarreal,,,,
+la_liga,2025,2026-04-22 19:00:00,Real Sociedad,Getafe,,,,
+la_liga,2025,2026-04-26 15:00:00,Alaves,Mallorca,,,,
+la_liga,2025,2026-04-26 15:00:00,Atletico Madrid,Athletic Club,,,,
+la_liga,2025,2026-04-26 15:00:00,Espanyol,Levante,,,,
+la_liga,2025,2026-04-26 15:00:00,Getafe,Barcelona,,,,
+la_liga,2025,2026-04-26 15:00:00,Osasuna,Sevilla,,,,
+la_liga,2025,2026-04-26 15:00:00,Rayo Vallecano,Real Sociedad,,,,
+la_liga,2025,2026-04-26 15:00:00,Real Betis,Real Madrid,,,,
+la_liga,2025,2026-04-26 15:00:00,Real Oviedo,Elche,,,,
+la_liga,2025,2026-04-26 15:00:00,Valencia,Girona,,,,
+la_liga,2025,2026-04-26 15:00:00,Villarreal,Celta Vigo,,,,
+la_liga,2025,2026-05-03 15:00:00,Alaves,Athletic Club,,,,
+la_liga,2025,2026-05-03 15:00:00,Celta Vigo,Elche,,,,
+la_liga,2025,2026-05-03 15:00:00,Espanyol,Real Madrid,,,,
+la_liga,2025,2026-05-03 15:00:00,Getafe,Rayo Vallecano,,,,
+la_liga,2025,2026-05-03 15:00:00,Girona,Mallorca,,,,
+la_liga,2025,2026-05-03 15:00:00,Osasuna,Barcelona,,,,
+la_liga,2025,2026-05-03 15:00:00,Real Betis,Real Oviedo,,,,
+la_liga,2025,2026-05-03 15:00:00,Sevilla,Real Sociedad,,,,
+la_liga,2025,2026-05-03 15:00:00,Valencia,Atletico Madrid,,,,
+la_liga,2025,2026-05-03 15:00:00,Villarreal,Levante,,,,
+la_liga,2025,2026-05-10 15:00:00,Athletic Club,Valencia,,,,
+la_liga,2025,2026-05-10 15:00:00,Atletico Madrid,Celta Vigo,,,,
+la_liga,2025,2026-05-10 15:00:00,Elche,Alaves,,,,
+la_liga,2025,2026-05-10 15:00:00,Levante,Osasuna,,,,
+la_liga,2025,2026-05-10 15:00:00,Mallorca,Villarreal,,,,
+la_liga,2025,2026-05-10 15:00:00,Rayo Vallecano,Girona,,,,
+la_liga,2025,2026-05-10 15:00:00,Real Oviedo,Getafe,,,,
+la_liga,2025,2026-05-10 15:00:00,Real Sociedad,Real Betis,,,,
+la_liga,2025,2026-05-10 15:00:00,Sevilla,Espanyol,,,,
+la_liga,2025,2026-05-10 19:00:00,Barcelona,Real Madrid,,,,
+la_liga,2025,2026-05-13 19:00:00,Alaves,Barcelona,,,,
+la_liga,2025,2026-05-13 19:00:00,Celta Vigo,Levante,,,,
+la_liga,2025,2026-05-13 19:00:00,Espanyol,Athletic Club,,,,
+la_liga,2025,2026-05-13 19:00:00,Getafe,Mallorca,,,,
+la_liga,2025,2026-05-13 19:00:00,Girona,Real Sociedad,,,,
+la_liga,2025,2026-05-13 19:00:00,Osasuna,Atletico Madrid,,,,
+la_liga,2025,2026-05-13 19:00:00,Real Betis,Elche,,,,
+la_liga,2025,2026-05-13 19:00:00,Real Madrid,Real Oviedo,,,,
+la_liga,2025,2026-05-13 19:00:00,Valencia,Rayo Vallecano,,,,
+la_liga,2025,2026-05-13 19:00:00,Villarreal,Sevilla,,,,
+la_liga,2025,2026-05-17 15:00:00,Athletic Club,Celta Vigo,,,,
+la_liga,2025,2026-05-17 15:00:00,Atletico Madrid,Girona,,,,
+la_liga,2025,2026-05-17 15:00:00,Barcelona,Real Betis,,,,
+la_liga,2025,2026-05-17 15:00:00,Elche,Getafe,,,,
+la_liga,2025,2026-05-17 15:00:00,Levante,Mallorca,,,,
+la_liga,2025,2026-05-17 15:00:00,Osasuna,Espanyol,,,,
+la_liga,2025,2026-05-17 15:00:00,Rayo Vallecano,Villarreal,,,,
+la_liga,2025,2026-05-17 15:00:00,Real Oviedo,Alaves,,,,
+la_liga,2025,2026-05-17 15:00:00,Real Sociedad,Valencia,,,,
+la_liga,2025,2026-05-17 15:00:00,Sevilla,Real Madrid,,,,
+la_liga,2025,2026-05-24 15:00:00,Alaves,Rayo Vallecano,,,,
+la_liga,2025,2026-05-24 15:00:00,Celta Vigo,Sevilla,,,,
+la_liga,2025,2026-05-24 15:00:00,Espanyol,Real Sociedad,,,,
+la_liga,2025,2026-05-24 15:00:00,Getafe,Osasuna,,,,
+la_liga,2025,2026-05-24 15:00:00,Girona,Elche,,,,
+la_liga,2025,2026-05-24 15:00:00,Mallorca,Real Oviedo,,,,
+la_liga,2025,2026-05-24 15:00:00,Real Betis,Levante,,,,
+la_liga,2025,2026-05-24 15:00:00,Real Madrid,Athletic Club,,,,
+la_liga,2025,2026-05-24 15:00:00,Valencia,Barcelona,,,,
+la_liga,2025,2026-05-24 15:00:00,Villarreal,Atletico Madrid,,,,
 ligue_1,2014,2014-08-08 19:30:00,Reims,Paris Saint Germain,2.0,2.0,1.36787,2.65538
 ligue_1,2014,2014-08-09 20:00:00,Evian Thonon Gaillard,Caen,0.0,3.0,0.813737,1.23869
 ligue_1,2014,2014-08-09 20:00:00,Guingamp,Saint-Etienne,0.0,2.0,0.63294,1.49532
@@ -11577,6 +12263,312 @@ ligue_1,2024,2025-05-17 19:00:00,Nice,Brest,6.0,0.0,5.0223,0.68904
 ligue_1,2024,2025-05-17 19:00:00,Paris Saint Germain,Auxerre,3.0,1.0,3.71972,0.9013
 ligue_1,2024,2025-05-17 19:00:00,Saint-Etienne,Toulouse,2.0,3.0,1.32698,3.82215
 ligue_1,2024,2025-05-17 19:00:00,Strasbourg,Le Havre,2.0,3.0,1.74414,2.49529
+ligue_1,2025,2025-08-15 18:45:00,Rennes,Marseille,1.0,0.0,1.31418,2.07298
+ligue_1,2025,2025-08-16 15:00:00,Lens,Lyon,0.0,1.0,1.87447,1.615
+ligue_1,2025,2025-08-16 17:00:00,Monaco,Le Havre,3.0,1.0,1.88048,0.427494
+ligue_1,2025,2025-08-16 19:05:00,Nice,Toulouse,0.0,1.0,0.95554,0.56945
+ligue_1,2025,2025-08-17 13:00:00,Brest,Lille,3.0,3.0,1.49573,1.84218
+ligue_1,2025,2025-08-17 15:15:00,Angers,Paris FC,1.0,0.0,0.82142,0.71125
+ligue_1,2025,2025-08-17 15:15:00,Auxerre,Lorient,1.0,0.0,1.4925,1.84516
+ligue_1,2025,2025-08-17 15:15:00,Metz,Strasbourg,0.0,1.0,0.184483,0.731013
+ligue_1,2025,2025-08-17 18:45:00,Nantes,Paris Saint Germain,0.0,1.0,0.124428,1.35682
+ligue_1,2025,2025-08-22 18:45:00,Paris Saint Germain,Angers,1.0,0.0,2.0878,0.176876
+ligue_1,2025,2025-08-23 15:00:00,Marseille,Paris FC,5.0,2.0,3.337,1.05457
+ligue_1,2025,2025-08-23 17:00:00,Nice,Auxerre,3.0,1.0,2.66284,2.24407
+ligue_1,2025,2025-08-23 19:05:00,Lyon,Metz,3.0,0.0,2.35479,0.504863
+ligue_1,2025,2025-08-24 13:00:00,Lorient,Rennes,4.0,0.0,3.4466,0.0728372
+ligue_1,2025,2025-08-24 15:15:00,Le Havre,Lens,1.0,2.0,2.0398,1.29098
+ligue_1,2025,2025-08-24 15:15:00,Strasbourg,Nantes,1.0,0.0,1.81743,0.425423
+ligue_1,2025,2025-08-24 15:15:00,Toulouse,Brest,2.0,0.0,1.32432,0.750148
+ligue_1,2025,2025-08-24 18:45:00,Lille,Monaco,1.0,0.0,2.41091,1.52213
+ligue_1,2025,2025-08-29 18:45:00,Lens,Brest,3.0,1.0,4.42054,0.963409
+ligue_1,2025,2025-08-30 15:00:00,Lorient,Lille,1.0,7.0,1.1603,3.70255
+ligue_1,2025,2025-08-30 17:00:00,Nantes,Auxerre,1.0,0.0,0.418091,1.10996
+ligue_1,2025,2025-08-30 19:05:00,Toulouse,Paris Saint Germain,3.0,6.0,2.33006,2.49609
+ligue_1,2025,2025-08-31 13:00:00,Angers,Rennes,1.0,1.0,1.58619,1.73758
+ligue_1,2025,2025-08-31 15:15:00,Le Havre,Nice,3.0,1.0,1.75553,0.715595
+ligue_1,2025,2025-08-31 15:15:00,Monaco,Strasbourg,3.0,2.0,2.35547,1.7732
+ligue_1,2025,2025-08-31 15:15:00,Paris FC,Metz,3.0,2.0,3.39898,1.6248
+ligue_1,2025,2025-08-31 18:45:00,Lyon,Marseille,1.0,0.0,3.15727,0.896862
+ligue_1,2025,2025-09-12 18:45:00,Marseille,Lorient,4.0,0.0,2.83367,0.187377
+ligue_1,2025,2025-09-13 15:00:00,Nice,Nantes,1.0,0.0,2.34645,0.775945
+ligue_1,2025,2025-09-13 19:05:00,Auxerre,Monaco,1.0,2.0,0.904229,1.62646
+ligue_1,2025,2025-09-14 13:00:00,Lille,Toulouse,2.0,1.0,2.42116,1.15678
+ligue_1,2025,2025-09-14 15:15:00,Brest,Paris FC,1.0,2.0,2.60519,1.85008
+ligue_1,2025,2025-09-14 15:15:00,Metz,Angers,1.0,1.0,1.76271,1.98184
+ligue_1,2025,2025-09-14 15:15:00,Paris Saint Germain,Lens,2.0,0.0,1.05815,1.2242
+ligue_1,2025,2025-09-14 15:15:00,Strasbourg,Le Havre,1.0,0.0,1.43354,0.524832
+ligue_1,2025,2025-09-14 18:45:00,Rennes,Lyon,3.0,1.0,2.20918,1.7381
+ligue_1,2025,2025-09-19 18:45:00,Lyon,Angers,1.0,0.0,2.20483,0.677354
+ligue_1,2025,2025-09-20 15:00:00,Nantes,Rennes,2.0,2.0,2.65629,1.44041
+ligue_1,2025,2025-09-20 17:00:00,Brest,Nice,4.0,1.0,2.07376,2.26393
+ligue_1,2025,2025-09-20 19:05:00,Lens,Lille,3.0,0.0,3.8174,1.89889
+ligue_1,2025,2025-09-21 13:00:00,Paris FC,Strasbourg,2.0,3.0,1.9014,2.46459
+ligue_1,2025,2025-09-21 15:15:00,Auxerre,Toulouse,1.0,0.0,0.883373,1.50957
+ligue_1,2025,2025-09-21 15:15:00,Le Havre,Lorient,1.0,1.0,2.23396,1.26993
+ligue_1,2025,2025-09-21 15:15:00,Monaco,Metz,5.0,2.0,3.497,1.91296
+ligue_1,2025,2025-09-22 18:45:00,Marseille,Paris Saint Germain,1.0,0.0,1.77744,0.919565
+ligue_1,2025,2025-09-26 18:45:00,Strasbourg,Marseille,1.0,2.0,1.0976,2.00258
+ligue_1,2025,2025-09-27 15:00:00,Lorient,Monaco,3.0,1.0,2.09364,0.894035
+ligue_1,2025,2025-09-27 17:00:00,Toulouse,Nantes,2.0,2.0,1.98573,1.8303
+ligue_1,2025,2025-09-27 19:05:00,Paris Saint Germain,Auxerre,2.0,0.0,2.11672,0.73132
+ligue_1,2025,2025-09-28 13:00:00,Nice,Paris FC,1.0,1.0,1.36997,1.49444
+ligue_1,2025,2025-09-28 15:15:00,Angers,Brest,0.0,2.0,0.501827,1.34192
+ligue_1,2025,2025-09-28 15:15:00,Lille,Lyon,0.0,1.0,1.65271,0.642572
+ligue_1,2025,2025-09-28 15:15:00,Metz,Le Havre,0.0,0.0,0.39939,0.395921
+ligue_1,2025,2025-09-28 18:45:00,Rennes,Lens,0.0,0.0,1.57438,1.51932
+ligue_1,2025,2025-10-03 18:45:00,Paris FC,Lorient,2.0,0.0,1.83687,0.855852
+ligue_1,2025,2025-10-04 15:00:00,Metz,Marseille,0.0,3.0,0.1529,2.67719
+ligue_1,2025,2025-10-04 17:00:00,Brest,Nantes,0.0,0.0,1.44552,0.489862
+ligue_1,2025,2025-10-04 19:05:00,Auxerre,Lens,1.0,2.0,1.27422,0.471027
+ligue_1,2025,2025-10-05 13:00:00,Lyon,Toulouse,1.0,2.0,1.42206,1.36525
+ligue_1,2025,2025-10-05 15:15:00,Le Havre,Rennes,2.0,2.0,1.98097,1.21285
+ligue_1,2025,2025-10-05 15:15:00,Monaco,Nice,2.0,2.0,2.4556,1.13121
+ligue_1,2025,2025-10-05 15:15:00,Strasbourg,Angers,5.0,0.0,4.2783,0.294622
+ligue_1,2025,2025-10-05 18:45:00,Lille,Paris Saint Germain,1.0,1.0,0.647492,1.71207
+ligue_1,2025,2025-10-17 18:45:00,Paris Saint Germain,Strasbourg,3.0,3.0,2.85659,1.92082
+ligue_1,2025,2025-10-18 15:00:00,Nice,Lyon,3.0,2.0,1.16366,2.89867
+ligue_1,2025,2025-10-18 17:00:00,Angers,Monaco,1.0,1.0,1.58102,1.65166
+ligue_1,2025,2025-10-18 19:05:00,Marseille,Le Havre,6.0,2.0,4.20445,0.352985
+ligue_1,2025,2025-10-19 13:00:00,Lens,Paris FC,2.0,1.0,1.98018,0.583966
+ligue_1,2025,2025-10-19 15:15:00,Lorient,Brest,3.0,3.0,1.5878,1.56803
+ligue_1,2025,2025-10-19 15:15:00,Rennes,Auxerre,2.0,2.0,1.93587,1.66634
+ligue_1,2025,2025-10-19 15:15:00,Toulouse,Metz,4.0,0.0,2.73037,0.119104
+ligue_1,2025,2025-10-19 18:45:00,Nantes,Lille,0.0,2.0,0.772603,2.7603
+ligue_1,2025,2025-10-24 18:45:00,Paris FC,Nantes,1.0,2.0,0.951277,0.916827
+ligue_1,2025,2025-10-25 15:00:00,Brest,Paris Saint Germain,0.0,3.0,1.89257,2.92453
+ligue_1,2025,2025-10-25 17:00:00,Monaco,Toulouse,1.0,0.0,3.37276,0.584122
+ligue_1,2025,2025-10-25 19:05:00,Lens,Marseille,2.0,1.0,1.87596,0.765479
+ligue_1,2025,2025-10-26 13:00:00,Lille,Metz,6.0,1.0,3.85054,1.01476
+ligue_1,2025,2025-10-26 15:15:00,Angers,Lorient,2.0,0.0,1.30397,2.00206
+ligue_1,2025,2025-10-26 15:15:00,Auxerre,Le Havre,0.0,1.0,0.563862,1.52215
+ligue_1,2025,2025-10-26 15:15:00,Rennes,Nice,1.0,2.0,1.54435,0.88734
+ligue_1,2025,2025-10-26 18:45:00,Lyon,Strasbourg,2.0,1.0,1.14566,0.798152
+ligue_1,2025,2025-10-29 17:00:00,Le Havre,Brest,1.0,0.0,0.556063,0.370311
+ligue_1,2025,2025-10-29 17:00:00,Lorient,Paris Saint Germain,1.0,1.0,0.192946,1.28813
+ligue_1,2025,2025-10-29 17:00:00,Metz,Lens,2.0,0.0,3.11925,1.23771
+ligue_1,2025,2025-10-29 17:00:00,Nice,Lille,2.0,0.0,1.74459,0.661109
+ligue_1,2025,2025-10-29 19:05:00,Marseille,Angers,2.0,2.0,1.58833,0.996929
+ligue_1,2025,2025-10-29 19:05:00,Nantes,Monaco,3.0,5.0,2.1261,4.10211
+ligue_1,2025,2025-10-29 19:05:00,Paris FC,Lyon,3.0,3.0,0.581508,1.21871
+ligue_1,2025,2025-10-29 19:05:00,Strasbourg,Auxerre,3.0,0.0,4.10806,0.68695
+ligue_1,2025,2025-10-29 19:05:00,Toulouse,Rennes,2.0,2.0,1.62131,1.26096
+ligue_1,2025,2025-11-01 16:00:00,Paris Saint Germain,Nice,1.0,0.0,1.88647,0.3867
+ligue_1,2025,2025-11-01 18:00:00,Monaco,Paris FC,0.0,1.0,0.820947,1.18048
+ligue_1,2025,2025-11-01 20:05:00,Auxerre,Marseille,0.0,1.0,1.09464,0.698037
+ligue_1,2025,2025-11-02 14:00:00,Rennes,Strasbourg,4.0,1.0,3.06877,2.08816
+ligue_1,2025,2025-11-02 16:15:00,Lens,Lorient,3.0,0.0,3.21467,1.98367
+ligue_1,2025,2025-11-02 16:15:00,Lille,Angers,1.0,0.0,2.2089,0.277522
+ligue_1,2025,2025-11-02 16:15:00,Nantes,Metz,0.0,2.0,1.07598,1.36245
+ligue_1,2025,2025-11-02 16:15:00,Toulouse,Le Havre,0.0,0.0,1.07851,1.07299
+ligue_1,2025,2025-11-02 19:45:00,Brest,Lyon,0.0,0.0,1.63942,0.143862
+ligue_1,2025,2025-11-07 19:45:00,Paris FC,Rennes,0.0,1.0,2.2285,1.36728
+ligue_1,2025,2025-11-08 16:00:00,Marseille,Brest,3.0,0.0,3.09058,0.69584
+ligue_1,2025,2025-11-08 18:00:00,Le Havre,Nantes,1.0,1.0,0.984753,0.353936
+ligue_1,2025,2025-11-08 20:05:00,Monaco,Lens,1.0,4.0,2.4076,3.23933
+ligue_1,2025,2025-11-09 14:00:00,Lorient,Toulouse,1.0,1.0,1.26999,1.15206
+ligue_1,2025,2025-11-09 16:15:00,Angers,Auxerre,2.0,0.0,1.15143,0.589602
+ligue_1,2025,2025-11-09 16:15:00,Metz,Nice,2.0,1.0,1.32977,0.784993
+ligue_1,2025,2025-11-09 16:15:00,Strasbourg,Lille,2.0,0.0,0.768163,0.480004
+ligue_1,2025,2025-11-09 19:45:00,Lyon,Paris Saint Germain,2.0,3.0,0.712588,1.69872
+ligue_1,2025,2025-11-21 19:45:00,Nice,Marseille,1.0,5.0,1.36131,3.09163
+ligue_1,2025,2025-11-22 16:00:00,Lens,Strasbourg,1.0,0.0,2.2242,0.400272
+ligue_1,2025,2025-11-22 18:00:00,Rennes,Monaco,4.0,1.0,3.067,1.60818
+ligue_1,2025,2025-11-22 20:05:00,Paris Saint Germain,Le Havre,3.0,0.0,4.11577,1.28573
+ligue_1,2025,2025-11-23 14:00:00,Auxerre,Lyon,0.0,0.0,1.512,1.27606
+ligue_1,2025,2025-11-23 16:15:00,Brest,Metz,3.0,2.0,3.36815,1.02855
+ligue_1,2025,2025-11-23 16:15:00,Nantes,Lorient,1.0,1.0,0.915515,0.352154
+ligue_1,2025,2025-11-23 16:15:00,Toulouse,Angers,0.0,1.0,1.85382,0.324057
+ligue_1,2025,2025-11-23 19:45:00,Lille,Paris FC,4.0,2.0,4.14474,1.50332
+ligue_1,2025,2025-11-28 19:45:00,Metz,Rennes,0.0,1.0,1.31354,0.980088
+ligue_1,2025,2025-11-29 16:00:00,Monaco,Paris Saint Germain,1.0,0.0,0.637875,1.47676
+ligue_1,2025,2025-11-29 18:00:00,Paris FC,Auxerre,1.0,1.0,1.80891,1.15143
+ligue_1,2025,2025-11-29 20:05:00,Marseille,Toulouse,2.0,2.0,1.62768,1.09387
+ligue_1,2025,2025-11-30 14:00:00,Strasbourg,Brest,1.0,2.0,1.14608,1.00638
+ligue_1,2025,2025-11-30 16:15:00,Angers,Lens,1.0,2.0,1.10642,1.96335
+ligue_1,2025,2025-11-30 16:15:00,Le Havre,Lille,0.0,1.0,0.867678,1.35017
+ligue_1,2025,2025-11-30 16:15:00,Lorient,Nice,3.0,1.0,3.49255,1.3285
+ligue_1,2025,2025-11-30 19:45:00,Lyon,Nantes,3.0,0.0,2.1878,0.384922
+ligue_1,2025,2025-12-05 18:00:00,Brest,Monaco,1.0,0.0,1.13774,0.485017
+ligue_1,2025,2025-12-05 20:00:00,Lille,Marseille,1.0,0.0,0.572302,0.902813
+ligue_1,2025,2025-12-06 16:00:00,Nantes,Lens,1.0,2.0,1.1817,3.26397
+ligue_1,2025,2025-12-06 18:00:00,Toulouse,Strasbourg,1.0,0.0,0.64097,0.0918532
+ligue_1,2025,2025-12-06 20:05:00,Paris Saint Germain,Rennes,5.0,0.0,2.32641,0.153549
+ligue_1,2025,2025-12-07 14:00:00,Nice,Angers,0.0,1.0,1.38209,1.33715
+ligue_1,2025,2025-12-07 16:15:00,Auxerre,Metz,3.0,1.0,2.22374,0.346523
+ligue_1,2025,2025-12-07 16:15:00,Le Havre,Paris FC,0.0,0.0,1.93371,1.2524
+ligue_1,2025,2025-12-07 19:45:00,Lorient,Lyon,1.0,0.0,2.48644,0.475087
+ligue_1,2025,2025-12-12 19:45:00,Angers,Nantes,4.0,1.0,3.04663,0.26526
+ligue_1,2025,2025-12-13 16:00:00,Rennes,Brest,3.0,1.0,1.58903,0.872611
+ligue_1,2025,2025-12-13 18:00:00,Metz,Paris Saint Germain,2.0,3.0,0.363683,1.94768
+ligue_1,2025,2025-12-13 20:05:00,Paris FC,Toulouse,0.0,3.0,0.366399,2.03766
+ligue_1,2025,2025-12-14 14:00:00,Lyon,Le Havre,1.0,0.0,2.9604,1.44459
+ligue_1,2025,2025-12-14 16:15:00,Auxerre,Lille,3.0,4.0,2.50862,0.733512
+ligue_1,2025,2025-12-14 16:15:00,Lens,Nice,2.0,0.0,1.91622,0.733412
+ligue_1,2025,2025-12-14 16:15:00,Strasbourg,Lorient,0.0,0.0,0.911848,0.415871
+ligue_1,2025,2025-12-14 19:45:00,Marseille,Monaco,1.0,0.0,2.02467,1.94962
+ligue_1,2025,2026-01-02 19:45:00,Toulouse,Lens,0.0,3.0,0.46972,2.67769
+ligue_1,2025,2026-01-03 16:00:00,Monaco,Lyon,1.0,3.0,0.799996,1.95535
+ligue_1,2025,2026-01-03 18:00:00,Nice,Strasbourg,1.0,1.0,2.39473,1.38731
+ligue_1,2025,2026-01-03 20:05:00,Lille,Rennes,0.0,2.0,1.06111,1.49739
+ligue_1,2025,2026-01-04 14:00:00,Marseille,Nantes,0.0,2.0,1.14141,3.16795
+ligue_1,2025,2026-01-04 16:15:00,Brest,Auxerre,2.0,0.0,1.54399,0.835513
+ligue_1,2025,2026-01-04 16:15:00,Le Havre,Angers,2.0,1.0,1.54881,0.730978
+ligue_1,2025,2026-01-04 16:15:00,Lorient,Metz,1.0,1.0,1.55407,0.364932
+ligue_1,2025,2026-01-04 19:45:00,Paris Saint Germain,Paris FC,2.0,1.0,1.58716,0.938334
+ligue_1,2025,2026-01-16 18:00:00,Monaco,Lorient,1.0,3.0,1.31321,1.17141
+ligue_1,2025,2026-01-16 20:00:00,Paris Saint Germain,Lille,3.0,0.0,1.29284,0.67995
+ligue_1,2025,2026-01-17 16:00:00,Lens,Auxerre,1.0,0.0,2.61821,0.393025
+ligue_1,2025,2026-01-17 18:00:00,Toulouse,Nice,5.0,1.0,1.77349,1.41914
+ligue_1,2025,2026-01-17 20:05:00,Angers,Marseille,2.0,5.0,1.03735,3.91118
+ligue_1,2025,2026-01-18 14:00:00,Strasbourg,Metz,2.0,1.0,1.019,0.984265
+ligue_1,2025,2026-01-18 16:15:00,Nantes,Paris FC,1.0,2.0,0.411699,0.738941
+ligue_1,2025,2026-01-18 16:15:00,Rennes,Le Havre,1.0,1.0,2.54723,0.538741
+ligue_1,2025,2026-01-18 19:45:00,Lyon,Brest,2.0,1.0,2.62893,1.16318
+ligue_1,2025,2026-01-23 19:00:00,Auxerre,Paris Saint Germain,0.0,1.0,0.352997,2.19544
+ligue_1,2025,2026-01-24 16:00:00,Rennes,Lorient,0.0,2.0,1.88241,1.10359
+ligue_1,2025,2026-01-24 18:00:00,Le Havre,Monaco,0.0,0.0,0.171551,0.562454
+ligue_1,2025,2026-01-24 20:05:00,Marseille,Lens,3.0,1.0,1.07239,1.00288
+ligue_1,2025,2026-01-25 14:00:00,Nantes,Nice,1.0,4.0,1.98581,1.6112
+ligue_1,2025,2026-01-25 16:15:00,Brest,Toulouse,0.0,2.0,0.988274,0.684258
+ligue_1,2025,2026-01-25 16:15:00,Metz,Lyon,2.0,5.0,1.18331,3.34121
+ligue_1,2025,2026-01-25 16:15:00,Paris FC,Angers,0.0,0.0,0.759097,0.342734
+ligue_1,2025,2026-01-25 19:45:00,Lille,Strasbourg,1.0,4.0,1.74087,3.56512
+ligue_1,2025,2026-01-30 19:45:00,Lens,Le Havre,1.0,0.0,1.60367,0.407119
+ligue_1,2025,2026-01-31 16:00:00,Paris FC,Marseille,2.0,2.0,1.82048,2.71118
+ligue_1,2025,2026-01-31 18:00:00,Lorient,Nantes,2.0,1.0,0.777027,1.20179
+ligue_1,2025,2026-01-31 20:05:00,Monaco,Rennes,4.0,0.0,2.28518,0.427968
+ligue_1,2025,2026-02-01 14:00:00,Lyon,Lille,1.0,0.0,0.616999,0.390671
+ligue_1,2025,2026-02-01 16:15:00,Angers,Metz,1.0,0.0,1.34676,0.397871
+ligue_1,2025,2026-02-01 16:15:00,Nice,Brest,2.0,2.0,1.2009,1.83505
+ligue_1,2025,2026-02-01 16:15:00,Toulouse,Auxerre,0.0,0.0,0.804565,0.871363
+ligue_1,2025,2026-02-01 19:45:00,Strasbourg,Paris Saint Germain,1.0,2.0,1.97116,1.16489
+ligue_1,2025,2026-02-08 14:00:00,Brest,Lorient,2.0,0.0,2.05135,0.720569
+ligue_1,2025,2026-02-08 14:00:00,Lens,Rennes,3.0,1.0,1.01131,1.33597
+ligue_1,2025,2026-02-08 14:00:00,Metz,Lille,0.0,0.0,0.581838,1.53538
+ligue_1,2025,2026-02-08 14:00:00,Nantes,Lyon,0.0,1.0,0.795659,0.990033
+ligue_1,2025,2026-02-08 14:00:00,Nice,Monaco,0.0,0.0,0.455943,0.827302
+ligue_1,2025,2026-02-08 16:15:00,Angers,Toulouse,1.0,0.0,1.17089,0.691991
+ligue_1,2025,2026-02-08 16:15:00,Auxerre,Paris FC,0.0,0.0,1.27393,0.758207
+ligue_1,2025,2026-02-08 16:15:00,Le Havre,Strasbourg,2.0,1.0,0.856821,0.51294
+ligue_1,2025,2026-02-08 19:45:00,Paris Saint Germain,Marseille,5.0,0.0,4.63077,0.90611
+ligue_1,2025,2026-02-13 18:00:00,Rennes,Paris Saint Germain,3.0,1.0,1.80204,4.17604
+ligue_1,2025,2026-02-13 20:05:00,Monaco,Nantes,3.0,1.0,2.20188,1.00661
+ligue_1,2025,2026-02-14 16:00:00,Marseille,Strasbourg,2.0,2.0,1.61535,2.39153
+ligue_1,2025,2026-02-14 18:00:00,Lille,Brest,1.0,1.0,1.77426,0.841964
+ligue_1,2025,2026-02-14 20:05:00,Paris FC,Lens,0.0,5.0,0.399344,3.50163
+ligue_1,2025,2026-02-15 14:00:00,Le Havre,Toulouse,2.0,1.0,0.977711,3.12342
+ligue_1,2025,2026-02-15 16:15:00,Lorient,Angers,2.0,0.0,1.4393,0.406012
+ligue_1,2025,2026-02-15 16:15:00,Metz,Auxerre,1.0,3.0,0.753602,1.05829
+ligue_1,2025,2026-02-15 19:45:00,Lyon,Nice,2.0,0.0,1.9974,1.30477
+ligue_1,2025,2026-02-20 19:45:00,Brest,Marseille,2.0,0.0,1.33408,1.3575
+ligue_1,2025,2026-02-21 16:00:00,Lens,Monaco,2.0,3.0,1.82827,2.34004
+ligue_1,2025,2026-02-21 18:00:00,Toulouse,Paris FC,1.0,1.0,2.67763,0.687806
+ligue_1,2025,2026-02-21 20:05:00,Paris Saint Germain,Metz,3.0,0.0,2.41445,0.0591146
+ligue_1,2025,2026-02-22 14:00:00,Auxerre,Rennes,0.0,3.0,0.700042,1.10597
+ligue_1,2025,2026-02-22 16:15:00,Angers,Lille,0.0,1.0,0.24039,2.74265
+ligue_1,2025,2026-02-22 16:15:00,Nantes,Le Havre,2.0,0.0,1.70753,0.753349
+ligue_1,2025,2026-02-22 16:15:00,Nice,Lorient,3.0,3.0,2.74646,1.97697
+ligue_1,2025,2026-02-22 19:45:00,Strasbourg,Lyon,3.0,1.0,2.22901,0.427324
+ligue_1,2025,2026-02-27 19:45:00,Strasbourg,Lens,1.0,1.0,0.874721,2.03807
+ligue_1,2025,2026-02-28 16:00:00,Rennes,Toulouse,1.0,0.0,0.709138,0.668386
+ligue_1,2025,2026-02-28 18:00:00,Monaco,Angers,2.0,0.0,1.67082,0.609359
+ligue_1,2025,2026-02-28 20:05:00,Le Havre,Paris Saint Germain,0.0,1.0,0.682797,4.03627
+ligue_1,2025,2026-03-01 14:00:00,Paris FC,Nice,1.0,0.0,1.3017,1.26295
+ligue_1,2025,2026-03-01 16:15:00,Lille,Nantes,1.0,0.0,0.495693,0.171014
+ligue_1,2025,2026-03-01 16:15:00,Lorient,Auxerre,2.0,2.0,1.02766,1.96667
+ligue_1,2025,2026-03-01 16:15:00,Metz,Brest,0.0,1.0,1.58374,0.963216
+ligue_1,2025,2026-03-01 19:45:00,Marseille,Lyon,3.0,2.0,1.78764,1.78524
+ligue_1,2025,2026-03-06 19:45:00,Paris Saint Germain,Monaco,1.0,3.0,1.22179,1.75294
+ligue_1,2025,2026-03-07 16:00:00,Nantes,Angers,0.0,1.0,0.611683,0.853223
+ligue_1,2025,2026-03-07 18:00:00,Auxerre,Strasbourg,0.0,0.0,1.03226,1.27324
+ligue_1,2025,2026-03-07 20:05:00,Toulouse,Marseille,0.0,1.0,1.28713,1.3226
+ligue_1,2025,2026-03-08 14:00:00,Lens,Metz,3.0,0.0,2.22106,0.250806
+ligue_1,2025,2026-03-08 16:15:00,Brest,Le Havre,2.0,0.0,1.26459,1.10286
+ligue_1,2025,2026-03-08 16:15:00,Lille,Lorient,1.0,1.0,0.850092,0.929269
+ligue_1,2025,2026-03-08 16:15:00,Nice,Rennes,0.0,4.0,2.68488,1.87138
+ligue_1,2025,2026-03-08 19:45:00,Lyon,Paris FC,1.0,1.0,1.92522,2.32579
+ligue_1,2025,2026-03-13 19:45:00,Marseille,Auxerre,1.0,0.0,1.12898,0.293047
+ligue_1,2025,2026-03-14 16:00:00,Lorient,Lens,2.0,1.0,2.37345,1.01216
+ligue_1,2025,2026-03-14 18:00:00,Angers,Nice,0.0,2.0,0.889177,1.60128
+ligue_1,2025,2026-03-14 20:05:00,Monaco,Brest,2.0,0.0,2.81345,1.56097
+ligue_1,2025,2026-03-15 14:00:00,Strasbourg,Paris FC,0.0,0.0,1.20221,0.616395
+ligue_1,2025,2026-03-15 16:15:00,Le Havre,Lyon,0.0,0.0,0.640079,1.13833
+ligue_1,2025,2026-03-15 16:15:00,Metz,Toulouse,3.0,4.0,1.62616,1.74262
+ligue_1,2025,2026-03-15 19:45:00,Rennes,Lille,1.0,2.0,1.5463,1.3508
+ligue_1,2025,2026-03-20 19:45:00,Lens,Angers,5.0,1.0,4.33933,1.15185
+ligue_1,2025,2026-03-21 16:00:00,Toulouse,Lorient,1.0,0.0,1.48458,0.477676
+ligue_1,2025,2026-03-21 18:00:00,Auxerre,Brest,3.0,0.0,2.0573,0.882319
+ligue_1,2025,2026-03-21 20:05:00,Nice,Paris Saint Germain,0.0,4.0,0.17662,4.04442
+ligue_1,2025,2026-03-22 14:00:00,Lyon,Monaco,1.0,2.0,1.10723,3.4997
+ligue_1,2025,2026-03-22 16:15:00,Marseille,Lille,1.0,2.0,1.02929,1.61107
+ligue_1,2025,2026-03-22 16:15:00,Paris FC,Le Havre,3.0,2.0,2.42628,1.74386
+ligue_1,2025,2026-03-22 16:15:00,Rennes,Metz,0.0,0.0,1.70552,0.314914
+ligue_1,2025,2026-03-22 19:45:00,Nantes,Strasbourg,2.0,3.0,1.91469,2.83907
+ligue_1,2025,2026-04-03 18:45:00,Paris Saint Germain,Toulouse,3.0,1.0,1.7337,0.102597
+ligue_1,2025,2026-04-04 15:00:00,Strasbourg,Nice,3.0,1.0,2.70892,0.354354
+ligue_1,2025,2026-04-04 17:00:00,Brest,Rennes,3.0,4.0,1.89452,2.7958
+ligue_1,2025,2026-04-04 19:05:00,Lille,Lens,3.0,0.0,3.82171,0.412713
+ligue_1,2025,2026-04-05 13:00:00,Angers,Lyon,0.0,0.0,0.353538,0.522379
+ligue_1,2025,2026-04-05 15:15:00,Le Havre,Auxerre,1.0,1.0,0.711193,2.40825
+ligue_1,2025,2026-04-05 15:15:00,Lorient,Paris FC,1.0,1.0,1.16554,1.39879
+ligue_1,2025,2026-04-05 15:15:00,Metz,Nantes,0.0,0.0,2.3189,0.389282
+ligue_1,2025,2026-04-05 18:45:00,Monaco,Marseille,2.0,1.0,1.67743,3.10791
+ligue_1,2025,2026-04-10 17:00:00,Paris FC,Monaco,4.0,1.0,2.95341,1.7647
+ligue_1,2025,2026-04-10 19:05:00,Marseille,Metz,3.0,1.0,3.31638,0.535052
+ligue_1,2025,2026-04-11 17:00:00,Auxerre,Nantes,,,,
+ligue_1,2025,2026-04-11 19:05:00,Rennes,Angers,,,,
+ligue_1,2025,2026-04-12 15:15:00,Nice,Le Havre,,,,
+ligue_1,2025,2026-04-12 15:15:00,Toulouse,Lille,,,,
+ligue_1,2025,2026-04-12 18:45:00,Lyon,Lorient,,,,
+ligue_1,2025,2026-04-17 18:45:00,Lens,Toulouse,,,,
+ligue_1,2025,2026-04-18 15:00:00,Lorient,Marseille,,,,
+ligue_1,2025,2026-04-18 17:00:00,Angers,Le Havre,,,,
+ligue_1,2025,2026-04-18 19:05:00,Lille,Nice,,,,
+ligue_1,2025,2026-04-19 13:00:00,Monaco,Auxerre,,,,
+ligue_1,2025,2026-04-19 15:15:00,Metz,Paris FC,,,,
+ligue_1,2025,2026-04-19 15:15:00,Nantes,Brest,,,,
+ligue_1,2025,2026-04-19 15:15:00,Strasbourg,Rennes,,,,
+ligue_1,2025,2026-04-19 18:45:00,Paris Saint Germain,Lyon,,,,
+ligue_1,2025,2026-04-22 18:00:00,Paris Saint Germain,Nantes,,,,
+ligue_1,2025,2026-04-24 18:45:00,Brest,Lens,,,,
+ligue_1,2025,2026-04-25 13:00:00,Lyon,Auxerre,,,,
+ligue_1,2025,2026-04-25 17:00:00,Angers,Paris Saint Germain,,,,
+ligue_1,2025,2026-04-25 19:05:00,Toulouse,Monaco,,,,
+ligue_1,2025,2026-04-26 13:00:00,Lorient,Strasbourg,,,,
+ligue_1,2025,2026-04-26 15:15:00,Le Havre,Metz,,,,
+ligue_1,2025,2026-04-26 15:15:00,Paris FC,Lille,,,,
+ligue_1,2025,2026-04-26 15:15:00,Rennes,Nantes,,,,
+ligue_1,2025,2026-04-26 18:45:00,Marseille,Nice,,,,
+ligue_1,2025,2026-05-03 13:00:00,Auxerre,Angers,,,,
+ligue_1,2025,2026-05-03 13:00:00,Lille,Le Havre,,,,
+ligue_1,2025,2026-05-03 13:00:00,Lyon,Rennes,,,,
+ligue_1,2025,2026-05-03 13:00:00,Metz,Monaco,,,,
+ligue_1,2025,2026-05-03 13:00:00,Nantes,Marseille,,,,
+ligue_1,2025,2026-05-03 13:00:00,Nice,Lens,,,,
+ligue_1,2025,2026-05-03 13:00:00,Paris FC,Brest,,,,
+ligue_1,2025,2026-05-03 13:00:00,Paris Saint Germain,Lorient,,,,
+ligue_1,2025,2026-05-03 13:00:00,Strasbourg,Toulouse,,,,
+ligue_1,2025,2026-05-09 19:00:00,Angers,Strasbourg,,,,
+ligue_1,2025,2026-05-09 19:00:00,Auxerre,Nice,,,,
+ligue_1,2025,2026-05-09 19:00:00,Le Havre,Marseille,,,,
+ligue_1,2025,2026-05-09 19:00:00,Lens,Nantes,,,,
+ligue_1,2025,2026-05-09 19:00:00,Metz,Lorient,,,,
+ligue_1,2025,2026-05-09 19:00:00,Monaco,Lille,,,,
+ligue_1,2025,2026-05-09 19:00:00,Paris Saint Germain,Brest,,,,
+ligue_1,2025,2026-05-09 19:00:00,Rennes,Paris FC,,,,
+ligue_1,2025,2026-05-09 19:00:00,Toulouse,Lyon,,,,
+ligue_1,2025,2026-05-13 15:00:00,Lens,Paris Saint Germain,,,,
+ligue_1,2025,2026-05-13 15:15:00,Brest,Strasbourg,,,,
+ligue_1,2025,2026-05-16 19:00:00,Brest,Angers,,,,
+ligue_1,2025,2026-05-16 19:00:00,Lille,Auxerre,,,,
+ligue_1,2025,2026-05-16 19:00:00,Lorient,Le Havre,,,,
+ligue_1,2025,2026-05-16 19:00:00,Lyon,Lens,,,,
+ligue_1,2025,2026-05-16 19:00:00,Marseille,Rennes,,,,
+ligue_1,2025,2026-05-16 19:00:00,Nantes,Toulouse,,,,
+ligue_1,2025,2026-05-16 19:00:00,Nice,Metz,,,,
+ligue_1,2025,2026-05-16 19:00:00,Paris FC,Paris Saint Germain,,,,
+ligue_1,2025,2026-05-16 19:00:00,Strasbourg,Monaco,,,,
 premier_league,2014,2014-08-16 12:45:00,Manchester United,Swansea,1.0,2.0,1.16635,0.278076
 premier_league,2014,2014-08-16 15:00:00,Leicester,Everton,2.0,2.0,1.2783,0.613273
 premier_league,2014,2014-08-16 15:00:00,Queens Park Rangers,Hull,0.0,1.0,1.90067,1.11757
@@ -15757,6 +16749,386 @@ premier_league,2024,2025-05-25 15:00:00,Nottingham Forest,Chelsea,0.0,1.0,1.5801
 premier_league,2024,2025-05-25 15:00:00,Southampton,Arsenal,1.0,2.0,0.598144,2.40711
 premier_league,2024,2025-05-25 15:00:00,Tottenham,Brighton,1.0,4.0,1.85265,3.11624
 premier_league,2024,2025-05-25 15:00:00,Wolverhampton Wanderers,Brentford,1.0,1.0,1.10889,1.97196
+premier_league,2025,2025-08-15 19:00:00,Liverpool,Bournemouth,4.0,2.0,2.33007,1.57303
+premier_league,2025,2025-08-16 11:30:00,Aston Villa,Newcastle United,0.0,0.0,0.318601,1.40098
+premier_league,2025,2025-08-16 14:00:00,Brighton,Fulham,1.0,1.0,1.44008,0.902883
+premier_league,2025,2025-08-16 14:00:00,Sunderland,West Ham,3.0,0.0,0.724368,0.558948
+premier_league,2025,2025-08-16 14:00:00,Tottenham,Burnley,3.0,0.0,1.97858,0.734138
+premier_league,2025,2025-08-16 16:30:00,Wolverhampton Wanderers,Manchester City,0.0,4.0,0.519436,2.29903
+premier_league,2025,2025-08-17 13:00:00,Chelsea,Crystal Palace,0.0,0.0,1.36793,1.03414
+premier_league,2025,2025-08-17 13:00:00,Nottingham Forest,Brentford,3.0,1.0,1.7555,1.32516
+premier_league,2025,2025-08-17 15:30:00,Manchester United,Arsenal,0.0,1.0,1.37653,1.3304
+premier_league,2025,2025-08-18 19:00:00,Leeds,Everton,1.0,0.0,2.3812,0.674338
+premier_league,2025,2025-08-22 19:00:00,West Ham,Chelsea,1.0,5.0,0.978572,3.94997
+premier_league,2025,2025-08-23 11:30:00,Manchester City,Tottenham,0.0,2.0,1.2475,1.28015
+premier_league,2025,2025-08-23 14:00:00,Bournemouth,Wolverhampton Wanderers,1.0,0.0,1.78462,0.373367
+premier_league,2025,2025-08-23 14:00:00,Brentford,Aston Villa,1.0,0.0,1.12964,0.976852
+premier_league,2025,2025-08-23 14:00:00,Burnley,Sunderland,2.0,0.0,1.00381,1.12127
+premier_league,2025,2025-08-23 16:30:00,Arsenal,Leeds,5.0,0.0,2.73761,0.156761
+premier_league,2025,2025-08-24 13:00:00,Crystal Palace,Nottingham Forest,1.0,1.0,1.10188,1.32987
+premier_league,2025,2025-08-24 13:00:00,Everton,Brighton,2.0,0.0,1.80116,2.08487
+premier_league,2025,2025-08-24 15:30:00,Fulham,Manchester United,1.0,1.0,1.65333,1.54603
+premier_league,2025,2025-08-25 19:00:00,Newcastle United,Liverpool,2.0,3.0,1.96342,0.646559
+premier_league,2025,2025-08-30 11:30:00,Chelsea,Fulham,2.0,0.0,2.4324,0.736228
+premier_league,2025,2025-08-30 14:00:00,Manchester United,Burnley,3.0,2.0,4.02237,1.32618
+premier_league,2025,2025-08-30 14:00:00,Sunderland,Brentford,2.0,1.0,1.57127,1.44604
+premier_league,2025,2025-08-30 14:00:00,Tottenham,Bournemouth,0.0,1.0,0.17067,2.1201
+premier_league,2025,2025-08-30 14:00:00,Wolverhampton Wanderers,Everton,2.0,3.0,0.943257,2.03791
+premier_league,2025,2025-08-30 16:30:00,Leeds,Newcastle United,0.0,0.0,0.6773,0.303635
+premier_league,2025,2025-08-31 13:00:00,Brighton,Manchester City,2.0,1.0,2.20864,2.13418
+premier_league,2025,2025-08-31 13:00:00,Nottingham Forest,West Ham,0.0,3.0,0.716018,2.236
+premier_league,2025,2025-08-31 15:30:00,Liverpool,Arsenal,1.0,0.0,0.481404,0.485679
+premier_league,2025,2025-08-31 18:00:00,Aston Villa,Crystal Palace,0.0,3.0,1.20586,2.59713
+premier_league,2025,2025-09-13 11:30:00,Arsenal,Nottingham Forest,3.0,0.0,2.8817,0.293681
+premier_league,2025,2025-09-13 14:00:00,Bournemouth,Brighton,2.0,1.0,1.44187,0.624923
+premier_league,2025,2025-09-13 14:00:00,Crystal Palace,Sunderland,0.0,0.0,1.75805,0.354129
+premier_league,2025,2025-09-13 14:00:00,Everton,Aston Villa,0.0,0.0,1.8927,0.354327
+premier_league,2025,2025-09-13 14:00:00,Fulham,Leeds,1.0,0.0,1.13979,0.830398
+premier_league,2025,2025-09-13 14:00:00,Newcastle United,Wolverhampton Wanderers,1.0,0.0,1.19186,0.375942
+premier_league,2025,2025-09-13 16:30:00,West Ham,Tottenham,0.0,3.0,0.793248,1.51402
+premier_league,2025,2025-09-13 19:00:00,Brentford,Chelsea,2.0,2.0,1.17533,0.755999
+premier_league,2025,2025-09-14 13:00:00,Burnley,Liverpool,0.0,1.0,0.168041,2.79492
+premier_league,2025,2025-09-14 15:30:00,Manchester City,Manchester United,3.0,0.0,1.99725,1.51915
+premier_league,2025,2025-09-20 11:30:00,Liverpool,Everton,2.0,1.0,1.06166,0.721371
+premier_league,2025,2025-09-20 14:00:00,Brighton,Tottenham,2.0,2.0,1.40466,1.19181
+premier_league,2025,2025-09-20 14:00:00,Burnley,Nottingham Forest,1.0,1.0,1.14159,0.830779
+premier_league,2025,2025-09-20 14:00:00,West Ham,Crystal Palace,1.0,2.0,0.466365,2.33565
+premier_league,2025,2025-09-20 14:00:00,Wolverhampton Wanderers,Leeds,1.0,3.0,1.5661,0.456988
+premier_league,2025,2025-09-20 16:30:00,Manchester United,Chelsea,2.0,1.0,1.34458,0.469843
+premier_league,2025,2025-09-20 19:00:00,Fulham,Brentford,3.0,1.0,1.52431,0.826556
+premier_league,2025,2025-09-21 13:00:00,Bournemouth,Newcastle United,0.0,0.0,0.55066,0.153629
+premier_league,2025,2025-09-21 13:00:00,Sunderland,Aston Villa,1.0,1.0,0.938312,0.939354
+premier_league,2025,2025-09-21 15:30:00,Arsenal,Manchester City,1.0,1.0,0.718575,1.1227
+premier_league,2025,2025-09-27 11:30:00,Brentford,Manchester United,3.0,1.0,2.78726,2.23609
+premier_league,2025,2025-09-27 14:00:00,Chelsea,Brighton,1.0,3.0,2.02653,2.4751
+premier_league,2025,2025-09-27 14:00:00,Crystal Palace,Liverpool,2.0,1.0,3.53323,3.10176
+premier_league,2025,2025-09-27 14:00:00,Leeds,Bournemouth,2.0,2.0,2.04728,1.06033
+premier_league,2025,2025-09-27 14:00:00,Manchester City,Burnley,5.0,1.0,3.22133,0.509491
+premier_league,2025,2025-09-27 16:30:00,Nottingham Forest,Sunderland,0.0,1.0,1.4203,1.94154
+premier_league,2025,2025-09-27 19:00:00,Tottenham,Wolverhampton Wanderers,1.0,1.0,0.818711,1.15951
+premier_league,2025,2025-09-28 13:00:00,Aston Villa,Fulham,3.0,1.0,1.36575,0.952612
+premier_league,2025,2025-09-28 15:30:00,Newcastle United,Arsenal,1.0,2.0,0.739851,2.07048
+premier_league,2025,2025-09-29 19:00:00,Everton,West Ham,1.0,1.0,0.909703,0.775766
+premier_league,2025,2025-10-03 19:00:00,Bournemouth,Fulham,3.0,1.0,1.33458,0.84335
+premier_league,2025,2025-10-04 11:30:00,Leeds,Tottenham,1.0,2.0,1.48051,0.688198
+premier_league,2025,2025-10-04 14:00:00,Arsenal,West Ham,2.0,0.0,3.0585,0.864549
+premier_league,2025,2025-10-04 14:00:00,Manchester United,Sunderland,2.0,0.0,1.9298,0.807119
+premier_league,2025,2025-10-04 16:30:00,Chelsea,Liverpool,2.0,1.0,1.23721,2.05981
+premier_league,2025,2025-10-05 13:00:00,Aston Villa,Burnley,2.0,1.0,1.73572,0.502292
+premier_league,2025,2025-10-05 13:00:00,Everton,Crystal Palace,2.0,1.0,2.13876,2.17789
+premier_league,2025,2025-10-05 13:00:00,Newcastle United,Nottingham Forest,2.0,0.0,3.81662,0.337689
+premier_league,2025,2025-10-05 13:00:00,Wolverhampton Wanderers,Brighton,1.0,1.0,0.369404,1.39158
+premier_league,2025,2025-10-05 15:30:00,Brentford,Manchester City,0.0,1.0,0.693758,1.09647
+premier_league,2025,2025-10-18 11:30:00,Nottingham Forest,Chelsea,0.0,3.0,2.0555,2.5583
+premier_league,2025,2025-10-18 14:00:00,Brighton,Newcastle United,2.0,1.0,0.857104,1.28313
+premier_league,2025,2025-10-18 14:00:00,Burnley,Leeds,2.0,0.0,0.509647,2.33152
+premier_league,2025,2025-10-18 14:00:00,Crystal Palace,Bournemouth,3.0,3.0,4.56284,2.0471
+premier_league,2025,2025-10-18 14:00:00,Manchester City,Everton,2.0,0.0,2.4799,0.794622
+premier_league,2025,2025-10-18 14:00:00,Sunderland,Wolverhampton Wanderers,2.0,0.0,1.02481,0.676323
+premier_league,2025,2025-10-18 16:30:00,Fulham,Arsenal,0.0,1.0,0.502332,2.07823
+premier_league,2025,2025-10-19 13:00:00,Tottenham,Aston Villa,1.0,2.0,1.51461,0.352231
+premier_league,2025,2025-10-19 15:30:00,Liverpool,Manchester United,1.0,2.0,2.60972,2.53117
+premier_league,2025,2025-10-20 19:00:00,West Ham,Brentford,0.0,2.0,0.260251,3.46635
+premier_league,2025,2025-10-24 19:00:00,Leeds,West Ham,2.0,1.0,2.2214,0.498653
+premier_league,2025,2025-10-25 14:00:00,Chelsea,Sunderland,1.0,2.0,1.21332,1.5506
+premier_league,2025,2025-10-25 14:00:00,Newcastle United,Fulham,2.0,1.0,2.76806,1.52001
+premier_league,2025,2025-10-25 16:30:00,Manchester United,Brighton,4.0,2.0,1.96231,0.947154
+premier_league,2025,2025-10-25 19:00:00,Brentford,Liverpool,3.0,2.0,3.27126,2.11838
+premier_league,2025,2025-10-26 13:00:00,Arsenal,Crystal Palace,1.0,0.0,0.856175,0.350534
+premier_league,2025,2025-10-26 13:00:00,Aston Villa,Manchester City,1.0,0.0,0.843906,1.36914
+premier_league,2025,2025-10-26 13:00:00,Bournemouth,Nottingham Forest,2.0,0.0,0.656601,0.305493
+premier_league,2025,2025-10-26 13:00:00,Wolverhampton Wanderers,Burnley,2.0,3.0,2.58132,1.54544
+premier_league,2025,2025-10-26 15:30:00,Everton,Tottenham,0.0,3.0,1.4032,2.09327
+premier_league,2025,2025-11-01 15:00:00,Brighton,Leeds,3.0,0.0,2.64127,0.35919
+premier_league,2025,2025-11-01 15:00:00,Burnley,Arsenal,0.0,2.0,0.679177,2.51649
+premier_league,2025,2025-11-01 15:00:00,Crystal Palace,Brentford,2.0,0.0,0.734558,0.820498
+premier_league,2025,2025-11-01 15:00:00,Fulham,Wolverhampton Wanderers,3.0,0.0,1.91207,0.209934
+premier_league,2025,2025-11-01 15:00:00,Nottingham Forest,Manchester United,2.0,2.0,1.55066,0.91622
+premier_league,2025,2025-11-01 17:30:00,Tottenham,Chelsea,0.0,1.0,0.146954,3.34251
+premier_league,2025,2025-11-01 20:00:00,Liverpool,Aston Villa,2.0,0.0,1.47021,0.43502
+premier_league,2025,2025-11-02 14:00:00,West Ham,Newcastle United,3.0,1.0,1.41383,0.523615
+premier_league,2025,2025-11-02 16:30:00,Manchester City,Bournemouth,3.0,1.0,2.48999,0.899846
+premier_league,2025,2025-11-03 20:00:00,Sunderland,Everton,1.0,1.0,1.18068,1.00741
+premier_league,2025,2025-11-08 12:30:00,Tottenham,Manchester United,2.0,2.0,1.35532,0.820256
+premier_league,2025,2025-11-08 15:00:00,Everton,Fulham,2.0,0.0,2.30607,0.424478
+premier_league,2025,2025-11-08 15:00:00,West Ham,Burnley,3.0,2.0,2.96728,1.87478
+premier_league,2025,2025-11-08 17:30:00,Sunderland,Arsenal,2.0,2.0,1.20495,2.32943
+premier_league,2025,2025-11-08 20:00:00,Chelsea,Wolverhampton Wanderers,3.0,0.0,3.98342,0.111462
+premier_league,2025,2025-11-09 14:00:00,Aston Villa,Bournemouth,4.0,0.0,1.88282,2.00992
+premier_league,2025,2025-11-09 14:00:00,Brentford,Newcastle United,3.0,1.0,2.73729,0.432277
+premier_league,2025,2025-11-09 14:00:00,Crystal Palace,Brighton,0.0,0.0,0.839547,0.637037
+premier_league,2025,2025-11-09 14:00:00,Nottingham Forest,Leeds,3.0,1.0,2.49097,0.419461
+premier_league,2025,2025-11-09 16:30:00,Manchester City,Liverpool,3.0,0.0,1.59542,1.0281
+premier_league,2025,2025-11-22 12:30:00,Burnley,Chelsea,0.0,2.0,0.660943,1.72093
+premier_league,2025,2025-11-22 15:00:00,Bournemouth,West Ham,2.0,2.0,3.48299,0.390782
+premier_league,2025,2025-11-22 15:00:00,Brighton,Brentford,2.0,1.0,0.977488,2.19979
+premier_league,2025,2025-11-22 15:00:00,Fulham,Sunderland,1.0,0.0,2.83729,0.222768
+premier_league,2025,2025-11-22 15:00:00,Liverpool,Nottingham Forest,0.0,3.0,1.79273,1.19459
+premier_league,2025,2025-11-22 15:00:00,Wolverhampton Wanderers,Crystal Palace,0.0,2.0,1.66409,1.44933
+premier_league,2025,2025-11-22 17:30:00,Newcastle United,Manchester City,2.0,1.0,2.40555,2.45648
+premier_league,2025,2025-11-23 14:00:00,Leeds,Aston Villa,1.0,2.0,1.84668,1.35978
+premier_league,2025,2025-11-23 16:30:00,Arsenal,Tottenham,4.0,1.0,2.27827,0.0300672
+premier_league,2025,2025-11-24 20:00:00,Manchester United,Everton,0.0,1.0,2.2737,0.155063
+premier_league,2025,2025-11-29 15:00:00,Brentford,Burnley,3.0,1.0,3.72106,0.874025
+premier_league,2025,2025-11-29 15:00:00,Manchester City,Leeds,3.0,2.0,2.85292,1.75142
+premier_league,2025,2025-11-29 15:00:00,Sunderland,Bournemouth,3.0,2.0,1.16955,1.79274
+premier_league,2025,2025-11-29 17:30:00,Everton,Newcastle United,1.0,4.0,1.01125,2.45882
+premier_league,2025,2025-11-29 20:00:00,Tottenham,Fulham,1.0,2.0,1.04396,0.494736
+premier_league,2025,2025-11-30 12:00:00,Crystal Palace,Manchester United,1.0,2.0,2.13561,1.47768
+premier_league,2025,2025-11-30 14:05:00,Aston Villa,Wolverhampton Wanderers,1.0,0.0,1.15486,0.692588
+premier_league,2025,2025-11-30 14:05:00,Nottingham Forest,Brighton,0.0,2.0,0.960325,2.0572
+premier_league,2025,2025-11-30 14:05:00,West Ham,Liverpool,0.0,2.0,0.364152,1.56793
+premier_league,2025,2025-11-30 16:30:00,Chelsea,Arsenal,1.0,1.0,0.791914,1.22828
+premier_league,2025,2025-12-02 19:30:00,Bournemouth,Everton,0.0,1.0,0.635415,1.19573
+premier_league,2025,2025-12-02 19:30:00,Fulham,Manchester City,4.0,5.0,0.972635,1.96225
+premier_league,2025,2025-12-02 20:15:00,Newcastle United,Tottenham,2.0,2.0,1.88558,1.05205
+premier_league,2025,2025-12-03 19:30:00,Arsenal,Brentford,2.0,0.0,2.63126,0.588716
+premier_league,2025,2025-12-03 19:30:00,Brighton,Aston Villa,3.0,4.0,1.96298,3.15745
+premier_league,2025,2025-12-03 19:30:00,Burnley,Crystal Palace,0.0,1.0,1.16852,0.987797
+premier_league,2025,2025-12-03 19:30:00,Wolverhampton Wanderers,Nottingham Forest,0.0,1.0,1.02461,1.12389
+premier_league,2025,2025-12-03 20:15:00,Leeds,Chelsea,3.0,1.0,2.2047,0.964018
+premier_league,2025,2025-12-03 20:15:00,Liverpool,Sunderland,1.0,1.0,1.37633,0.712662
+premier_league,2025,2025-12-04 20:00:00,Manchester United,West Ham,1.0,1.0,2.27674,1.36584
+premier_league,2025,2025-12-06 12:30:00,Aston Villa,Arsenal,2.0,1.0,2.71986,1.85965
+premier_league,2025,2025-12-06 15:00:00,Bournemouth,Chelsea,0.0,0.0,1.41931,0.672602
+premier_league,2025,2025-12-06 15:00:00,Everton,Nottingham Forest,3.0,0.0,1.25348,0.31234
+premier_league,2025,2025-12-06 15:00:00,Manchester City,Sunderland,3.0,0.0,2.41605,0.626486
+premier_league,2025,2025-12-06 15:00:00,Newcastle United,Burnley,2.0,1.0,1.80708,1.58375
+premier_league,2025,2025-12-06 15:00:00,Tottenham,Brentford,2.0,0.0,2.42388,0.470563
+premier_league,2025,2025-12-06 17:30:00,Leeds,Liverpool,3.0,3.0,1.79333,2.04805
+premier_league,2025,2025-12-07 14:00:00,Brighton,West Ham,1.0,1.0,2.10077,1.7064
+premier_league,2025,2025-12-07 16:30:00,Fulham,Crystal Palace,1.0,2.0,0.766771,1.71109
+premier_league,2025,2025-12-08 20:00:00,Wolverhampton Wanderers,Manchester United,1.0,4.0,0.262147,4.04708
+premier_league,2025,2025-12-13 15:00:00,Chelsea,Everton,2.0,0.0,2.64457,1.34
+premier_league,2025,2025-12-13 15:00:00,Liverpool,Brighton,2.0,0.0,2.4127,1.69004
+premier_league,2025,2025-12-13 17:30:00,Burnley,Fulham,2.0,3.0,2.05486,1.65053
+premier_league,2025,2025-12-13 20:00:00,Arsenal,Wolverhampton Wanderers,2.0,1.0,1.61796,0.61997
+premier_league,2025,2025-12-14 14:00:00,Crystal Palace,Manchester City,0.0,3.0,1.30092,1.35317
+premier_league,2025,2025-12-14 14:00:00,Nottingham Forest,Tottenham,3.0,0.0,2.32658,0.380246
+premier_league,2025,2025-12-14 14:00:00,Sunderland,Newcastle United,1.0,0.0,0.630045,0.169329
+premier_league,2025,2025-12-14 14:00:00,West Ham,Aston Villa,2.0,3.0,1.27701,0.595093
+premier_league,2025,2025-12-14 16:30:00,Brentford,Leeds,1.0,1.0,0.697006,1.63409
+premier_league,2025,2025-12-15 20:00:00,Manchester United,Bournemouth,4.0,4.0,3.21204,2.35196
+premier_league,2025,2025-12-20 12:30:00,Newcastle United,Chelsea,2.0,2.0,2.87863,1.0261
+premier_league,2025,2025-12-20 15:00:00,Bournemouth,Burnley,1.0,1.0,1.81847,0.480528
+premier_league,2025,2025-12-20 15:00:00,Brighton,Sunderland,0.0,0.0,0.919272,1.31044
+premier_league,2025,2025-12-20 15:00:00,Manchester City,West Ham,3.0,0.0,3.58188,1.02143
+premier_league,2025,2025-12-20 15:00:00,Wolverhampton Wanderers,Brentford,0.0,2.0,1.26823,1.56309
+premier_league,2025,2025-12-20 17:30:00,Tottenham,Liverpool,1.0,2.0,1.34905,1.23164
+premier_league,2025,2025-12-20 20:00:00,Everton,Arsenal,0.0,1.0,0.213273,1.84723
+premier_league,2025,2025-12-20 20:00:00,Leeds,Crystal Palace,4.0,1.0,2.90786,1.53058
+premier_league,2025,2025-12-21 16:30:00,Aston Villa,Manchester United,2.0,1.0,1.86917,1.30455
+premier_league,2025,2025-12-22 20:00:00,Fulham,Nottingham Forest,1.0,0.0,1.70568,0.486296
+premier_league,2025,2025-12-26 20:00:00,Manchester United,Newcastle United,1.0,0.0,0.940811,1.12998
+premier_league,2025,2025-12-27 12:30:00,Nottingham Forest,Manchester City,1.0,2.0,0.600141,1.46468
+premier_league,2025,2025-12-27 15:00:00,Arsenal,Brighton,2.0,1.0,2.54318,0.710064
+premier_league,2025,2025-12-27 15:00:00,Brentford,Bournemouth,4.0,1.0,2.8513,2.56183
+premier_league,2025,2025-12-27 15:00:00,Burnley,Everton,0.0,0.0,1.24948,1.25204
+premier_league,2025,2025-12-27 15:00:00,Liverpool,Wolverhampton Wanderers,2.0,1.0,1.56502,0.780664
+premier_league,2025,2025-12-27 15:00:00,West Ham,Fulham,0.0,1.0,1.13719,1.11436
+premier_league,2025,2025-12-27 17:30:00,Chelsea,Aston Villa,1.0,2.0,1.97155,2.05918
+premier_league,2025,2025-12-28 14:00:00,Sunderland,Leeds,1.0,1.0,0.805957,2.60653
+premier_league,2025,2025-12-28 16:30:00,Crystal Palace,Tottenham,0.0,1.0,0.929681,0.870768
+premier_league,2025,2025-12-30 19:30:00,Burnley,Newcastle United,1.0,3.0,1.32551,2.49248
+premier_league,2025,2025-12-30 19:30:00,Chelsea,Bournemouth,2.0,2.0,2.33294,3.49142
+premier_league,2025,2025-12-30 19:30:00,Nottingham Forest,Everton,0.0,2.0,1.75445,1.69525
+premier_league,2025,2025-12-30 19:30:00,West Ham,Brighton,2.0,2.0,2.27644,3.08914
+premier_league,2025,2025-12-30 20:15:00,Arsenal,Aston Villa,4.0,1.0,4.41335,2.94195
+premier_league,2025,2025-12-30 20:15:00,Manchester United,Wolverhampton Wanderers,1.0,1.0,1.13306,1.21784
+premier_league,2025,2026-01-01 17:30:00,Crystal Palace,Fulham,1.0,1.0,2.35346,1.75434
+premier_league,2025,2026-01-01 17:30:00,Liverpool,Leeds,0.0,0.0,1.67833,0.15936
+premier_league,2025,2026-01-01 20:00:00,Brentford,Tottenham,0.0,0.0,0.556304,0.608309
+premier_league,2025,2026-01-01 20:00:00,Sunderland,Manchester City,0.0,0.0,0.962141,2.44247
+premier_league,2025,2026-01-03 12:30:00,Aston Villa,Nottingham Forest,3.0,1.0,1.42988,0.8982
+premier_league,2025,2026-01-03 15:00:00,Brighton,Burnley,2.0,0.0,1.4717,0.254551
+premier_league,2025,2026-01-03 15:00:00,Wolverhampton Wanderers,West Ham,3.0,0.0,2.23925,0.235678
+premier_league,2025,2026-01-03 17:30:00,Bournemouth,Arsenal,2.0,3.0,0.947846,1.28
+premier_league,2025,2026-01-04 12:30:00,Leeds,Manchester United,1.0,1.0,0.970138,1.94781
+premier_league,2025,2026-01-04 15:00:00,Everton,Brentford,2.0,4.0,1.00566,3.05179
+premier_league,2025,2026-01-04 15:00:00,Fulham,Liverpool,2.0,2.0,0.609182,1.7188
+premier_league,2025,2026-01-04 15:00:00,Newcastle United,Crystal Palace,2.0,0.0,2.72764,1.27825
+premier_league,2025,2026-01-04 15:00:00,Tottenham,Sunderland,1.0,1.0,1.4175,0.467481
+premier_league,2025,2026-01-04 17:30:00,Manchester City,Chelsea,1.0,1.0,1.03049,2.03726
+premier_league,2025,2026-01-06 20:00:00,West Ham,Nottingham Forest,1.0,2.0,1.73697,1.26683
+premier_league,2025,2026-01-07 19:30:00,Bournemouth,Tottenham,3.0,2.0,1.19014,1.6261
+premier_league,2025,2026-01-07 19:30:00,Brentford,Sunderland,3.0,0.0,3.86096,1.50644
+premier_league,2025,2026-01-07 19:30:00,Crystal Palace,Aston Villa,0.0,0.0,1.32505,2.07015
+premier_league,2025,2026-01-07 19:30:00,Everton,Wolverhampton Wanderers,1.0,1.0,1.63321,0.71329
+premier_league,2025,2026-01-07 19:30:00,Fulham,Chelsea,2.0,1.0,1.06013,2.45107
+premier_league,2025,2026-01-07 19:30:00,Manchester City,Brighton,1.0,1.0,2.95904,1.33162
+premier_league,2025,2026-01-07 20:15:00,Burnley,Manchester United,2.0,2.0,0.31971,2.52488
+premier_league,2025,2026-01-07 20:15:00,Newcastle United,Leeds,4.0,3.0,2.43495,2.35318
+premier_league,2025,2026-01-08 20:00:00,Arsenal,Liverpool,0.0,0.0,0.701832,0.318642
+premier_league,2025,2026-01-17 12:30:00,Manchester United,Manchester City,2.0,0.0,3.07278,0.387015
+premier_league,2025,2026-01-17 15:00:00,Chelsea,Brentford,2.0,0.0,1.62263,1.47521
+premier_league,2025,2026-01-17 15:00:00,Leeds,Fulham,1.0,0.0,2.16898,0.258796
+premier_league,2025,2026-01-17 15:00:00,Liverpool,Burnley,1.0,1.0,3.49045,0.546971
+premier_league,2025,2026-01-17 15:00:00,Sunderland,Crystal Palace,2.0,1.0,1.84601,1.15169
+premier_league,2025,2026-01-17 15:00:00,Tottenham,West Ham,1.0,2.0,1.65292,2.76761
+premier_league,2025,2026-01-17 17:30:00,Nottingham Forest,Arsenal,0.0,0.0,0.318481,2.86323
+premier_league,2025,2026-01-18 14:00:00,Wolverhampton Wanderers,Newcastle United,0.0,0.0,0.390216,0.813313
+premier_league,2025,2026-01-18 16:30:00,Aston Villa,Everton,0.0,1.0,0.905393,0.745859
+premier_league,2025,2026-01-19 20:00:00,Brighton,Bournemouth,1.0,1.0,0.995777,1.69737
+premier_league,2025,2026-01-24 12:30:00,West Ham,Sunderland,3.0,1.0,2.18675,0.713838
+premier_league,2025,2026-01-24 15:00:00,Burnley,Tottenham,2.0,2.0,1.54884,2.59093
+premier_league,2025,2026-01-24 15:00:00,Fulham,Brighton,2.0,1.0,1.13243,1.94652
+premier_league,2025,2026-01-24 15:00:00,Manchester City,Wolverhampton Wanderers,2.0,0.0,1.0654,0.542683
+premier_league,2025,2026-01-24 17:30:00,Bournemouth,Liverpool,3.0,2.0,3.31474,0.937335
+premier_league,2025,2026-01-25 14:00:00,Brentford,Nottingham Forest,0.0,2.0,2.00413,1.38958
+premier_league,2025,2026-01-25 14:00:00,Crystal Palace,Chelsea,1.0,3.0,2.41793,3.08817
+premier_league,2025,2026-01-25 14:00:00,Newcastle United,Aston Villa,0.0,2.0,1.95484,1.32143
+premier_league,2025,2026-01-25 16:30:00,Arsenal,Manchester United,2.0,3.0,1.42411,0.640902
+premier_league,2025,2026-01-26 20:00:00,Everton,Leeds,1.0,1.0,0.889916,1.6766
+premier_league,2025,2026-01-31 15:00:00,Brighton,Everton,1.0,1.0,1.42825,1.28126
+premier_league,2025,2026-01-31 15:00:00,Leeds,Arsenal,0.0,4.0,0.17871,3.54427
+premier_league,2025,2026-01-31 15:00:00,Wolverhampton Wanderers,Bournemouth,0.0,2.0,2.10353,1.59116
+premier_league,2025,2026-01-31 17:30:00,Chelsea,West Ham,3.0,2.0,2.66133,1.72585
+premier_league,2025,2026-01-31 20:00:00,Liverpool,Newcastle United,4.0,1.0,3.09973,0.284319
+premier_league,2025,2026-02-01 14:00:00,Aston Villa,Brentford,0.0,1.0,2.15316,0.314916
+premier_league,2025,2026-02-01 14:00:00,Manchester United,Fulham,3.0,2.0,1.84362,1.71998
+premier_league,2025,2026-02-01 14:00:00,Nottingham Forest,Crystal Palace,1.0,1.0,0.987254,1.648
+premier_league,2025,2026-02-01 16:30:00,Tottenham,Manchester City,2.0,2.0,1.49738,2.03614
+premier_league,2025,2026-02-02 20:00:00,Sunderland,Burnley,3.0,0.0,1.8865,0.126371
+premier_league,2025,2026-02-06 20:00:00,Leeds,Nottingham Forest,3.0,1.0,3.38179,1.6608
+premier_league,2025,2026-02-07 12:30:00,Manchester United,Tottenham,2.0,0.0,2.16576,0.593404
+premier_league,2025,2026-02-07 15:00:00,Arsenal,Sunderland,3.0,0.0,1.19401,0.427225
+premier_league,2025,2026-02-07 15:00:00,Bournemouth,Aston Villa,1.0,1.0,1.82646,0.646496
+premier_league,2025,2026-02-07 15:00:00,Burnley,West Ham,0.0,2.0,1.84644,1.1223
+premier_league,2025,2026-02-07 15:00:00,Fulham,Everton,1.0,2.0,2.20126,1.88778
+premier_league,2025,2026-02-07 15:00:00,Wolverhampton Wanderers,Chelsea,1.0,3.0,1.11372,3.76278
+premier_league,2025,2026-02-07 17:30:00,Newcastle United,Brentford,2.0,3.0,3.3215,1.65022
+premier_league,2025,2026-02-08 14:00:00,Brighton,Crystal Palace,0.0,1.0,0.737798,0.928404
+premier_league,2025,2026-02-08 16:30:00,Liverpool,Manchester City,1.0,2.0,1.26652,2.41476
+premier_league,2025,2026-02-10 19:30:00,Chelsea,Leeds,2.0,2.0,3.21176,1.28948
+premier_league,2025,2026-02-10 19:30:00,Everton,Bournemouth,1.0,2.0,2.33114,1.4121
+premier_league,2025,2026-02-10 19:30:00,Tottenham,Newcastle United,1.0,2.0,1.68925,2.46991
+premier_league,2025,2026-02-10 20:15:00,West Ham,Manchester United,1.0,1.0,1.30746,0.735767
+premier_league,2025,2026-02-11 19:30:00,Aston Villa,Brighton,1.0,0.0,0.576138,0.481306
+premier_league,2025,2026-02-11 19:30:00,Crystal Palace,Burnley,2.0,3.0,2.1276,0.691273
+premier_league,2025,2026-02-11 19:30:00,Manchester City,Fulham,3.0,0.0,1.67722,1.05283
+premier_league,2025,2026-02-11 19:30:00,Nottingham Forest,Wolverhampton Wanderers,0.0,0.0,3.69094,0.406959
+premier_league,2025,2026-02-11 20:15:00,Sunderland,Liverpool,0.0,1.0,0.693794,3.08172
+premier_league,2025,2026-02-12 20:00:00,Brentford,Arsenal,1.0,1.0,1.81154,0.78418
+premier_league,2025,2026-02-18 20:00:00,Wolverhampton Wanderers,Arsenal,2.0,2.0,0.173119,2.01018
+premier_league,2025,2026-02-21 15:00:00,Aston Villa,Leeds,1.0,1.0,1.25439,1.27855
+premier_league,2025,2026-02-21 15:00:00,Brentford,Brighton,0.0,2.0,1.69023,1.37203
+premier_league,2025,2026-02-21 15:00:00,Chelsea,Burnley,1.0,1.0,2.51534,1.01255
+premier_league,2025,2026-02-21 17:30:00,West Ham,Bournemouth,0.0,0.0,2.34412,0.522731
+premier_league,2025,2026-02-21 20:00:00,Manchester City,Newcastle United,2.0,1.0,2.22648,0.507954
+premier_league,2025,2026-02-22 14:00:00,Crystal Palace,Wolverhampton Wanderers,1.0,0.0,2.03559,1.67749
+premier_league,2025,2026-02-22 14:00:00,Nottingham Forest,Liverpool,0.0,1.0,0.934768,2.39634
+premier_league,2025,2026-02-22 14:00:00,Sunderland,Fulham,1.0,3.0,1.7609,2.16696
+premier_league,2025,2026-02-22 16:30:00,Tottenham,Arsenal,1.0,4.0,0.383264,3.31701
+premier_league,2025,2026-02-23 20:00:00,Everton,Manchester United,0.0,1.0,0.560924,1.4547
+premier_league,2025,2026-02-27 20:00:00,Wolverhampton Wanderers,Aston Villa,2.0,0.0,1.50771,1.31328
+premier_league,2025,2026-02-28 12:30:00,Bournemouth,Sunderland,1.0,1.0,1.82434,1.07887
+premier_league,2025,2026-02-28 15:00:00,Burnley,Brentford,3.0,4.0,0.823824,2.44595
+premier_league,2025,2026-02-28 15:00:00,Liverpool,West Ham,5.0,2.0,2.09939,1.3517
+premier_league,2025,2026-02-28 15:00:00,Newcastle United,Everton,2.0,3.0,1.11889,2.40731
+premier_league,2025,2026-02-28 17:30:00,Leeds,Manchester City,0.0,1.0,1.37824,2.46834
+premier_league,2025,2026-03-01 14:00:00,Brighton,Nottingham Forest,2.0,1.0,1.20107,0.83055
+premier_league,2025,2026-03-01 14:00:00,Fulham,Tottenham,2.0,1.0,2.3207,0.952091
+premier_league,2025,2026-03-01 14:00:00,Manchester United,Crystal Palace,2.0,1.0,2.34609,0.384699
+premier_league,2025,2026-03-01 16:30:00,Arsenal,Chelsea,2.0,1.0,1.71598,1.35268
+premier_league,2025,2026-03-03 19:30:00,Bournemouth,Brentford,0.0,0.0,2.3177,0.673328
+premier_league,2025,2026-03-03 19:30:00,Everton,Burnley,2.0,0.0,1.15845,0.762229
+premier_league,2025,2026-03-03 19:30:00,Leeds,Sunderland,0.0,1.0,0.888232,0.843856
+premier_league,2025,2026-03-03 20:15:00,Wolverhampton Wanderers,Liverpool,2.0,1.0,0.636033,2.17217
+premier_league,2025,2026-03-04 19:30:00,Aston Villa,Chelsea,1.0,4.0,1.06854,3.38883
+premier_league,2025,2026-03-04 19:30:00,Brighton,Arsenal,0.0,1.0,0.919228,0.514803
+premier_league,2025,2026-03-04 19:30:00,Fulham,West Ham,0.0,1.0,0.628123,1.49528
+premier_league,2025,2026-03-04 19:30:00,Manchester City,Nottingham Forest,2.0,2.0,2.72655,1.23642
+premier_league,2025,2026-03-04 20:15:00,Newcastle United,Manchester United,2.0,1.0,1.96637,1.80571
+premier_league,2025,2026-03-05 20:00:00,Tottenham,Crystal Palace,1.0,3.0,1.29615,1.91515
+premier_league,2025,2026-03-14 15:00:00,Burnley,Bournemouth,0.0,0.0,1.67695,2.36979
+premier_league,2025,2026-03-14 15:00:00,Sunderland,Brighton,0.0,1.0,0.659083,1.12832
+premier_league,2025,2026-03-14 17:30:00,Arsenal,Everton,2.0,0.0,1.90855,1.17847
+premier_league,2025,2026-03-14 17:30:00,Chelsea,Newcastle United,0.0,1.0,1.72508,1.03251
+premier_league,2025,2026-03-14 20:00:00,West Ham,Manchester City,1.0,1.0,0.488982,1.9546
+premier_league,2025,2026-03-15 14:00:00,Crystal Palace,Leeds,0.0,0.0,0.525205,1.13558
+premier_league,2025,2026-03-15 14:00:00,Manchester United,Aston Villa,3.0,1.0,1.67823,1.21071
+premier_league,2025,2026-03-15 14:00:00,Nottingham Forest,Fulham,0.0,0.0,0.821011,0.933988
+premier_league,2025,2026-03-15 16:30:00,Liverpool,Tottenham,1.0,1.0,1.30076,1.15636
+premier_league,2025,2026-03-16 20:00:00,Brentford,Wolverhampton Wanderers,2.0,2.0,2.7966,1.80044
+premier_league,2025,2026-03-20 20:00:00,Bournemouth,Manchester United,2.0,2.0,1.76664,1.74574
+premier_league,2025,2026-03-21 12:30:00,Brighton,Liverpool,2.0,1.0,3.42956,0.956801
+premier_league,2025,2026-03-21 15:00:00,Fulham,Burnley,3.0,1.0,3.48438,1.92556
+premier_league,2025,2026-03-21 15:00:00,Manchester City,Crystal Palace,,,,
+premier_league,2025,2026-03-21 17:30:00,Everton,Chelsea,3.0,0.0,1.44532,1.35143
+premier_league,2025,2026-03-21 20:00:00,Leeds,Brentford,0.0,0.0,0.417296,0.302221
+premier_league,2025,2026-03-22 12:00:00,Newcastle United,Sunderland,1.0,2.0,1.26705,2.66657
+premier_league,2025,2026-03-22 14:15:00,Aston Villa,West Ham,2.0,0.0,2.48528,0.760054
+premier_league,2025,2026-03-22 14:15:00,Tottenham,Nottingham Forest,0.0,3.0,1.6189,1.54408
+premier_league,2025,2026-04-10 19:00:00,West Ham,Wolverhampton Wanderers,4.0,0.0,2.54379,0.571967
+premier_league,2025,2026-04-11 11:30:00,Arsenal,Bournemouth,1.0,2.0,3.16346,1.39461
+premier_league,2025,2026-04-11 14:00:00,Brentford,Everton,2.0,2.0,2.26302,1.57033
+premier_league,2025,2026-04-11 14:00:00,Burnley,Brighton,0.0,2.0,0.812029,1.07182
+premier_league,2025,2026-04-11 16:30:00,Liverpool,Fulham,,,,
+premier_league,2025,2026-04-12 13:00:00,Crystal Palace,Newcastle United,,,,
+premier_league,2025,2026-04-12 13:00:00,Nottingham Forest,Aston Villa,,,,
+premier_league,2025,2026-04-12 13:00:00,Sunderland,Tottenham,,,,
+premier_league,2025,2026-04-12 15:30:00,Chelsea,Manchester City,,,,
+premier_league,2025,2026-04-13 19:00:00,Manchester United,Leeds,,,,
+premier_league,2025,2026-04-18 11:30:00,Brentford,Fulham,,,,
+premier_league,2025,2026-04-18 14:00:00,Leeds,Wolverhampton Wanderers,,,,
+premier_league,2025,2026-04-18 14:00:00,Newcastle United,Bournemouth,,,,
+premier_league,2025,2026-04-18 16:30:00,Tottenham,Brighton,,,,
+premier_league,2025,2026-04-18 19:00:00,Chelsea,Manchester United,,,,
+premier_league,2025,2026-04-19 13:00:00,Aston Villa,Sunderland,,,,
+premier_league,2025,2026-04-19 13:00:00,Everton,Liverpool,,,,
+premier_league,2025,2026-04-19 13:00:00,Nottingham Forest,Burnley,,,,
+premier_league,2025,2026-04-19 15:30:00,Manchester City,Arsenal,,,,
+premier_league,2025,2026-04-20 19:00:00,Crystal Palace,West Ham,,,,
+premier_league,2025,2026-04-24 19:00:00,Sunderland,Nottingham Forest,,,,
+premier_league,2025,2026-04-25 11:30:00,Fulham,Aston Villa,,,,
+premier_league,2025,2026-04-25 14:00:00,Bournemouth,Leeds,,,,
+premier_league,2025,2026-04-25 14:00:00,Liverpool,Crystal Palace,,,,
+premier_league,2025,2026-04-25 14:00:00,West Ham,Everton,,,,
+premier_league,2025,2026-04-25 14:00:00,Wolverhampton Wanderers,Tottenham,,,,
+premier_league,2025,2026-04-25 16:30:00,Arsenal,Newcastle United,,,,
+premier_league,2025,2026-04-26 13:00:00,Burnley,Manchester City,,,,
+premier_league,2025,2026-04-26 15:30:00,Brighton,Chelsea,,,,
+premier_league,2025,2026-04-27 19:00:00,Manchester United,Brentford,,,,
+premier_league,2025,2026-05-01 19:00:00,Leeds,Burnley,,,,
+premier_league,2025,2026-05-02 11:30:00,Aston Villa,Tottenham,,,,
+premier_league,2025,2026-05-02 14:00:00,Bournemouth,Crystal Palace,,,,
+premier_league,2025,2026-05-02 14:00:00,Brentford,West Ham,,,,
+premier_league,2025,2026-05-02 14:00:00,Newcastle United,Brighton,,,,
+premier_league,2025,2026-05-02 14:00:00,Wolverhampton Wanderers,Sunderland,,,,
+premier_league,2025,2026-05-02 16:30:00,Arsenal,Fulham,,,,
+premier_league,2025,2026-05-03 14:30:00,Manchester United,Liverpool,,,,
+premier_league,2025,2026-05-04 14:00:00,Chelsea,Nottingham Forest,,,,
+premier_league,2025,2026-05-04 19:00:00,Everton,Manchester City,,,,
+premier_league,2025,2026-05-09 11:30:00,Liverpool,Chelsea,,,,
+premier_league,2025,2026-05-09 14:00:00,Brighton,Wolverhampton Wanderers,,,,
+premier_league,2025,2026-05-09 14:00:00,Burnley,Aston Villa,,,,
+premier_league,2025,2026-05-09 14:00:00,Crystal Palace,Everton,,,,
+premier_league,2025,2026-05-09 14:00:00,Fulham,Bournemouth,,,,
+premier_league,2025,2026-05-09 14:00:00,Sunderland,Manchester United,,,,
+premier_league,2025,2026-05-09 16:30:00,Manchester City,Brentford,,,,
+premier_league,2025,2026-05-10 13:00:00,Nottingham Forest,Newcastle United,,,,
+premier_league,2025,2026-05-10 15:30:00,West Ham,Arsenal,,,,
+premier_league,2025,2026-05-11 19:00:00,Tottenham,Leeds,,,,
+premier_league,2025,2026-05-17 14:00:00,Arsenal,Burnley,,,,
+premier_league,2025,2026-05-17 14:00:00,Aston Villa,Liverpool,,,,
+premier_league,2025,2026-05-17 14:00:00,Bournemouth,Manchester City,,,,
+premier_league,2025,2026-05-17 14:00:00,Brentford,Crystal Palace,,,,
+premier_league,2025,2026-05-17 14:00:00,Chelsea,Tottenham,,,,
+premier_league,2025,2026-05-17 14:00:00,Everton,Sunderland,,,,
+premier_league,2025,2026-05-17 14:00:00,Leeds,Brighton,,,,
+premier_league,2025,2026-05-17 14:00:00,Manchester United,Nottingham Forest,,,,
+premier_league,2025,2026-05-17 14:00:00,Newcastle United,West Ham,,,,
+premier_league,2025,2026-05-17 14:00:00,Wolverhampton Wanderers,Fulham,,,,
+premier_league,2025,2026-05-24 15:00:00,Brighton,Manchester United,,,,
+premier_league,2025,2026-05-24 15:00:00,Burnley,Wolverhampton Wanderers,,,,
+premier_league,2025,2026-05-24 15:00:00,Crystal Palace,Arsenal,,,,
+premier_league,2025,2026-05-24 15:00:00,Fulham,Newcastle United,,,,
+premier_league,2025,2026-05-24 15:00:00,Liverpool,Brentford,,,,
+premier_league,2025,2026-05-24 15:00:00,Manchester City,Aston Villa,,,,
+premier_league,2025,2026-05-24 15:00:00,Nottingham Forest,Bournemouth,,,,
+premier_league,2025,2026-05-24 15:00:00,Sunderland,Chelsea,,,,
+premier_league,2025,2026-05-24 15:00:00,Tottenham,Everton,,,,
+premier_league,2025,2026-05-24 15:00:00,West Ham,Leeds,,,,
 serie_a,2014,2014-08-30 17:00:00,Chievo,Juventus,0.0,1.0,0.502227,2.37394
 serie_a,2014,2014-08-30 19:45:00,Roma,Fiorentina,2.0,0.0,2.24014,0.377616
 serie_a,2014,2014-08-31 17:00:00,AC Milan,Lazio,3.0,1.0,2.01129,2.03815
@@ -19937,3 +21309,383 @@ serie_a,2024,2025-05-25 18:45:00,Lazio,Lecce,0.0,1.0,1.73521,0.708667
 serie_a,2024,2025-05-25 18:45:00,Torino,Roma,0.0,2.0,0.381059,2.64436
 serie_a,2024,2025-05-25 18:45:00,Udinese,Fiorentina,2.0,3.0,1.61711,3.06465
 serie_a,2024,2025-05-25 18:45:00,Venezia,Juventus,2.0,3.0,1.01327,1.66948
+serie_a,2025,2025-08-23 16:30:00,Genoa,Lecce,0.0,0.0,0.56563,0.55094
+serie_a,2025,2025-08-23 16:30:00,Sassuolo,Napoli,0.0,2.0,0.298477,1.55456
+serie_a,2025,2025-08-23 18:45:00,AC Milan,Cremonese,1.0,2.0,2.08498,0.363576
+serie_a,2025,2025-08-23 18:45:00,Roma,Bologna,1.0,0.0,1.47691,0.443508
+serie_a,2025,2025-08-24 16:30:00,Cagliari,Fiorentina,1.0,1.0,1.51736,1.14261
+serie_a,2025,2025-08-24 16:30:00,Como,Lazio,2.0,0.0,1.28478,0.202984
+serie_a,2025,2025-08-24 18:45:00,Atalanta,Pisa,1.0,1.0,2.04697,1.02901
+serie_a,2025,2025-08-24 18:45:00,Juventus,Parma Calcio 1913,2.0,0.0,2.74202,0.815567
+serie_a,2025,2025-08-25 16:30:00,Udinese,Verona,1.0,1.0,1.05058,0.799203
+serie_a,2025,2025-08-25 18:45:00,Inter,Torino,5.0,0.0,2.60956,0.816232
+serie_a,2025,2025-08-29 16:30:00,Cremonese,Sassuolo,3.0,2.0,3.52949,1.32978
+serie_a,2025,2025-08-29 18:45:00,Lecce,AC Milan,0.0,2.0,0.481693,2.13175
+serie_a,2025,2025-08-30 16:30:00,Bologna,Como,1.0,0.0,1.51584,0.521585
+serie_a,2025,2025-08-30 16:30:00,Parma Calcio 1913,Atalanta,1.0,1.0,0.751112,1.19727
+serie_a,2025,2025-08-30 18:45:00,Napoli,Cagliari,1.0,0.0,1.73158,0.64413
+serie_a,2025,2025-08-30 18:45:00,Pisa,Roma,0.0,1.0,0.6627,0.953921
+serie_a,2025,2025-08-31 16:30:00,Genoa,Juventus,0.0,1.0,0.593013,1.55128
+serie_a,2025,2025-08-31 16:30:00,Torino,Fiorentina,0.0,0.0,1.05012,1.18859
+serie_a,2025,2025-08-31 18:45:00,Inter,Udinese,1.0,2.0,1.67172,1.20014
+serie_a,2025,2025-08-31 18:45:00,Lazio,Verona,4.0,0.0,3.96645,0.600485
+serie_a,2025,2025-09-13 13:00:00,Cagliari,Parma Calcio 1913,2.0,0.0,1.76945,1.95549
+serie_a,2025,2025-09-13 16:00:00,Juventus,Inter,4.0,3.0,0.768943,1.01628
+serie_a,2025,2025-09-13 18:45:00,Fiorentina,Napoli,1.0,3.0,1.39098,3.55376
+serie_a,2025,2025-09-14 10:30:00,Roma,Torino,0.0,1.0,1.02943,0.805089
+serie_a,2025,2025-09-14 13:00:00,Atalanta,Lecce,4.0,1.0,2.62415,0.532382
+serie_a,2025,2025-09-14 13:00:00,Pisa,Udinese,0.0,1.0,1.27587,1.72902
+serie_a,2025,2025-09-14 16:00:00,Sassuolo,Lazio,1.0,0.0,1.2156,0.858246
+serie_a,2025,2025-09-14 18:45:00,AC Milan,Bologna,1.0,0.0,1.15538,0.198634
+serie_a,2025,2025-09-15 16:30:00,Verona,Cremonese,0.0,0.0,1.8883,0.166346
+serie_a,2025,2025-09-15 18:45:00,Como,Genoa,1.0,1.0,1.56467,2.54288
+serie_a,2025,2025-09-19 18:45:00,Lecce,Cagliari,1.0,2.0,1.13998,2.21034
+serie_a,2025,2025-09-20 13:00:00,Bologna,Genoa,2.0,1.0,1.78786,0.794732
+serie_a,2025,2025-09-20 16:00:00,Verona,Juventus,1.0,1.0,1.65885,0.470357
+serie_a,2025,2025-09-20 18:45:00,Udinese,AC Milan,0.0,3.0,0.298364,1.70251
+serie_a,2025,2025-09-21 10:30:00,Lazio,Roma,0.0,1.0,0.666967,1.22639
+serie_a,2025,2025-09-21 13:00:00,Cremonese,Parma Calcio 1913,0.0,0.0,0.172561,0.902031
+serie_a,2025,2025-09-21 13:00:00,Torino,Atalanta,0.0,3.0,1.31336,1.67723
+serie_a,2025,2025-09-21 16:00:00,Fiorentina,Como,1.0,2.0,0.424904,2.09507
+serie_a,2025,2025-09-21 18:45:00,Inter,Sassuolo,2.0,1.0,3.12186,0.850824
+serie_a,2025,2025-09-22 18:45:00,Napoli,Pisa,3.0,2.0,1.18611,2.51985
+serie_a,2025,2025-09-27 13:00:00,Como,Cremonese,1.0,1.0,1.44033,0.564557
+serie_a,2025,2025-09-27 16:00:00,Juventus,Atalanta,1.0,1.0,1.84242,0.885278
+serie_a,2025,2025-09-27 18:45:00,Cagliari,Inter,0.0,2.0,0.475174,3.95419
+serie_a,2025,2025-09-28 10:30:00,Sassuolo,Udinese,3.0,1.0,2.31332,1.19344
+serie_a,2025,2025-09-28 13:00:00,Pisa,Fiorentina,0.0,0.0,0.580471,0.840093
+serie_a,2025,2025-09-28 13:00:00,Roma,Verona,2.0,0.0,1.30542,1.35351
+serie_a,2025,2025-09-28 16:00:00,Lecce,Bologna,2.0,2.0,2.09017,1.5908
+serie_a,2025,2025-09-28 18:45:00,AC Milan,Napoli,2.0,1.0,0.952575,2.23894
+serie_a,2025,2025-09-29 16:30:00,Parma Calcio 1913,Torino,2.0,1.0,1.44462,0.660829
+serie_a,2025,2025-09-29 18:45:00,Genoa,Lazio,0.0,3.0,1.47659,3.54059
+serie_a,2025,2025-10-03 18:45:00,Verona,Sassuolo,0.0,1.0,0.810981,1.5058
+serie_a,2025,2025-10-04 13:00:00,Lazio,Torino,3.0,3.0,1.45075,2.18108
+serie_a,2025,2025-10-04 13:00:00,Parma Calcio 1913,Lecce,0.0,1.0,1.08896,0.622459
+serie_a,2025,2025-10-04 16:00:00,Inter,Cremonese,4.0,1.0,4.65231,0.619599
+serie_a,2025,2025-10-04 18:45:00,Atalanta,Como,1.0,1.0,1.74169,0.959121
+serie_a,2025,2025-10-05 10:30:00,Udinese,Cagliari,1.0,1.0,2.98545,0.789093
+serie_a,2025,2025-10-05 13:00:00,Bologna,Pisa,4.0,0.0,3.69928,0.0265067
+serie_a,2025,2025-10-05 13:00:00,Fiorentina,Roma,1.0,2.0,1.11719,1.22512
+serie_a,2025,2025-10-05 16:00:00,Napoli,Genoa,2.0,1.0,1.87915,0.691583
+serie_a,2025,2025-10-05 18:45:00,Juventus,AC Milan,0.0,0.0,0.570595,1.55707
+serie_a,2025,2025-10-18 13:00:00,Lecce,Sassuolo,0.0,0.0,0.66998,0.77146
+serie_a,2025,2025-10-18 13:00:00,Pisa,Verona,0.0,0.0,0.572009,1.65491
+serie_a,2025,2025-10-18 16:00:00,Torino,Napoli,1.0,0.0,1.90815,1.71911
+serie_a,2025,2025-10-18 18:45:00,Roma,Inter,0.0,1.0,2.1538,0.96386
+serie_a,2025,2025-10-19 10:30:00,Como,Juventus,2.0,0.0,1.68785,0.964723
+serie_a,2025,2025-10-19 13:00:00,Cagliari,Bologna,0.0,2.0,0.367775,1.15836
+serie_a,2025,2025-10-19 13:00:00,Genoa,Parma Calcio 1913,0.0,0.0,2.21692,0.0544873
+serie_a,2025,2025-10-19 16:00:00,Atalanta,Lazio,0.0,0.0,2.38095,0.220276
+serie_a,2025,2025-10-19 18:45:00,AC Milan,Fiorentina,2.0,1.0,2.01853,0.965997
+serie_a,2025,2025-10-20 18:45:00,Cremonese,Udinese,1.0,1.0,1.22876,0.962572
+serie_a,2025,2025-10-24 18:45:00,AC Milan,Pisa,2.0,2.0,1.97232,1.22514
+serie_a,2025,2025-10-25 13:00:00,Parma Calcio 1913,Como,0.0,0.0,1.56651,0.387121
+serie_a,2025,2025-10-25 13:00:00,Udinese,Lecce,3.0,2.0,1.51576,0.373551
+serie_a,2025,2025-10-25 16:00:00,Napoli,Inter,3.0,1.0,1.18626,2.07077
+serie_a,2025,2025-10-25 18:45:00,Cremonese,Atalanta,1.0,1.0,0.967146,1.62371
+serie_a,2025,2025-10-26 10:30:00,Torino,Genoa,2.0,1.0,1.8196,1.9796
+serie_a,2025,2025-10-26 13:00:00,Sassuolo,Roma,0.0,1.0,0.949353,2.25968
+serie_a,2025,2025-10-26 13:00:00,Verona,Cagliari,2.0,2.0,2.03687,0.837271
+serie_a,2025,2025-10-26 16:00:00,Fiorentina,Bologna,2.0,2.0,3.87905,0.883347
+serie_a,2025,2025-10-26 18:45:00,Lazio,Juventus,1.0,0.0,0.905304,1.24614
+serie_a,2025,2025-10-28 16:30:00,Lecce,Napoli,0.0,1.0,1.02929,0.92446
+serie_a,2025,2025-10-28 18:45:00,Atalanta,AC Milan,1.0,1.0,1.28167,0.626418
+serie_a,2025,2025-10-29 16:30:00,Como,Verona,3.0,1.0,1.74279,1.69938
+serie_a,2025,2025-10-29 16:30:00,Juventus,Udinese,3.0,1.0,3.30641,0.604108
+serie_a,2025,2025-10-29 16:30:00,Roma,Parma Calcio 1913,2.0,1.0,1.15685,1.17796
+serie_a,2025,2025-10-29 18:45:00,Bologna,Torino,0.0,0.0,0.3322,0.797473
+serie_a,2025,2025-10-29 18:45:00,Genoa,Cremonese,0.0,2.0,1.3491,1.57974
+serie_a,2025,2025-10-29 18:45:00,Inter,Fiorentina,3.0,0.0,2.87253,0.741937
+serie_a,2025,2025-10-30 16:30:00,Cagliari,Sassuolo,1.0,2.0,0.845219,0.937652
+serie_a,2025,2025-10-30 18:45:00,Pisa,Lazio,0.0,0.0,0.780185,0.657914
+serie_a,2025,2025-11-01 14:00:00,Udinese,Atalanta,1.0,0.0,0.707338,0.270197
+serie_a,2025,2025-11-01 17:00:00,Napoli,Como,0.0,0.0,0.762314,1.17012
+serie_a,2025,2025-11-01 19:45:00,Cremonese,Juventus,1.0,2.0,0.611392,2.61402
+serie_a,2025,2025-11-02 11:30:00,Verona,Inter,1.0,2.0,0.372642,1.15025
+serie_a,2025,2025-11-02 14:00:00,Fiorentina,Lecce,0.0,1.0,1.38997,1.3239
+serie_a,2025,2025-11-02 14:00:00,Torino,Pisa,2.0,2.0,1.22388,1.90329
+serie_a,2025,2025-11-02 17:00:00,Parma Calcio 1913,Bologna,1.0,3.0,0.622333,3.51745
+serie_a,2025,2025-11-02 19:45:00,AC Milan,Roma,1.0,0.0,3.76419,1.95443
+serie_a,2025,2025-11-03 17:30:00,Sassuolo,Genoa,1.0,2.0,1.31641,1.83271
+serie_a,2025,2025-11-03 19:45:00,Lazio,Cagliari,2.0,0.0,0.587684,1.48457
+serie_a,2025,2025-11-07 19:45:00,Pisa,Cremonese,1.0,0.0,1.45109,1.23118
+serie_a,2025,2025-11-08 14:00:00,Como,Cagliari,0.0,0.0,1.0497,0.615264
+serie_a,2025,2025-11-08 14:00:00,Lecce,Verona,0.0,0.0,0.555045,0.691863
+serie_a,2025,2025-11-08 17:00:00,Juventus,Torino,0.0,0.0,1.93707,0.405589
+serie_a,2025,2025-11-08 19:45:00,Parma Calcio 1913,AC Milan,2.0,2.0,1.45012,2.05467
+serie_a,2025,2025-11-09 11:30:00,Atalanta,Sassuolo,0.0,3.0,0.707859,2.20132
+serie_a,2025,2025-11-09 14:00:00,Bologna,Napoli,2.0,0.0,1.64488,0.19503
+serie_a,2025,2025-11-09 14:00:00,Genoa,Fiorentina,2.0,2.0,1.58884,1.33019
+serie_a,2025,2025-11-09 17:00:00,Roma,Udinese,2.0,0.0,1.75728,0.928685
+serie_a,2025,2025-11-09 19:45:00,Inter,Lazio,2.0,0.0,1.73965,0.54928
+serie_a,2025,2025-11-22 14:00:00,Cagliari,Genoa,3.0,3.0,1.37329,1.61562
+serie_a,2025,2025-11-22 14:00:00,Udinese,Bologna,0.0,3.0,1.88758,2.88287
+serie_a,2025,2025-11-22 17:00:00,Fiorentina,Juventus,1.0,1.0,0.659308,1.65053
+serie_a,2025,2025-11-22 19:45:00,Napoli,Atalanta,3.0,1.0,2.02765,0.825775
+serie_a,2025,2025-11-23 11:30:00,Verona,Parma Calcio 1913,1.0,2.0,0.943021,1.51628
+serie_a,2025,2025-11-23 14:00:00,Cremonese,Roma,1.0,3.0,1.25617,1.73178
+serie_a,2025,2025-11-23 17:00:00,Lazio,Lecce,2.0,0.0,1.49492,0.544669
+serie_a,2025,2025-11-23 19:45:00,Inter,AC Milan,0.0,1.0,1.74448,0.856085
+serie_a,2025,2025-11-24 17:30:00,Torino,Como,1.0,5.0,1.42986,3.37909
+serie_a,2025,2025-11-24 19:45:00,Sassuolo,Pisa,2.0,2.0,2.21345,1.38602
+serie_a,2025,2025-11-28 19:45:00,Como,Sassuolo,2.0,0.0,1.73426,1.12902
+serie_a,2025,2025-11-29 14:00:00,Genoa,Verona,2.0,1.0,1.64897,2.60658
+serie_a,2025,2025-11-29 14:00:00,Parma Calcio 1913,Udinese,0.0,2.0,1.03649,1.87351
+serie_a,2025,2025-11-29 17:00:00,Juventus,Cagliari,2.0,1.0,1.5343,0.891103
+serie_a,2025,2025-11-29 19:45:00,AC Milan,Lazio,1.0,0.0,1.48113,0.899621
+serie_a,2025,2025-11-30 11:30:00,Lecce,Torino,2.0,1.0,0.948606,2.0632
+serie_a,2025,2025-11-30 14:00:00,Pisa,Inter,0.0,2.0,1.80715,2.04777
+serie_a,2025,2025-11-30 17:00:00,Atalanta,Fiorentina,2.0,0.0,2.29028,2.01961
+serie_a,2025,2025-11-30 19:45:00,Roma,Napoli,0.0,1.0,0.611755,1.33114
+serie_a,2025,2025-12-01 19:45:00,Bologna,Cremonese,1.0,3.0,2.11713,2.33533
+serie_a,2025,2025-12-06 14:00:00,Sassuolo,Fiorentina,3.0,1.0,1.64053,1.20662
+serie_a,2025,2025-12-06 17:00:00,Inter,Como,4.0,0.0,2.26559,0.943403
+serie_a,2025,2025-12-06 19:45:00,Verona,Atalanta,3.0,1.0,1.60244,1.76527
+serie_a,2025,2025-12-07 11:30:00,Cremonese,Lecce,2.0,0.0,2.08254,1.37526
+serie_a,2025,2025-12-07 14:00:00,Cagliari,Roma,1.0,0.0,1.40358,0.451691
+serie_a,2025,2025-12-07 17:00:00,Lazio,Bologna,1.0,1.0,1.24155,1.23115
+serie_a,2025,2025-12-07 19:45:00,Napoli,Juventus,2.0,1.0,2.1655,0.24335
+serie_a,2025,2025-12-08 14:00:00,Pisa,Parma Calcio 1913,0.0,1.0,1.56873,1.49837
+serie_a,2025,2025-12-08 17:00:00,Udinese,Genoa,1.0,2.0,1.49196,1.5362
+serie_a,2025,2025-12-08 19:45:00,Torino,AC Milan,2.0,3.0,1.01008,2.10495
+serie_a,2025,2025-12-12 19:45:00,Lecce,Pisa,1.0,0.0,2.79987,0.303651
+serie_a,2025,2025-12-13 14:00:00,Torino,Cremonese,1.0,0.0,1.94598,0.700243
+serie_a,2025,2025-12-13 17:00:00,Parma Calcio 1913,Lazio,0.0,1.0,1.08166,1.76573
+serie_a,2025,2025-12-13 19:45:00,Atalanta,Cagliari,2.0,1.0,3.08558,0.568619
+serie_a,2025,2025-12-14 11:30:00,AC Milan,Sassuolo,2.0,2.0,1.83346,1.02843
+serie_a,2025,2025-12-14 14:00:00,Fiorentina,Verona,1.0,2.0,2.41776,1.53867
+serie_a,2025,2025-12-14 14:00:00,Udinese,Napoli,1.0,0.0,1.84146,0.931427
+serie_a,2025,2025-12-14 17:00:00,Genoa,Inter,1.0,2.0,0.895295,2.04412
+serie_a,2025,2025-12-14 19:45:00,Bologna,Juventus,0.0,1.0,0.97387,2.07145
+serie_a,2025,2025-12-15 19:45:00,Roma,Como,1.0,0.0,1.65562,0.635872
+serie_a,2025,2025-12-20 17:00:00,Lazio,Cremonese,0.0,0.0,0.432769,0.70974
+serie_a,2025,2025-12-20 19:45:00,Juventus,Roma,2.0,1.0,3.09592,1.28421
+serie_a,2025,2025-12-21 11:30:00,Cagliari,Pisa,2.0,2.0,1.20171,2.02532
+serie_a,2025,2025-12-21 14:00:00,Sassuolo,Torino,0.0,1.0,0.580849,2.00002
+serie_a,2025,2025-12-21 17:00:00,Fiorentina,Udinese,5.0,1.0,3.24808,0.794951
+serie_a,2025,2025-12-21 19:45:00,Genoa,Atalanta,0.0,1.0,0.967673,1.76564
+serie_a,2025,2025-12-27 11:30:00,Parma Calcio 1913,Fiorentina,1.0,0.0,1.26451,1.2463
+serie_a,2025,2025-12-27 14:00:00,Lecce,Como,0.0,3.0,1.15442,2.33352
+serie_a,2025,2025-12-27 14:00:00,Torino,Cagliari,1.0,2.0,2.4609,0.994774
+serie_a,2025,2025-12-27 17:00:00,Udinese,Lazio,1.0,1.0,0.806561,0.848022
+serie_a,2025,2025-12-27 19:45:00,Pisa,Juventus,0.0,2.0,0.64162,1.2875
+serie_a,2025,2025-12-28 11:30:00,AC Milan,Verona,3.0,0.0,2.87827,0.32776
+serie_a,2025,2025-12-28 14:00:00,Cremonese,Napoli,0.0,2.0,0.276244,2.85402
+serie_a,2025,2025-12-28 17:00:00,Bologna,Sassuolo,1.0,1.0,0.937045,1.52306
+serie_a,2025,2025-12-28 19:45:00,Atalanta,Inter,0.0,1.0,1.16924,1.63271
+serie_a,2025,2025-12-29 19:45:00,Roma,Genoa,3.0,1.0,1.86118,0.510864
+serie_a,2025,2026-01-02 19:45:00,Cagliari,AC Milan,0.0,1.0,0.308283,0.893304
+serie_a,2025,2026-01-03 11:30:00,Como,Udinese,1.0,0.0,2.38351,0.245
+serie_a,2025,2026-01-03 14:00:00,Genoa,Pisa,1.0,1.0,0.569456,1.5538
+serie_a,2025,2026-01-03 14:00:00,Sassuolo,Parma Calcio 1913,1.0,1.0,1.0095,1.18268
+serie_a,2025,2026-01-03 17:00:00,Juventus,Lecce,1.0,1.0,3.59395,0.176301
+serie_a,2025,2026-01-03 19:45:00,Atalanta,Roma,1.0,0.0,2.73637,1.01018
+serie_a,2025,2026-01-04 11:30:00,Lazio,Napoli,0.0,2.0,0.405788,2.42503
+serie_a,2025,2026-01-04 14:00:00,Fiorentina,Cremonese,1.0,0.0,2.20676,0.752862
+serie_a,2025,2026-01-04 17:00:00,Verona,Torino,0.0,3.0,0.260564,1.70287
+serie_a,2025,2026-01-04 19:45:00,Inter,Bologna,3.0,1.0,4.26719,0.782906
+serie_a,2025,2026-01-06 14:00:00,Pisa,Como,0.0,3.0,1.71183,2.10363
+serie_a,2025,2026-01-06 17:00:00,Lecce,Roma,0.0,2.0,0.604725,1.89163
+serie_a,2025,2026-01-06 19:45:00,Sassuolo,Juventus,0.0,3.0,0.203716,2.90778
+serie_a,2025,2026-01-07 17:30:00,Bologna,Atalanta,0.0,2.0,1.11527,1.33342
+serie_a,2025,2026-01-07 17:30:00,Napoli,Verona,2.0,2.0,1.57287,1.29178
+serie_a,2025,2026-01-07 19:45:00,Lazio,Fiorentina,2.0,2.0,2.70815,1.51944
+serie_a,2025,2026-01-07 19:45:00,Parma Calcio 1913,Inter,0.0,2.0,0.261054,3.08782
+serie_a,2025,2026-01-07 19:45:00,Torino,Udinese,1.0,2.0,1.67388,2.31786
+serie_a,2025,2026-01-08 17:30:00,Cremonese,Cagliari,2.0,2.0,2.2527,1.78257
+serie_a,2025,2026-01-08 19:45:00,AC Milan,Genoa,1.0,1.0,2.11615,1.43745
+serie_a,2025,2026-01-10 14:00:00,Como,Bologna,1.0,1.0,1.13923,1.54894
+serie_a,2025,2026-01-10 14:00:00,Udinese,Pisa,2.0,2.0,2.18018,1.42671
+serie_a,2025,2026-01-10 17:00:00,Roma,Sassuolo,2.0,0.0,2.95843,0.858537
+serie_a,2025,2026-01-10 19:45:00,Atalanta,Torino,2.0,0.0,2.55106,0.945872
+serie_a,2025,2026-01-11 11:30:00,Lecce,Parma Calcio 1913,1.0,2.0,0.842154,1.46392
+serie_a,2025,2026-01-11 14:00:00,Fiorentina,AC Milan,1.0,1.0,2.38025,2.05263
+serie_a,2025,2026-01-11 17:00:00,Verona,Lazio,0.0,1.0,0.584887,0.64447
+serie_a,2025,2026-01-11 19:45:00,Inter,Napoli,2.0,2.0,1.6567,1.38417
+serie_a,2025,2026-01-12 17:30:00,Genoa,Cagliari,3.0,0.0,1.26155,1.00677
+serie_a,2025,2026-01-12 19:45:00,Juventus,Cremonese,5.0,0.0,3.2309,1.1134
+serie_a,2025,2026-01-14 17:30:00,Napoli,Parma Calcio 1913,0.0,0.0,1.29671,0.230185
+serie_a,2025,2026-01-14 19:45:00,Inter,Lecce,1.0,0.0,1.91676,0.468829
+serie_a,2025,2026-01-15 17:30:00,Verona,Bologna,2.0,3.0,1.6881,0.690747
+serie_a,2025,2026-01-15 19:45:00,Como,AC Milan,1.0,3.0,1.86946,1.3926
+serie_a,2025,2026-01-16 19:45:00,Pisa,Atalanta,1.0,1.0,1.63695,1.77359
+serie_a,2025,2026-01-17 14:00:00,Udinese,Inter,0.0,1.0,0.130821,2.17475
+serie_a,2025,2026-01-17 17:00:00,Napoli,Sassuolo,1.0,0.0,0.605235,1.12352
+serie_a,2025,2026-01-17 19:45:00,Cagliari,Juventus,1.0,0.0,0.176118,0.872689
+serie_a,2025,2026-01-18 11:30:00,Parma Calcio 1913,Genoa,0.0,0.0,0.463872,1.07465
+serie_a,2025,2026-01-18 14:00:00,Bologna,Fiorentina,1.0,2.0,1.34398,1.64563
+serie_a,2025,2026-01-18 17:00:00,Torino,Roma,0.0,2.0,0.394429,2.02736
+serie_a,2025,2026-01-18 19:45:00,AC Milan,Lecce,1.0,0.0,3.17447,0.1816
+serie_a,2025,2026-01-19 17:30:00,Cremonese,Verona,0.0,0.0,0.452062,0.487484
+serie_a,2025,2026-01-19 19:45:00,Lazio,Como,0.0,3.0,0.465283,2.28394
+serie_a,2025,2026-01-23 19:45:00,Inter,Pisa,6.0,2.0,6.24369,0.453549
+serie_a,2025,2026-01-24 14:00:00,Como,Torino,6.0,0.0,3.15343,0.327418
+serie_a,2025,2026-01-24 17:00:00,Fiorentina,Cagliari,1.0,2.0,2.09156,1.27897
+serie_a,2025,2026-01-24 19:45:00,Lecce,Lazio,0.0,0.0,0.601024,0.716991
+serie_a,2025,2026-01-25 11:30:00,Sassuolo,Cremonese,1.0,0.0,1.3787,0.845543
+serie_a,2025,2026-01-25 14:00:00,Atalanta,Parma Calcio 1913,4.0,0.0,5.01888,1.86533
+serie_a,2025,2026-01-25 14:00:00,Genoa,Bologna,3.0,2.0,0.706857,0.591952
+serie_a,2025,2026-01-25 17:00:00,Juventus,Napoli,3.0,0.0,1.54679,0.421726
+serie_a,2025,2026-01-25 19:45:00,Roma,AC Milan,1.0,1.0,2.13573,0.583212
+serie_a,2025,2026-01-26 19:45:00,Verona,Udinese,1.0,3.0,0.573784,1.93652
+serie_a,2025,2026-01-30 19:45:00,Lazio,Genoa,3.0,2.0,2.06649,1.83307
+serie_a,2025,2026-01-31 14:00:00,Pisa,Sassuolo,1.0,3.0,0.773575,2.20331
+serie_a,2025,2026-01-31 17:00:00,Napoli,Fiorentina,2.0,1.0,2.39619,1.81202
+serie_a,2025,2026-01-31 19:45:00,Cagliari,Verona,4.0,0.0,1.98129,0.374813
+serie_a,2025,2026-02-01 11:30:00,Torino,Lecce,1.0,0.0,2.48263,0.468464
+serie_a,2025,2026-02-01 14:00:00,Como,Atalanta,0.0,0.0,5.96884,0.785014
+serie_a,2025,2026-02-01 17:00:00,Cremonese,Inter,0.0,2.0,0.510166,2.18311
+serie_a,2025,2026-02-01 19:45:00,Parma Calcio 1913,Juventus,1.0,4.0,0.598397,3.51941
+serie_a,2025,2026-02-02 19:45:00,Udinese,Roma,1.0,0.0,0.642594,0.668752
+serie_a,2025,2026-02-03 19:45:00,Bologna,AC Milan,0.0,3.0,0.440526,3.35769
+serie_a,2025,2026-02-06 19:45:00,Verona,Pisa,0.0,0.0,0.0783843,1.26143
+serie_a,2025,2026-02-07 17:00:00,Genoa,Napoli,2.0,3.0,1.32462,1.89784
+serie_a,2025,2026-02-07 19:45:00,Fiorentina,Torino,2.0,2.0,1.27203,1.0134
+serie_a,2025,2026-02-08 11:30:00,Bologna,Parma Calcio 1913,0.0,1.0,1.64658,0.193041
+serie_a,2025,2026-02-08 14:00:00,Lecce,Udinese,2.0,1.0,2.18624,0.895031
+serie_a,2025,2026-02-08 17:00:00,Sassuolo,Inter,0.0,5.0,0.721597,2.75112
+serie_a,2025,2026-02-08 19:45:00,Juventus,Lazio,2.0,2.0,2.85607,0.808824
+serie_a,2025,2026-02-09 17:30:00,Atalanta,Cremonese,2.0,1.0,3.12119,0.914806
+serie_a,2025,2026-02-09 19:45:00,Roma,Cagliari,2.0,0.0,2.20426,0.613133
+serie_a,2025,2026-02-13 19:45:00,Pisa,AC Milan,1.0,2.0,0.937275,2.15769
+serie_a,2025,2026-02-14 14:00:00,Como,Fiorentina,1.0,2.0,0.902645,1.302
+serie_a,2025,2026-02-14 17:00:00,Lazio,Atalanta,0.0,2.0,1.54366,1.82116
+serie_a,2025,2026-02-14 19:45:00,Inter,Juventus,3.0,2.0,2.4811,1.29499
+serie_a,2025,2026-02-15 11:30:00,Udinese,Sassuolo,1.0,2.0,0.491201,1.24711
+serie_a,2025,2026-02-15 14:00:00,Cremonese,Genoa,0.0,0.0,1.34717,1.33514
+serie_a,2025,2026-02-15 14:00:00,Parma Calcio 1913,Verona,2.0,1.0,2.16714,0.856137
+serie_a,2025,2026-02-15 17:00:00,Torino,Bologna,1.0,2.0,0.394436,1.71228
+serie_a,2025,2026-02-15 19:45:00,Napoli,Roma,2.0,2.0,0.5247,1.95442
+serie_a,2025,2026-02-16 19:45:00,Cagliari,Lecce,0.0,2.0,1.46951,1.76359
+serie_a,2025,2026-02-18 19:45:00,AC Milan,Como,1.0,1.0,1.17019,1.64526
+serie_a,2025,2026-02-20 19:45:00,Sassuolo,Verona,3.0,0.0,1.58706,0.615652
+serie_a,2025,2026-02-21 14:00:00,Juventus,Como,0.0,2.0,1.01425,1.43181
+serie_a,2025,2026-02-21 17:00:00,Lecce,Inter,0.0,2.0,0.127863,2.6436
+serie_a,2025,2026-02-21 19:45:00,Cagliari,Lazio,0.0,0.0,0.771111,0.520733
+serie_a,2025,2026-02-22 11:30:00,Genoa,Torino,3.0,0.0,2.06306,0.530703
+serie_a,2025,2026-02-22 14:00:00,Atalanta,Napoli,2.0,1.0,0.962214,1.05903
+serie_a,2025,2026-02-22 17:00:00,AC Milan,Parma Calcio 1913,0.0,1.0,1.63438,0.760094
+serie_a,2025,2026-02-22 19:45:00,Roma,Cremonese,3.0,0.0,2.58194,0.280739
+serie_a,2025,2026-02-23 17:30:00,Fiorentina,Pisa,1.0,0.0,1.77825,0.43212
+serie_a,2025,2026-02-23 19:45:00,Bologna,Udinese,1.0,0.0,1.44714,0.530625
+serie_a,2025,2026-02-27 19:45:00,Parma Calcio 1913,Cagliari,1.0,1.0,1.31257,0.615799
+serie_a,2025,2026-02-28 14:00:00,Como,Lecce,3.0,1.0,2.98622,0.424994
+serie_a,2025,2026-02-28 17:00:00,Verona,Napoli,1.0,2.0,0.277835,1.21355
+serie_a,2025,2026-02-28 19:45:00,Inter,Genoa,2.0,0.0,2.19229,0.170827
+serie_a,2025,2026-03-01 11:30:00,Cremonese,AC Milan,0.0,2.0,1.08387,3.87512
+serie_a,2025,2026-03-01 14:00:00,Sassuolo,Atalanta,2.0,1.0,1.81132,3.74717
+serie_a,2025,2026-03-01 17:00:00,Torino,Lazio,2.0,0.0,1.06085,1.05867
+serie_a,2025,2026-03-01 19:45:00,Roma,Juventus,3.0,3.0,2.33059,1.8583
+serie_a,2025,2026-03-02 17:30:00,Pisa,Bologna,0.0,1.0,0.743118,0.871649
+serie_a,2025,2026-03-02 19:45:00,Udinese,Fiorentina,3.0,0.0,2.0239,0.585387
+serie_a,2025,2026-03-06 19:45:00,Napoli,Torino,2.0,1.0,2.32007,0.693368
+serie_a,2025,2026-03-07 14:00:00,Cagliari,Como,1.0,2.0,0.518042,0.763847
+serie_a,2025,2026-03-07 17:00:00,Atalanta,Udinese,2.0,2.0,1.99854,0.860054
+serie_a,2025,2026-03-07 19:45:00,Juventus,Pisa,4.0,0.0,3.16811,0.319971
+serie_a,2025,2026-03-08 11:30:00,Lecce,Cremonese,2.0,1.0,1.76705,0.791422
+serie_a,2025,2026-03-08 14:00:00,Bologna,Verona,1.0,2.0,0.903746,2.02855
+serie_a,2025,2026-03-08 14:00:00,Fiorentina,Parma Calcio 1913,0.0,0.0,0.758473,0.253114
+serie_a,2025,2026-03-08 17:00:00,Genoa,Roma,2.0,1.0,2.55911,0.282645
+serie_a,2025,2026-03-08 19:45:00,AC Milan,Inter,1.0,0.0,0.852014,1.44398
+serie_a,2025,2026-03-09 19:45:00,Lazio,Sassuolo,2.0,1.0,2.4868,0.453204
+serie_a,2025,2026-03-13 19:45:00,Torino,Parma Calcio 1913,4.0,1.0,2.44316,0.579861
+serie_a,2025,2026-03-14 14:00:00,Inter,Atalanta,1.0,1.0,2.0286,0.867146
+serie_a,2025,2026-03-14 17:00:00,Napoli,Lecce,2.0,1.0,1.13114,1.22692
+serie_a,2025,2026-03-14 19:45:00,Udinese,Juventus,0.0,1.0,0.741965,3.18734
+serie_a,2025,2026-03-15 11:30:00,Verona,Genoa,0.0,2.0,0.370821,0.534091
+serie_a,2025,2026-03-15 14:00:00,Pisa,Cagliari,3.0,1.0,2.94287,1.52334
+serie_a,2025,2026-03-15 14:00:00,Sassuolo,Bologna,0.0,1.0,0.427053,0.731025
+serie_a,2025,2026-03-15 17:00:00,Como,Roma,2.0,1.0,2.46908,0.899976
+serie_a,2025,2026-03-15 19:45:00,Lazio,AC Milan,1.0,0.0,0.538397,1.16179
+serie_a,2025,2026-03-16 19:45:00,Cremonese,Fiorentina,1.0,4.0,1.47372,1.14462
+serie_a,2025,2026-03-20 17:30:00,Cagliari,Napoli,0.0,1.0,0.241246,2.27393
+serie_a,2025,2026-03-20 19:45:00,Genoa,Udinese,0.0,2.0,1.30328,0.86584
+serie_a,2025,2026-03-21 14:00:00,Parma Calcio 1913,Cremonese,0.0,2.0,0.287758,0.781807
+serie_a,2025,2026-03-21 17:00:00,AC Milan,Torino,3.0,2.0,1.44337,2.37211
+serie_a,2025,2026-03-21 19:45:00,Juventus,Sassuolo,1.0,1.0,2.25457,0.845538
+serie_a,2025,2026-03-22 11:30:00,Como,Pisa,5.0,0.0,1.8215,0.309722
+serie_a,2025,2026-03-22 14:00:00,Atalanta,Verona,1.0,0.0,1.74248,0.765772
+serie_a,2025,2026-03-22 14:00:00,Bologna,Lazio,0.0,2.0,1.32921,2.14396
+serie_a,2025,2026-03-22 17:00:00,Roma,Lecce,1.0,0.0,1.09359,0.807003
+serie_a,2025,2026-03-22 19:45:00,Fiorentina,Inter,1.0,1.0,1.81429,1.40088
+serie_a,2025,2026-04-04 13:00:00,Sassuolo,Cagliari,2.0,1.0,0.48336,1.90118
+serie_a,2025,2026-04-04 16:00:00,Verona,Fiorentina,0.0,1.0,0.922577,0.308725
+serie_a,2025,2026-04-04 18:45:00,Lazio,Parma Calcio 1913,1.0,1.0,0.269086,0.360563
+serie_a,2025,2026-04-05 13:00:00,Cremonese,Bologna,1.0,2.0,1.39638,1.58974
+serie_a,2025,2026-04-05 16:00:00,Pisa,Torino,0.0,1.0,0.309366,1.72611
+serie_a,2025,2026-04-05 18:45:00,Inter,Roma,5.0,2.0,2.25441,0.939981
+serie_a,2025,2026-04-06 10:30:00,Udinese,Como,0.0,0.0,1.06665,0.786392
+serie_a,2025,2026-04-06 13:00:00,Lecce,Atalanta,0.0,3.0,0.364274,2.81595
+serie_a,2025,2026-04-06 16:00:00,Juventus,Genoa,2.0,0.0,2.60276,1.48807
+serie_a,2025,2026-04-06 18:45:00,Napoli,AC Milan,1.0,0.0,0.872402,0.810602
+serie_a,2025,2026-04-10 18:45:00,Roma,Pisa,3.0,0.0,1.45084,1.06318
+serie_a,2025,2026-04-11 13:00:00,Cagliari,Cremonese,1.0,0.0,1.431,0.268819
+serie_a,2025,2026-04-11 13:00:00,Torino,Verona,2.0,1.0,1.1485,1.67554
+serie_a,2025,2026-04-11 16:00:00,AC Milan,Udinese,,,,
+serie_a,2025,2026-04-11 18:45:00,Atalanta,Juventus,,,,
+serie_a,2025,2026-04-12 10:30:00,Genoa,Sassuolo,,,,
+serie_a,2025,2026-04-12 13:00:00,Parma Calcio 1913,Napoli,,,,
+serie_a,2025,2026-04-12 16:00:00,Bologna,Lecce,,,,
+serie_a,2025,2026-04-12 18:45:00,Como,Inter,,,,
+serie_a,2025,2026-04-13 18:45:00,Fiorentina,Lazio,,,,
+serie_a,2025,2026-04-17 16:30:00,Sassuolo,Como,,,,
+serie_a,2025,2026-04-17 18:45:00,Inter,Cagliari,,,,
+serie_a,2025,2026-04-18 13:00:00,Udinese,Parma Calcio 1913,,,,
+serie_a,2025,2026-04-18 16:00:00,Napoli,Lazio,,,,
+serie_a,2025,2026-04-18 18:45:00,Roma,Atalanta,,,,
+serie_a,2025,2026-04-19 10:30:00,Cremonese,Torino,,,,
+serie_a,2025,2026-04-19 13:00:00,Verona,AC Milan,,,,
+serie_a,2025,2026-04-19 16:00:00,Pisa,Genoa,,,,
+serie_a,2025,2026-04-19 18:45:00,Juventus,Bologna,,,,
+serie_a,2025,2026-04-20 18:45:00,Lecce,Fiorentina,,,,
+serie_a,2025,2026-04-24 18:45:00,Napoli,Cremonese,,,,
+serie_a,2025,2026-04-25 13:00:00,Parma Calcio 1913,Pisa,,,,
+serie_a,2025,2026-04-25 16:00:00,Bologna,Roma,,,,
+serie_a,2025,2026-04-25 18:45:00,Verona,Lecce,,,,
+serie_a,2025,2026-04-26 10:30:00,Fiorentina,Sassuolo,,,,
+serie_a,2025,2026-04-26 13:00:00,Genoa,Como,,,,
+serie_a,2025,2026-04-26 16:00:00,Torino,Inter,,,,
+serie_a,2025,2026-04-26 18:45:00,AC Milan,Juventus,,,,
+serie_a,2025,2026-04-27 16:30:00,Cagliari,Atalanta,,,,
+serie_a,2025,2026-04-27 18:45:00,Lazio,Udinese,,,,
+serie_a,2025,2026-05-03 13:00:00,Atalanta,Genoa,,,,
+serie_a,2025,2026-05-03 13:00:00,Bologna,Cagliari,,,,
+serie_a,2025,2026-05-03 13:00:00,Como,Napoli,,,,
+serie_a,2025,2026-05-03 13:00:00,Cremonese,Lazio,,,,
+serie_a,2025,2026-05-03 13:00:00,Inter,Parma Calcio 1913,,,,
+serie_a,2025,2026-05-03 13:00:00,Juventus,Verona,,,,
+serie_a,2025,2026-05-03 13:00:00,Pisa,Lecce,,,,
+serie_a,2025,2026-05-03 13:00:00,Roma,Fiorentina,,,,
+serie_a,2025,2026-05-03 13:00:00,Sassuolo,AC Milan,,,,
+serie_a,2025,2026-05-03 13:00:00,Udinese,Torino,,,,
+serie_a,2025,2026-05-10 13:00:00,AC Milan,Atalanta,,,,
+serie_a,2025,2026-05-10 13:00:00,Cagliari,Udinese,,,,
+serie_a,2025,2026-05-10 13:00:00,Cremonese,Pisa,,,,
+serie_a,2025,2026-05-10 13:00:00,Fiorentina,Genoa,,,,
+serie_a,2025,2026-05-10 13:00:00,Lazio,Inter,,,,
+serie_a,2025,2026-05-10 13:00:00,Lecce,Juventus,,,,
+serie_a,2025,2026-05-10 13:00:00,Napoli,Bologna,,,,
+serie_a,2025,2026-05-10 13:00:00,Parma Calcio 1913,Roma,,,,
+serie_a,2025,2026-05-10 13:00:00,Torino,Sassuolo,,,,
+serie_a,2025,2026-05-10 13:00:00,Verona,Como,,,,
+serie_a,2025,2026-05-17 13:00:00,Atalanta,Bologna,,,,
+serie_a,2025,2026-05-17 13:00:00,Cagliari,Torino,,,,
+serie_a,2025,2026-05-17 13:00:00,Como,Parma Calcio 1913,,,,
+serie_a,2025,2026-05-17 13:00:00,Genoa,AC Milan,,,,
+serie_a,2025,2026-05-17 13:00:00,Inter,Verona,,,,
+serie_a,2025,2026-05-17 13:00:00,Juventus,Fiorentina,,,,
+serie_a,2025,2026-05-17 13:00:00,Pisa,Napoli,,,,
+serie_a,2025,2026-05-17 13:00:00,Roma,Lazio,,,,
+serie_a,2025,2026-05-17 13:00:00,Sassuolo,Lecce,,,,
+serie_a,2025,2026-05-17 13:00:00,Udinese,Cremonese,,,,
+serie_a,2025,2026-05-24 13:00:00,AC Milan,Cagliari,,,,
+serie_a,2025,2026-05-24 13:00:00,Bologna,Inter,,,,
+serie_a,2025,2026-05-24 13:00:00,Cremonese,Como,,,,
+serie_a,2025,2026-05-24 13:00:00,Fiorentina,Atalanta,,,,
+serie_a,2025,2026-05-24 13:00:00,Lazio,Pisa,,,,
+serie_a,2025,2026-05-24 13:00:00,Lecce,Genoa,,,,
+serie_a,2025,2026-05-24 13:00:00,Napoli,Udinese,,,,
+serie_a,2025,2026-05-24 13:00:00,Parma Calcio 1913,Sassuolo,,,,
+serie_a,2025,2026-05-24 13:00:00,Torino,Juventus,,,,
+serie_a,2025,2026-05-24 13:00:00,Verona,Roma,,,,

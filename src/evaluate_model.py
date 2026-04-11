@@ -13,8 +13,8 @@ RESULT_LABELS = {
 
 
 def recreate_test_split(df):
-    """Return only the 2023 test season."""
-    return df[df["season"] == 2023].copy()
+    """Return only the 2024 test season."""
+    return df[df["season"] == 2024].copy()
 
 
 def evaluate_predictions(y_true, y_pred, y_prob):
@@ -56,7 +56,7 @@ def main():
     model = joblib.load(MODEL_FILE)
 
     X_test = test_df[feature_columns]
-    y_test = test_df["match_result"]
+    y_test = test_df["match_result"].astype(int)
 
     predictions = model.predict(X_test)
     probabilities = model.predict_proba(X_test)
@@ -67,7 +67,7 @@ def main():
     lines = [
         "Football Match Prediction Evaluation",
         "=" * 40,
-        "Test season: 2023",
+        "Test season: 2024",
         f"Number of matches: {len(test_df)}",
         f"Accuracy: {metrics['accuracy']:.4f}",
         f"Macro F1: {metrics['macro_f1']:.4f}",

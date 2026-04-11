@@ -1,7 +1,9 @@
 {
-    "train_rows": 14507,
-    "validation_rows": 1826,
+    "backtest_train_rows": 16333,
+    "validation_rows": 1752,
     "test_rows": 1752,
+    "final_train_rows": 19837,
+    "final_train_end_season": 2024,
     "feature_columns": [
         "home_avg_points_last_5",
         "away_avg_points_last_5",
@@ -16,13 +18,13 @@
         "away_rest_days"
     ],
     "validation_metrics": {
-        "accuracy": 0.531763417305586,
-        "macro_f1": 0.3987293938062604,
-        "log_loss": 0.9926987982073496
+        "accuracy": 0.5211187214611872,
+        "macro_f1": 0.399263600844324,
+        "log_loss": 0.9834169756596062
     },
     "test_metrics": {
-        "accuracy": 0.526255707762557,
-        "macro_f1": 0.40916053494622195,
-        "log_loss": 0.9845959371566246
+        "accuracy": 0.5256849315068494,
+        "macro_f1": 0.3980329425330808,
+        "log_loss": 0.9927644821221351
     }
 }

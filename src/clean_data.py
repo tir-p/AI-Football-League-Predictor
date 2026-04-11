@@ -31,7 +31,7 @@ def create_match_result(home_goals, away_goals):
 
 
 def clean_matches(df):
-    """Clean the raw match data and create the final target column."""
+    """Clean the raw match data and keep both played and scheduled fixtures."""
     df = df.copy()
 
     required_columns = [
@@ -61,24 +61,22 @@ def clean_matches(df):
     df["home_xg"] = pd.to_numeric(df["home_xg"], errors="coerce")
     df["away_xg"] = pd.to_numeric(df["away_xg"], errors="coerce")
 
-    df = df.dropna(
-        subset=[
-            "league",
-            "season",
-            "date",
-            "home_team",
-            "away_team",
-            "home_goals",
-            "away_goals",
-        ]
-    )
+    df = df.dropna(subset=["league", "season", "date", "home_team", "away_team"])
 
-    df["home_goals"] = df["home_goals"].astype(int)
-    df["away_goals"] = df["away_goals"].astype(int)
-    df["match_result"] = df.apply(
+    df["is_played"] = df["home_goals"].notna() & df["away_goals"].notna()
+    df["match_result"] = pd.NA
+
+    played_mask = df["is_played"]
+    df.loc[played_mask, "home_goals"] = df.loc[played_mask, "home_goals"].astype(int)
+    df.loc[played_mask, "away_goals"] = df.loc[played_mask, "away_goals"].astype(int)
+    df.loc[played_mask, "match_result"] = df.loc[played_mask].apply(
         lambda row: create_match_result(row["home_goals"], row["away_goals"]),
         axis=1,
     )
+
+    df["home_goals"] = df["home_goals"].astype("Int64")
+    df["away_goals"] = df["away_goals"].astype("Int64")
+    df["match_result"] = df["match_result"].astype("Int64")
 
     df = df.drop_duplicates()
     df = df.sort_values("date").reset_index(drop=True)
@@ -96,8 +94,10 @@ def main():
     print(f"Cleaned data saved to: {CLEAN_MATCHES_FILE}")
     print(f"Number of rows: {len(clean_df)}")
     print(f"Number of missing values: {int(clean_df.isna().sum().sum())}")
-    print("Class distribution of match_result:")
-    print(clean_df["match_result"].value_counts().sort_index())
+    print(f"Played matches: {int(clean_df['is_played'].sum())}")
+    print(f"Scheduled fixtures: {int((~clean_df['is_played']).sum())}")
+    print("Class distribution of played match_result values:")
+    print(clean_df.loc[clean_df["is_played"], "match_result"].value_counts().sort_index())
 
 
 if __name__ == "__main__":

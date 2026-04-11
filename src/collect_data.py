@@ -18,7 +18,7 @@ LEAGUES = {
     "Serie_A": "serie_a",
     "Ligue_1": "ligue_1",
 }
-SEASONS = range(2014, 2025)
+SEASONS = range(2014, 2026)
 
 
 def safe_float(value):

@@ -26,17 +26,23 @@ def get_feature_columns():
 
 
 def split_data_by_season(df):
-    """Split the data into train, validation, and test sets by season."""
-    train_df = df[(df["season"] >= 2014) & (df["season"] <= 2021)].copy()
-    validation_df = df[df["season"] == 2022].copy()
-    test_df = df[df["season"] == 2023].copy()
+    """Create backtest splits using the most recent completed seasons."""
+    played_df = df[df["match_result"].notna()].copy()
+    train_df = played_df[(played_df["season"] >= 2014) & (played_df["season"] <= 2022)].copy()
+    validation_df = played_df[played_df["season"] == 2023].copy()
+    test_df = played_df[played_df["season"] == 2024].copy()
     return train_df, validation_df, test_df
+
+
+def get_final_training_data(df):
+    """Return all played matches available for production training."""
+    return df[df["match_result"].notna() & (df["season"] <= 2024)].copy()
 
 
 def separate_features_and_target(df, feature_columns):
     """Separate model inputs and target values."""
     X = df[feature_columns]
-    y = df["match_result"]
+    y = df["match_result"].astype(int)
     return X, y
 
 
@@ -98,36 +104,47 @@ def main():
     X_validation, y_validation = separate_features_and_target(validation_df, feature_columns)
     X_test, y_test = separate_features_and_target(test_df, feature_columns)
 
-    model = train_xgboost_model(X_train, y_train)
+    evaluation_model = train_xgboost_model(X_train, y_train)
 
-    _, validation_probabilities, validation_metrics = evaluate_split(model, X_validation, y_validation)
-    _, test_probabilities, test_metrics = evaluate_split(model, X_test, y_test)
+    _, validation_probabilities, validation_metrics = evaluate_split(
+        evaluation_model, X_validation, y_validation
+    )
+    _, test_probabilities, test_metrics = evaluate_split(evaluation_model, X_test, y_test)
 
     validation_predictions_df = add_probability_columns(validation_df, validation_probabilities)
     test_predictions_df = add_probability_columns(test_df, test_probabilities)
 
+    final_train_df = get_final_training_data(df)
+    X_final_train, y_final_train = separate_features_and_target(final_train_df, feature_columns)
+    final_model = train_xgboost_model(X_final_train, y_final_train)
+
     metrics = {
-        "train_rows": len(train_df),
+        "backtest_train_rows": len(train_df),
         "validation_rows": len(validation_df),
         "test_rows": len(test_df),
+        "final_train_rows": len(final_train_df),
+        "final_train_end_season": 2024,
         "feature_columns": feature_columns,
         "validation_metrics": validation_metrics,
         "test_metrics": test_metrics,
     }
 
     MODEL_FILE.parent.mkdir(parents=True, exist_ok=True)
-    joblib.dump(model, MODEL_FILE)
+    joblib.dump(final_model, MODEL_FILE)
     joblib.dump(feature_columns, FEATURE_COLUMNS_FILE)
     save_metrics(metrics)
 
     print(f"Model saved to: {MODEL_FILE}")
     print(f"Metrics saved to: {MODEL_METRICS_FILE}")
+    print(f"Backtest validation season: 2023")
     print(f"Validation accuracy: {validation_metrics['accuracy']:.4f}")
     print(f"Validation macro F1: {validation_metrics['macro_f1']:.4f}")
     print(f"Validation log loss: {validation_metrics['log_loss']:.4f}")
+    print(f"Backtest test season: 2024")
     print(f"Test accuracy: {test_metrics['accuracy']:.4f}")
     print(f"Test macro F1: {test_metrics['macro_f1']:.4f}")
     print(f"Test log loss: {test_metrics['log_loss']:.4f}")
+    print(f"Final production model trained on {len(final_train_df)} played rows through season 2024.")
     print()
     print("Sample predicted probabilities for validation data:")
     print(

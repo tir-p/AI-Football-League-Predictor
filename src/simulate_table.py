@@ -20,7 +20,7 @@ from config import (
 )
 
 
-TARGET_SEASON = 2024
+TARGET_SEASON = 2025
 NUM_SIMULATIONS = 10000
 TOP_4_CUTOFF = 4
 RELEGATION_SPOTS = 3
@@ -38,25 +38,55 @@ def load_simulation_inputs():
 
 
 def get_target_fixtures(features_df, season):
-    """
-    Select the fixtures to simulate.
-    For this project, we simulate the fixtures in the chosen season.
-    """
+    """Return played and unplayed fixtures for the chosen season."""
     season_df = features_df[features_df["season"] == season].copy()
-    return season_df
+    played_df = season_df[season_df["match_result"].notna()].copy()
+    unplayed_df = season_df[season_df["match_result"].isna()].copy()
+    return played_df, unplayed_df
 
 
 def get_fixture_probabilities(model, fixtures_df, feature_columns):
     """Predict match outcome probabilities for each fixture."""
+    if fixtures_df.empty:
+        return np.empty((0, 3))
+
     X = fixtures_df[feature_columns]
     probabilities = model.predict_proba(X)
     return probabilities
 
 
-def simulate_one_league(league_fixtures, probabilities, rng):
+def get_league_metadata_value(played_fixtures, unplayed_fixtures, column_name):
+    """Return one metadata value from either played or unplayed league rows."""
+    source_df = played_fixtures if not played_fixtures.empty else unplayed_fixtures
+    return source_df[column_name].iloc[0]
+
+
+def build_current_points_table(played_fixtures, teams):
+    """Create the current points tally from completed matches."""
+    points = pd.Series(0, index=teams, dtype=int)
+
+    for _, match in played_fixtures.iterrows():
+        if match["match_result"] == 0:
+            points.loc[match["home_team"]] += 3
+        elif match["match_result"] == 1:
+            points.loc[match["home_team"]] += 1
+            points.loc[match["away_team"]] += 1
+        else:
+            points.loc[match["away_team"]] += 3
+
+    return points.to_numpy()
+
+
+def simulate_one_league(played_fixtures, unplayed_fixtures, probabilities, rng):
     """Run Monte Carlo simulations for one league."""
-    teams = sorted(set(league_fixtures["home_team"]).union(set(league_fixtures["away_team"])))
+    teams = sorted(
+        set(played_fixtures["home_team"])
+        .union(set(played_fixtures["away_team"]))
+        .union(set(unplayed_fixtures["home_team"]))
+        .union(set(unplayed_fixtures["away_team"]))
+    )
     team_to_index = {team: index for index, team in enumerate(teams)}
+    base_points = build_current_points_table(played_fixtures, teams)
 
     position_counts = np.zeros((len(teams), len(teams)), dtype=int)
     expected_position_sum = np.zeros(len(teams), dtype=float)
@@ -64,14 +94,14 @@ def simulate_one_league(league_fixtures, probabilities, rng):
     top_4_counts = np.zeros(len(teams), dtype=int)
     relegation_counts = np.zeros(len(teams), dtype=int)
 
-    home_indices = league_fixtures["home_team"].map(team_to_index).to_numpy()
-    away_indices = league_fixtures["away_team"].map(team_to_index).to_numpy()
+    home_indices = unplayed_fixtures["home_team"].map(team_to_index).to_numpy()
+    away_indices = unplayed_fixtures["away_team"].map(team_to_index).to_numpy()
 
     for _ in range(NUM_SIMULATIONS):
-        points = np.zeros(len(teams), dtype=int)
+        points = base_points.copy()
 
-        # Each fixture is sampled independently using the model probabilities.
-        for match_index in range(len(league_fixtures)):
+        # Remaining fixtures are sampled independently using the model probabilities.
+        for match_index in range(len(unplayed_fixtures)):
             result = rng.choice([0, 1, 2], p=probabilities[match_index])
             home_index = home_indices[match_index]
             away_index = away_indices[match_index]
@@ -106,21 +136,22 @@ def simulate_one_league(league_fixtures, probabilities, rng):
     for team_index, team in enumerate(teams):
         summary_rows.append(
             {
-                "league": league_fixtures["league"].iloc[0],
-                "season": league_fixtures["season"].iloc[0],
+                "league": get_league_metadata_value(played_fixtures, unplayed_fixtures, "league"),
+                "season": get_league_metadata_value(played_fixtures, unplayed_fixtures, "season"),
                 "team": team,
                 "expected_finishing_position": expected_position_sum[team_index] / NUM_SIMULATIONS,
                 "probability_of_winning_league": league_winner_counts[team_index] / NUM_SIMULATIONS,
                 "probability_of_finishing_top_4": top_4_counts[team_index] / NUM_SIMULATIONS,
                 "probability_of_relegation": relegation_counts[team_index] / NUM_SIMULATIONS,
+                "current_points": int(base_points[team_index]),
             }
         )
 
         for position in range(1, len(teams) + 1):
             position_rows.append(
                 {
-                    "league": league_fixtures["league"].iloc[0],
-                    "season": league_fixtures["season"].iloc[0],
+                    "league": get_league_metadata_value(played_fixtures, unplayed_fixtures, "league"),
+                    "season": get_league_metadata_value(played_fixtures, unplayed_fixtures, "season"),
                     "team": team,
                     "position": position,
                     "probability": position_counts[team_index, position - 1] / NUM_SIMULATIONS,
@@ -136,19 +167,25 @@ def simulate_one_league(league_fixtures, probabilities, rng):
 
 def run_simulations(features_df, model, feature_columns):
     """Run table simulations for each league in the target season."""
-    fixtures_df = get_target_fixtures(features_df, TARGET_SEASON)
+    played_df, unplayed_df = get_target_fixtures(features_df, TARGET_SEASON)
 
-    if fixtures_df.empty:
+    if played_df.empty and unplayed_df.empty:
         raise ValueError(f"No fixtures found for season {TARGET_SEASON}.")
 
     rng = np.random.default_rng(seed=42)
     summary_frames = []
     position_frames = []
 
-    for league_name, league_fixtures in fixtures_df.groupby("league"):
+    season_df = pd.concat([played_df, unplayed_df], ignore_index=True)
+
+    for _, league_fixtures in season_df.groupby("league"):
         league_fixtures = league_fixtures.sort_values("date").reset_index(drop=True)
-        probabilities = get_fixture_probabilities(model, league_fixtures, feature_columns)
-        league_summary, league_positions = simulate_one_league(league_fixtures, probabilities, rng)
+        league_played = league_fixtures[league_fixtures["match_result"].notna()].copy()
+        league_unplayed = league_fixtures[league_fixtures["match_result"].isna()].copy()
+        probabilities = get_fixture_probabilities(model, league_unplayed, feature_columns)
+        league_summary, league_positions = simulate_one_league(
+            league_played, league_unplayed, probabilities, rng
+        )
         summary_frames.append(league_summary)
         position_frames.append(league_positions)
 
