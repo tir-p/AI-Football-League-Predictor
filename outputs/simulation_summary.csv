@@ -1,0 +1,97 @@
+league,season,team,expected_finishing_position,probability_of_winning_league,probability_of_finishing_top_4,probability_of_relegation
+bundesliga,2024,Bayern Munich,1.446,0.652,0.9953,0.0
+bundesliga,2024,Bayer Leverkusen,2.0324,0.3024,0.9709,0.0
+bundesliga,2024,Borussia Dortmund,4.3361,0.0163,0.6039,0.0001
+bundesliga,2024,RasenBallsport Leipzig,4.441,0.0184,0.5771,0.0
+bundesliga,2024,VfB Stuttgart,5.3923,0.0064,0.3708,0.0012
+bundesliga,2024,Eintracht Frankfurt,5.576,0.004,0.3346,0.0011
+bundesliga,2024,Mainz 05,8.6976,0.0003,0.0537,0.0236
+bundesliga,2024,Freiburg,8.8557,0.0001,0.0511,0.0278
+bundesliga,2024,Werder Bremen,10.9975,0.0,0.0109,0.1013
+bundesliga,2024,Wolfsburg,11.2254,0.0001,0.0102,0.1184
+bundesliga,2024,Borussia M.Gladbach,11.4666,0.0,0.008,0.1324
+bundesliga,2024,Union Berlin,12.0931,0.0,0.0069,0.1876
+bundesliga,2024,Hoffenheim,12.6089,0.0,0.003,0.2312
+bundesliga,2024,FC Heidenheim,13.4579,0.0,0.0017,0.3126
+bundesliga,2024,Augsburg,13.8621,0.0,0.0009,0.3534
+bundesliga,2024,St. Pauli,14.3307,0.0,0.0002,0.4265
+bundesliga,2024,Holstein Kiel,15.0874,0.0,0.0001,0.5383
+bundesliga,2024,Bochum,15.0933,0.0,0.0007,0.5445
+la_liga,2024,Barcelona,1.5453,0.5804,0.9977,0.0
+la_liga,2024,Real Madrid,1.9446,0.3326,0.9905,0.0
+la_liga,2024,Atletico Madrid,2.9586,0.083,0.9215,0.0
+la_liga,2024,Athletic Club,5.3982,0.0026,0.3794,0.0003
+la_liga,2024,Villarreal,5.7388,0.001,0.3104,0.0
+la_liga,2024,Real Betis,6.6778,0.0004,0.1755,0.0011
+la_liga,2024,Girona,7.1592,0.0,0.1257,0.0027
+la_liga,2024,Real Sociedad,8.1965,0.0,0.0735,0.0054
+la_liga,2024,Celta Vigo,11.5095,0.0,0.0083,0.0634
+la_liga,2024,Osasuna,12.0864,0.0,0.0047,0.0835
+la_liga,2024,Mallorca,12.7667,0.0,0.0031,0.1147
+la_liga,2024,Rayo Vallecano,12.9373,0.0,0.0033,0.1273
+la_liga,2024,Sevilla,13.5553,0.0,0.0011,0.1654
+la_liga,2024,Valencia,13.7732,0.0,0.0025,0.1811
+la_liga,2024,Alaves,14.2684,0.0,0.001,0.2158
+la_liga,2024,Leganes,14.4284,0.0,0.001,0.236
+la_liga,2024,Getafe,14.5698,0.0,0.0004,0.2387
+la_liga,2024,Espanyol,16.1276,0.0,0.0002,0.4143
+la_liga,2024,Las Palmas,16.3926,0.0,0.0002,0.4594
+la_liga,2024,Real Valladolid,17.9658,0.0,0.0,0.6909
+ligue_1,2024,Paris Saint-Germain,1.2103,0.8457,0.9959,0.0
+ligue_1,2024,Monaco,3.0473,0.0987,0.8288,0.0
+ligue_1,2024,Lille,4.5399,0.0225,0.5619,0.0001
+ligue_1,2024,Marseille,4.8973,0.0149,0.4852,0.0001
+ligue_1,2024,Lyon,5.2546,0.0098,0.4246,0.0003
+ligue_1,2024,Lens,6.263,0.0037,0.2663,0.0013
+ligue_1,2024,Nice,6.327,0.0035,0.2451,0.0013
+ligue_1,2024,Brest,7.6628,0.0011,0.1285,0.0055
+ligue_1,2024,Rennes,10.0426,0.0,0.0255,0.0341
+ligue_1,2024,Strasbourg,10.7521,0.0001,0.0152,0.061
+ligue_1,2024,Reims,10.9446,0.0,0.0136,0.0705
+ligue_1,2024,Toulouse,12.0392,0.0,0.0064,0.1308
+ligue_1,2024,Nantes,13.7424,0.0,0.0008,0.3031
+ligue_1,2024,Auxerre,14.0146,0.0,0.0007,0.3354
+ligue_1,2024,Montpellier,14.1601,0.0,0.0011,0.3608
+ligue_1,2024,Le Havre,14.7057,0.0,0.0001,0.4516
+ligue_1,2024,Saint-Etienne,15.2674,0.0,0.0002,0.5453
+ligue_1,2024,Angers,16.1291,0.0,0.0001,0.6988
+premier_league,2024,Liverpool,1.7347,0.5256,0.9862,0.0
+premier_league,2024,Arsenal,2.3502,0.2594,0.9554,0.0
+premier_league,2024,Manchester City,2.5962,0.1936,0.9337,0.0
+premier_league,2024,Chelsea,5.3834,0.0121,0.4101,0.0001
+premier_league,2024,Newcastle United,6.124,0.0051,0.277,0.0005
+premier_league,2024,Aston Villa,6.3963,0.0037,0.2409,0.0004
+premier_league,2024,Brighton,8.907,0.0003,0.0635,0.0057
+premier_league,2024,Manchester United,9.5378,0.0001,0.0417,0.0103
+premier_league,2024,Tottenham,9.856,0.0,0.0307,0.015
+premier_league,2024,Bournemouth,10.5486,0.0001,0.0201,0.021
+premier_league,2024,Crystal Palace,11.4405,0.0,0.0129,0.0342
+premier_league,2024,Fulham,11.8889,0.0,0.0081,0.043
+premier_league,2024,Brentford,12.1328,0.0,0.0094,0.0518
+premier_league,2024,Nottingham Forest,12.7351,0.0,0.0054,0.0751
+premier_league,2024,West Ham,13.3435,0.0,0.004,0.1
+premier_league,2024,Everton,14.6329,0.0,0.0008,0.1832
+premier_league,2024,Wolverhampton Wanderers,16.7178,0.0,0.0,0.4541
+premier_league,2024,Ipswich,17.1788,0.0,0.0,0.5398
+premier_league,2024,Leicester,17.287,0.0,0.0001,0.5618
+premier_league,2024,Southampton,19.2085,0.0,0.0,0.904
+serie_a,2024,Inter,1.7326,0.6214,0.953,0.0
+serie_a,2024,Atalanta,3.8303,0.121,0.6626,0.0
+serie_a,2024,Juventus,4.3777,0.0751,0.5615,0.0
+serie_a,2024,AC Milan,4.4526,0.0751,0.5459,0.0
+serie_a,2024,Napoli,4.5614,0.0657,0.5272,0.0
+serie_a,2024,Bologna,6.0572,0.0188,0.2764,0.0001
+serie_a,2024,Lazio,6.2856,0.0137,0.2424,0.0002
+serie_a,2024,Roma,7.4419,0.0049,0.1153,0.0001
+serie_a,2024,Fiorentina,7.5896,0.0042,0.1048,0.0005
+serie_a,2024,Torino,10.6602,0.0001,0.0091,0.013
+serie_a,2024,Udinese,13.0452,0.0,0.0006,0.0842
+serie_a,2024,Genoa,13.4061,0.0,0.0005,0.103
+serie_a,2024,Como,13.5449,0.0,0.0005,0.1089
+serie_a,2024,Cagliari,15.204,0.0,0.0,0.2568
+serie_a,2024,Empoli,15.2043,0.0,0.0001,0.2543
+serie_a,2024,Monza,15.7338,0.0,0.0001,0.3187
+serie_a,2024,Verona,16.1301,0.0,0.0,0.3737
+serie_a,2024,Lecce,16.396,0.0,0.0,0.4163
+serie_a,2024,Parma Calcio 1913,17.0553,0.0,0.0,0.5149
+serie_a,2024,Venezia,17.2912,0.0,0.0,0.5553

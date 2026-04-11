@@ -1,0 +1,32 @@
+Collect data script summary
+
+Script:
+src/collect_data.py
+
+Source:
+Understat data via understatapi
+
+Output file:
+data/raw/matches_raw.csv
+
+Result:
+- Number of rows: 19938
+- Number of columns: 9
+
+Columns:
+- league
+- season
+- date
+- home_team
+- away_team
+- home_goals
+- away_goals
+- home_xg
+- away_xg
+
+League distribution:
+- premier_league: 4180
+- la_liga: 4180
+- serie_a: 4180
+- ligue_1: 4032
+- bundesliga: 3366

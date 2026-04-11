@@ -1,0 +1,8 @@
+Football Match Prediction Evaluation
+========================================
+Test season: 2023
+Number of matches: 1752
+Accuracy: 0.5263
+Macro F1: 0.4092
+Log loss: 0.9846
+Confusion matrix: [[595, 7, 153], [282, 10, 171], [207, 10, 317]]

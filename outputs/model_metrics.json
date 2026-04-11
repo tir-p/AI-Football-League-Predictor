@@ -1,0 +1,28 @@
+{
+    "train_rows": 14507,
+    "validation_rows": 1826,
+    "test_rows": 1752,
+    "feature_columns": [
+        "home_avg_points_last_5",
+        "away_avg_points_last_5",
+        "home_goals_scored_avg_last_5",
+        "away_goals_scored_avg_last_5",
+        "home_xg_avg_last_5",
+        "away_xg_avg_last_5",
+        "home_elo",
+        "away_elo",
+        "elo_difference",
+        "home_rest_days",
+        "away_rest_days"
+    ],
+    "validation_metrics": {
+        "accuracy": 0.531763417305586,
+        "macro_f1": 0.3987293938062604,
+        "log_loss": 0.9926987982073496
+    },
+    "test_metrics": {
+        "accuracy": 0.526255707762557,
+        "macro_f1": 0.40916053494622195,
+        "log_loss": 0.9845959371566246
+    }
+}
