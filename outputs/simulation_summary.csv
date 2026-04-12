@@ -1,97 +1,97 @@
-league,season,team,expected_finishing_position,probability_of_winning_league,probability_of_finishing_top_4,probability_of_relegation,current_points
-bundesliga,2025,Bayern Munich,1.0001,0.9999,1.0,0.0,73
-bundesliga,2025,Borussia Dortmund,2.0024,0.0001,1.0,0.0,64
-bundesliga,2025,RasenBallsport Leipzig,3.6025,0.0,0.8497,0.0,56
-bundesliga,2025,Bayer Leverkusen,4.2361,0.0,0.5956,0.0,52
-bundesliga,2025,VfB Stuttgart,4.6294,0.0,0.4451,0.0,53
-bundesliga,2025,Hoffenheim,5.538,0.0,0.1096,0.0,51
-bundesliga,2025,Eintracht Frankfurt,7.2858,0.0,0.0,0.0,42
-bundesliga,2025,Freiburg,8.1527,0.0,0.0,0.0,37
-bundesliga,2025,Mainz 05,9.2487,0.0,0.0,0.0001,33
-bundesliga,2025,Augsburg,10.3225,0.0,0.0,0.0003,33
-bundesliga,2025,Union Berlin,11.7191,0.0,0.0,0.0089,32
-bundesliga,2025,Hamburger SV,12.644,0.0,0.0,0.0277,31
-bundesliga,2025,Borussia M.Gladbach,12.7802,0.0,0.0,0.0394,30
-bundesliga,2025,Werder Bremen,13.7062,0.0,0.0,0.15,28
-bundesliga,2025,FC Cologne,13.9585,0.0,0.0,0.196,27
-bundesliga,2025,St. Pauli,15.4392,0.0,0.0,0.6161,25
-bundesliga,2025,Wolfsburg,17.0381,0.0,0.0,0.9649,21
-bundesliga,2025,FC Heidenheim,17.6965,0.0,0.0,0.9966,19
-la_liga,2025,Barcelona,1.0136,0.9864,1.0,0.0,76
-la_liga,2025,Real Madrid,1.9944,0.0136,1.0,0.0,70
-la_liga,2025,Villarreal,3.483,0.0,1.0,0.0,58
-la_liga,2025,Atletico Madrid,3.5097,0.0,0.9993,0.0,57
-la_liga,2025,Real Betis,5.8792,0.0,0.0005,0.0,45
-la_liga,2025,Celta Vigo,6.6851,0.0,0.0,0.0,44
-la_liga,2025,Real Sociedad,7.4959,0.0,0.0002,0.0,42
-la_liga,2025,Getafe,8.4451,0.0,0.0,0.0,41
-la_liga,2025,Athletic Club,9.4611,0.0,0.0,0.0001,38
-la_liga,2025,Osasuna,10.474,0.0,0.0,0.0013,38
-la_liga,2025,Girona,11.5857,0.0,0.0,0.0027,38
-la_liga,2025,Espanyol,11.6279,0.0,0.0,0.0024,38
-la_liga,2025,Rayo Vallecano,11.7527,0.0,0.0,0.0094,35
-la_liga,2025,Valencia,14.4772,0.0,0.0,0.0762,35
-la_liga,2025,Alaves,15.358,0.0,0.0,0.161,33
-la_liga,2025,Mallorca,15.4578,0.0,0.0,0.1997,31
-la_liga,2025,Elche,16.1116,0.0,0.0,0.2728,32
-la_liga,2025,Sevilla,17.1979,0.0,0.0,0.5152,31
-la_liga,2025,Levante,18.4305,0.0,0.0,0.7992,26
-la_liga,2025,Real Oviedo,19.5596,0.0,0.0,0.96,24
-ligue_1,2025,Paris Saint-Germain,1.0203,0.9797,1.0,0.0,63
-ligue_1,2025,Lens,2.017,0.0203,0.9994,0.0,59
-ligue_1,2025,Lille,3.9664,0.0,0.7258,0.0,50
-ligue_1,2025,Marseille,4.0295,0.0,0.7222,0.0,52
-ligue_1,2025,Monaco,5.3211,0.0,0.2659,0.0,49
-ligue_1,2025,Lyon,5.6762,0.0,0.1928,0.0,48
-ligue_1,2025,Rennes,6.3878,0.0,0.0867,0.0,47
-ligue_1,2025,Strasbourg,7.6844,0.0,0.0072,0.0,43
-ligue_1,2025,Lorient,9.9578,0.0,0.0,0.0,38
-ligue_1,2025,Brest,10.3887,0.0,0.0,0.0,36
-ligue_1,2025,Toulouse,10.8471,0.0,0.0,0.0,37
-ligue_1,2025,Paris FC,11.7663,0.0,0.0,0.0001,35
-ligue_1,2025,Angers,12.4458,0.0,0.0,0.0013,33
-ligue_1,2025,Le Havre,14.3516,0.0,0.0,0.0804,28
-ligue_1,2025,Nice,14.385,0.0,0.0,0.1113,27
-ligue_1,2025,Auxerre,15.85,0.0,0.0,0.8117,23
-ligue_1,2025,Nantes,17.1216,0.0,0.0,0.9952,18
-ligue_1,2025,Metz,17.7834,0.0,0.0,1.0,15
-premier_league,2025,Arsenal,1.0937,0.9063,1.0,0.0,70
-premier_league,2025,Manchester City,1.9329,0.0937,0.9999,0.0,61
-premier_league,2025,Aston Villa,3.6919,0.0,0.8643,0.0,54
-premier_league,2025,Manchester United,3.7606,0.0,0.8332,0.0,55
-premier_league,2025,Liverpool,5.7807,0.0,0.1893,0.0,49
-premier_league,2025,Chelsea,6.2728,0.0,0.0914,0.0,48
-premier_league,2025,Brighton,8.225,0.0,0.0091,0.0,46
-premier_league,2025,Everton,8.6414,0.0,0.0058,0.0,47
-premier_league,2025,Brentford,8.9405,0.0,0.0042,0.0,47
-premier_league,2025,Bournemouth,9.6189,0.0,0.0009,0.0,45
-premier_league,2025,Fulham,10.5818,0.0,0.0016,0.0,44
-premier_league,2025,Newcastle United,11.6855,0.0,0.0001,0.0,42
-premier_league,2025,Sunderland,12.0145,0.0,0.0002,0.0,43
-premier_league,2025,Crystal Palace,12.9631,0.0,0.0,0.0001,39
-premier_league,2025,Leeds,15.528,0.0,0.0,0.0578,33
-premier_league,2025,Nottingham Forest,16.1083,0.0,0.0,0.1017,32
-premier_league,2025,West Ham,17.0671,0.0,0.0,0.4083,32
-premier_league,2025,Tottenham,17.0963,0.0,0.0,0.4324,30
-premier_league,2025,Burnley,19.3944,0.0,0.0,0.9997,20
-premier_league,2025,Wolverhampton Wanderers,19.6026,0.0,0.0,1.0,17
-serie_a,2025,Inter,1.0606,0.9449,1.0,0.0,72
-serie_a,2025,Napoli,2.2146,0.0476,0.9954,0.0,65
-serie_a,2025,AC Milan,2.9545,0.0075,0.9649,0.0,63
-serie_a,2025,Juventus,4.6354,0.0,0.4931,0.0,57
-serie_a,2025,Como,4.7994,0.0,0.4272,0.0,58
-serie_a,2025,Roma,5.9844,0.0,0.0754,0.0,57
-serie_a,2025,Atalanta,6.3613,0.0,0.044,0.0,53
-serie_a,2025,Lazio,8.6946,0.0,0.0,0.0,44
-serie_a,2025,Bologna,8.9186,0.0,0.0,0.0,45
-serie_a,2025,Sassuolo,10.2024,0.0,0.0,0.0,42
-serie_a,2025,Udinese,11.2304,0.0,0.0,0.0,40
-serie_a,2025,Torino,11.6763,0.0,0.0,0.0,39
-serie_a,2025,Genoa,14.085,0.0,0.0,0.0106,33
-serie_a,2025,Fiorentina,14.1616,0.0,0.0,0.01,32
-serie_a,2025,Parma Calcio 1913,14.2529,0.0,0.0,0.0051,35
-serie_a,2025,Cagliari,15.4061,0.0,0.0,0.0203,33
-serie_a,2025,Lecce,16.8505,0.0,0.0,0.3161,27
-serie_a,2025,Cremonese,17.5378,0.0,0.0,0.6407,27
-serie_a,2025,Pisa,19.225,0.0,0.0,0.9975,18
-serie_a,2025,Verona,19.7486,0.0,0.0,0.9997,18
+league,season,team,expected_finishing_position,probability_of_winning_league,probability_of_finishing_top_4,probability_of_qualifying_for_europe,probability_of_relegation,current_points,current_goal_difference
+bundesliga,2025,Bayern Munich,1.0001,0.9999,1.0,1.0,0.0,73,73
+bundesliga,2025,Borussia Dortmund,2.001,0.0001,1.0,1.0,0.0,64,31
+bundesliga,2025,RasenBallsport Leipzig,3.7403,0.0,0.8009,0.9999,0.0,56,20
+bundesliga,2025,Bayer Leverkusen,4.2297,0.0,0.584,0.9998,0.0,52,20
+bundesliga,2025,VfB Stuttgart,4.3616,0.0,0.5444,0.9995,0.0,53,18
+bundesliga,2025,Hoffenheim,5.6771,0.0,0.0707,0.9911,0.0,51,14
+bundesliga,2025,Eintracht Frankfurt,7.3083,0.0,0.0,0.0094,0.0,42,0
+bundesliga,2025,Freiburg,8.3141,0.0,0.0,0.0003,0.0,37,-6
+bundesliga,2025,Mainz 05,8.8733,0.0,0.0,0.0,0.0004,33,-8
+bundesliga,2025,Augsburg,10.616,0.0,0.0,0.0,0.0024,33,-17
+bundesliga,2025,Union Berlin,11.9039,0.0,0.0,0.0,0.0152,32,-17
+bundesliga,2025,Hamburger SV,12.6108,0.0,0.0,0.0,0.0276,31,-9
+bundesliga,2025,Borussia M.Gladbach,12.8887,0.0,0.0,0.0,0.0535,30,-14
+bundesliga,2025,FC Cologne,13.575,0.0,0.0,0.0,0.1545,27,-9
+bundesliga,2025,Werder Bremen,13.6707,0.0,0.0,0.0,0.1496,28,-18
+bundesliga,2025,St. Pauli,15.6182,0.0,0.0,0.0,0.665,25,-20
+bundesliga,2025,Wolfsburg,16.7627,0.0,0.0,0.0,0.9336,21,-26
+bundesliga,2025,FC Heidenheim,17.8485,0.0,0.0,0.0,0.9982,19,-32
+la_liga,2025,Barcelona,1.0173,0.9827,1.0,1.0,0.0,76,51
+la_liga,2025,Real Madrid,1.9885,0.0173,1.0,1.0,0.0,70,36
+la_liga,2025,Villarreal,3.4815,0.0,0.9979,1.0,0.0,58,19
+la_liga,2025,Atletico Madrid,3.5171,0.0,0.9982,1.0,0.0,57,20
+la_liga,2025,Real Betis,5.8753,0.0,0.0024,0.8999,0.0,45,7
+la_liga,2025,Celta Vigo,6.5126,0.0,0.0014,0.7882,0.0,44,7
+la_liga,2025,Real Sociedad,7.4537,0.0,0.0001,0.5717,0.0,42,1
+la_liga,2025,Getafe,8.2658,0.0,0.0,0.3811,0.0,41,-4
+la_liga,2025,Athletic Club,9.7931,0.0,0.0,0.1505,0.0007,38,-11
+la_liga,2025,Osasuna,10.3256,0.0,0.0,0.0985,0.0004,38,-1
+la_liga,2025,Rayo Vallecano,11.1072,0.0,0.0,0.0638,0.0052,35,-6
+la_liga,2025,Espanyol,11.8249,0.0,0.0,0.0274,0.0061,38,-8
+la_liga,2025,Girona,12.3868,0.0,0.0,0.0157,0.0078,38,-12
+la_liga,2025,Valencia,14.3872,0.0,0.0,0.0015,0.0713,35,-12
+la_liga,2025,Mallorca,15.2611,0.0,0.0,0.0012,0.1849,31,-12
+la_liga,2025,Alaves,15.7475,0.0,0.0,0.0001,0.218,33,-11
+la_liga,2025,Elche,16.1012,0.0,0.0,0.0001,0.2664,32,-8
+la_liga,2025,Sevilla,16.8349,0.0,0.0,0.0003,0.4455,31,-13
+la_liga,2025,Levante,18.4937,0.0,0.0,0.0,0.8233,26,-16
+la_liga,2025,Real Oviedo,19.625,0.0,0.0,0.0,0.9704,24,-27
+ligue_1,2025,Paris Saint-Germain,1.0117,0.9883,1.0,1.0,0.0,63,38
+ligue_1,2025,Lens,2.0423,0.0117,0.9993,0.9993,0.0,59,27
+ligue_1,2025,Marseille,3.8928,0.0,0.77,0.77,0.0,52,20
+ligue_1,2025,Lille,4.0141,0.0,0.728,0.728,0.0,50,11
+ligue_1,2025,Monaco,5.725,0.0,0.195,0.195,0.0,49,7
+ligue_1,2025,Lyon,5.8442,0.0,0.176,0.176,0.0,48,12
+ligue_1,2025,Rennes,6.3817,0.0,0.1008,0.1008,0.0,47,7
+ligue_1,2025,Strasbourg,7.1558,0.0,0.0309,0.0309,0.0,43,12
+ligue_1,2025,Lorient,9.6547,0.0,0.0,0.0,0.0,38,-4
+ligue_1,2025,Toulouse,10.5054,0.0,0.0,0.0,0.0,37,4
+ligue_1,2025,Brest,10.9665,0.0,0.0,0.0,0.0,36,-6
+ligue_1,2025,Paris FC,11.5323,0.0,0.0,0.0,0.0001,35,-8
+ligue_1,2025,Angers,12.8294,0.0,0.0,0.0,0.0039,33,-13
+ligue_1,2025,Le Havre,14.206,0.0,0.0,0.0,0.0905,28,-13
+ligue_1,2025,Nice,14.5695,0.0,0.0,0.0,0.1586,27,-22
+ligue_1,2025,Auxerre,15.7748,0.0,0.0,0.0,0.7552,23,-14
+ligue_1,2025,Nantes,17.0043,0.0,0.0,0.0,0.9918,18,-21
+ligue_1,2025,Metz,17.8895,0.0,0.0,0.0,0.9999,15,-37
+premier_league,2025,Arsenal,1.068,0.932,1.0,1.0,0.0,70,38
+premier_league,2025,Manchester City,2.0038,0.068,0.9994,1.0,0.0,61,32
+premier_league,2025,Manchester United,3.5291,0.0,0.8964,0.9978,0.0,55,13
+premier_league,2025,Aston Villa,3.8066,0.0,0.8467,0.9963,0.0,54,5
+premier_league,2025,Chelsea,5.9359,0.0,0.1339,0.8383,0.0,48,15
+premier_league,2025,Liverpool,6.6943,0.0,0.09,0.6987,0.0,49,8
+premier_league,2025,Brentford,8.2491,0.0,0.0113,0.3908,0.0,47,4
+premier_league,2025,Brighton,8.3023,0.0,0.01,0.3825,0.0,46,6
+premier_league,2025,Everton,8.5795,0.0,0.0081,0.3259,0.0,47,2
+premier_league,2025,Bournemouth,9.181,0.0,0.0026,0.2362,0.0,45,-1
+premier_league,2025,Fulham,10.7862,0.0,0.0011,0.0818,0.0,44,-1
+premier_league,2025,Sunderland,11.8748,0.0,0.0005,0.0243,0.0,43,-4
+premier_league,2025,Newcastle United,12.1024,0.0,0.0,0.0232,0.0,42,-1
+premier_league,2025,Crystal Palace,13.3846,0.0,0.0,0.0042,0.0007,39,-2
+premier_league,2025,Leeds,15.2177,0.0,0.0,0.0,0.0471,33,-11
+premier_league,2025,Nottingham Forest,16.3002,0.0,0.0,0.0,0.1527,32,-12
+premier_league,2025,West Ham,16.8002,0.0,0.0,0.0,0.2987,32,-17
+premier_league,2025,Tottenham,17.1891,0.0,0.0,0.0,0.5011,30,-10
+premier_league,2025,Burnley,19.453,0.0,0.0,0.0,0.9997,20,-30
+premier_league,2025,Wolverhampton Wanderers,19.5422,0.0,0.0,0.0,1.0,17,-34
+serie_a,2025,Inter,1.0336,0.9677,1.0,1.0,0.0,72,45
+serie_a,2025,Napoli,2.2616,0.0297,0.9929,1.0,0.0,65,17
+serie_a,2025,AC Milan,3.0948,0.0026,0.9244,1.0,0.0,63,23
+serie_a,2025,Juventus,4.4856,0.0,0.522,1.0,0.0,57,25
+serie_a,2025,Como,4.599,0.0,0.4826,1.0,0.0,58,31
+serie_a,2025,Roma,6.1683,0.0,0.0449,0.9965,0.0,57,17
+serie_a,2025,Atalanta,6.3713,0.0,0.0332,0.9901,0.0,53,17
+serie_a,2025,Lazio,8.5559,0.0,0.0,0.0094,0.0,44,3
+serie_a,2025,Bologna,9.0875,0.0,0.0,0.0035,0.0,45,3
+serie_a,2025,Sassuolo,10.0494,0.0,0.0,0.0005,0.0,42,-3
+serie_a,2025,Udinese,11.1715,0.0,0.0,0.0,0.0,40,-7
+serie_a,2025,Torino,12.0515,0.0,0.0,0.0,0.0,39,-17
+serie_a,2025,Genoa,14.0875,0.0,0.0,0.0,0.0076,33,-8
+serie_a,2025,Parma Calcio 1913,14.0919,0.0,0.0,0.0,0.0032,35,-17
+serie_a,2025,Fiorentina,14.1183,0.0,0.0,0.0,0.0073,32,-8
+serie_a,2025,Cagliari,15.3434,0.0,0.0,0.0,0.0185,33,-11
+serie_a,2025,Lecce,16.8689,0.0,0.0,0.0,0.3027,27,-22
+serie_a,2025,Cremonese,17.5983,0.0,0.0,0.0,0.6654,27,-21
+serie_a,2025,Pisa,19.3209,0.0,0.0,0.0,0.9958,18,-35
+serie_a,2025,Verona,19.6408,0.0,0.0,0.0,0.9995,18,-32

@@ -5,28 +5,20 @@ import pandas as pd
 from sklearn.metrics import accuracy_score, f1_score, log_loss
 from xgboost import XGBClassifier
 
-from config import FEATURE_COLUMNS_FILE, FEATURES_FILE, MODEL_FILE, MODEL_METRICS_FILE
-
-
-def get_feature_columns():
-    """Return the model input columns."""
-    return [
-        "home_avg_points_last_5",
-        "away_avg_points_last_5",
-        "home_goals_scored_avg_last_5",
-        "away_goals_scored_avg_last_5",
-        "home_xg_avg_last_5",
-        "away_xg_avg_last_5",
-        "home_elo",
-        "away_elo",
-        "elo_difference",
-        "home_rest_days",
-        "away_rest_days",
-    ]
+from config import (
+    FEATURE_COLUMNS_FILE,
+    FEATURES_FILE,
+    MODEL_FILE,
+    MODEL_METRICS_FILE,
+    PREPROCESSOR_FILE,
+    TEST_FILE,
+    TRAIN_FILE,
+)
+from preprocessing import fit_preprocessor, transform_features
 
 
 def split_data_by_season(df):
-    """Create backtest splits using the most recent completed seasons."""
+    """Create chronological backtest splits from played matches only."""
     played_df = df[df["match_result"].notna()].copy()
     train_df = played_df[(played_df["season"] >= 2014) & (played_df["season"] <= 2022)].copy()
     validation_df = played_df[played_df["season"] == 2023].copy()
@@ -39,9 +31,9 @@ def get_final_training_data(df):
     return df[df["match_result"].notna() & (df["season"] <= 2024)].copy()
 
 
-def separate_features_and_target(df, feature_columns):
-    """Separate model inputs and target values."""
-    X = df[feature_columns]
+def separate_features_and_target(df, preprocessor):
+    """Convert raw rows into the encoded and scaled model matrix."""
+    X = transform_features(df, preprocessor)
     y = df["match_result"].astype(int)
     return X, y
 
@@ -51,7 +43,7 @@ def train_xgboost_model(X_train, y_train):
     model = XGBClassifier(
         objective="multi:softprob",
         num_class=3,
-        n_estimators=200,
+        n_estimators=250,
         max_depth=4,
         learning_rate=0.05,
         subsample=0.8,
@@ -92,17 +84,24 @@ def add_probability_columns(df, probabilities):
     return result_df
 
 
+def save_transformed_matrix(output_path, X, y):
+    """Persist a transformed feature matrix for inspection."""
+    matrix_df = X.copy()
+    matrix_df["match_result"] = y.to_numpy()
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    matrix_df.to_csv(output_path, index=False)
+
+
 def main():
     df = pd.read_csv(FEATURES_FILE)
     df = df.sort_values("date").reset_index(drop=True)
-    feature_columns = [
-        *get_feature_columns(),
-    ]
 
     train_df, validation_df, test_df = split_data_by_season(df)
-    X_train, y_train = separate_features_and_target(train_df, feature_columns)
-    X_validation, y_validation = separate_features_and_target(validation_df, feature_columns)
-    X_test, y_test = separate_features_and_target(test_df, feature_columns)
+
+    backtest_preprocessor = fit_preprocessor(train_df)
+    X_train, y_train = separate_features_and_target(train_df, backtest_preprocessor)
+    X_validation, y_validation = separate_features_and_target(validation_df, backtest_preprocessor)
+    X_test, y_test = separate_features_and_target(test_df, backtest_preprocessor)
 
     evaluation_model = train_xgboost_model(X_train, y_train)
 
@@ -115,7 +114,8 @@ def main():
     test_predictions_df = add_probability_columns(test_df, test_probabilities)
 
     final_train_df = get_final_training_data(df)
-    X_final_train, y_final_train = separate_features_and_target(final_train_df, feature_columns)
+    final_preprocessor = fit_preprocessor(final_train_df)
+    X_final_train, y_final_train = separate_features_and_target(final_train_df, final_preprocessor)
     final_model = train_xgboost_model(X_final_train, y_final_train)
 
     metrics = {
@@ -124,23 +124,30 @@ def main():
         "test_rows": len(test_df),
         "final_train_rows": len(final_train_df),
         "final_train_end_season": 2024,
-        "feature_columns": feature_columns,
+        "categorical_feature_columns": final_preprocessor["categorical_columns"],
+        "scaled_numeric_feature_columns": final_preprocessor["numeric_columns"],
+        "feature_columns": final_preprocessor["feature_columns"],
         "validation_metrics": validation_metrics,
         "test_metrics": test_metrics,
     }
 
     MODEL_FILE.parent.mkdir(parents=True, exist_ok=True)
     joblib.dump(final_model, MODEL_FILE)
-    joblib.dump(feature_columns, FEATURE_COLUMNS_FILE)
+    joblib.dump(final_preprocessor, PREPROCESSOR_FILE)
+    joblib.dump(final_preprocessor["feature_columns"], FEATURE_COLUMNS_FILE)
     save_metrics(metrics)
+    save_transformed_matrix(TRAIN_FILE, X_final_train, y_final_train)
+    save_transformed_matrix(TEST_FILE, X_test, y_test)
 
     print(f"Model saved to: {MODEL_FILE}")
+    print(f"Preprocessor saved to: {PREPROCESSOR_FILE}")
     print(f"Metrics saved to: {MODEL_METRICS_FILE}")
-    print(f"Backtest validation season: 2023")
+    print("Backtest feature matrix includes encoded team IDs and scaled numeric features.")
+    print("Backtest validation season: 2023")
     print(f"Validation accuracy: {validation_metrics['accuracy']:.4f}")
     print(f"Validation macro F1: {validation_metrics['macro_f1']:.4f}")
     print(f"Validation log loss: {validation_metrics['log_loss']:.4f}")
-    print(f"Backtest test season: 2024")
+    print("Backtest test season: 2024")
     print(f"Test accuracy: {test_metrics['accuracy']:.4f}")
     print(f"Test macro F1: {test_metrics['macro_f1']:.4f}")
     print(f"Test log loss: {test_metrics['log_loss']:.4f}")

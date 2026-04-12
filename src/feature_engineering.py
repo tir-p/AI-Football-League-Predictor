@@ -16,6 +16,7 @@ def create_team_history():
         "points": deque(maxlen=5),
         "goals_scored": deque(maxlen=5),
         "xg": deque(maxlen=5),
+        "graph_edge_weights": deque(maxlen=5),
         "elo": INITIAL_ELO,
         "last_match_date": None,
     }
@@ -43,7 +44,52 @@ def expected_elo_score(team_elo, opponent_elo):
     return 1 / (1 + 10 ** ((opponent_elo - team_elo) / 400))
 
 
-def update_elo_ratings(home_elo, away_elo, match_result):
+def create_match_graph():
+    """Create a simple directed weighted graph of historical team matchups."""
+    return {}
+
+
+def get_graph_edge_weight(home_xg, away_xg):
+    """
+    Return the directed edge weight used by the match graph.
+
+    The edge weight is the xG differential from the source team's perspective.
+    """
+    if pd.isna(home_xg) or pd.isna(away_xg):
+        return 0.0
+    return float(home_xg) - float(away_xg)
+
+
+def add_directed_edge(match_graph, source_team, target_team, match_date, edge_weight):
+    """Store one directed edge in the graph."""
+    if source_team not in match_graph:
+        match_graph[source_team] = deque(maxlen=25)
+
+    match_graph[source_team].append(
+        {
+            "opponent": target_team,
+            "date": match_date,
+            "weight": edge_weight,
+        }
+    )
+
+
+def register_match_graph_edges(match_graph, home_team, away_team, match_date, home_xg, away_xg):
+    """Add the finished match to the directed weighted graph."""
+    home_edge_weight = get_graph_edge_weight(home_xg, away_xg)
+    away_edge_weight = -home_edge_weight
+
+    add_directed_edge(match_graph, home_team, away_team, match_date, home_edge_weight)
+    add_directed_edge(match_graph, away_team, home_team, match_date, away_edge_weight)
+    return home_edge_weight, away_edge_weight
+
+
+def get_elo_weight(edge_weight):
+    """Scale Elo updates using the graph edge weight from xG differential."""
+    return 1.0 + min(abs(edge_weight), 3.0)
+
+
+def update_elo_ratings(home_elo, away_elo, match_result, edge_weight):
     """Update Elo ratings after the match result is known."""
     if match_result == 0:
         home_score = 1.0
@@ -57,9 +103,10 @@ def update_elo_ratings(home_elo, away_elo, match_result):
 
     home_expected = expected_elo_score(home_elo, away_elo)
     away_expected = expected_elo_score(away_elo, home_elo)
+    elo_weight = get_elo_weight(edge_weight)
 
-    new_home_elo = home_elo + ELO_K_FACTOR * (home_score - home_expected)
-    new_away_elo = away_elo + ELO_K_FACTOR * (away_score - away_expected)
+    new_home_elo = home_elo + ELO_K_FACTOR * elo_weight * (home_score - home_expected)
+    new_away_elo = away_elo + ELO_K_FACTOR * elo_weight * (away_score - away_expected)
     return new_home_elo, new_away_elo
 
 
@@ -69,17 +116,19 @@ def get_team_features(team_data, current_match_date, team_prefix):
         f"{team_prefix}_avg_points_last_5": get_average(team_data["points"]),
         f"{team_prefix}_goals_scored_avg_last_5": get_average(team_data["goals_scored"]),
         f"{team_prefix}_xg_avg_last_5": get_average(team_data["xg"]),
+        f"{team_prefix}_graph_xg_diff_avg_last_5": get_average(team_data["graph_edge_weights"]),
         f"{team_prefix}_elo": team_data["elo"],
         f"{team_prefix}_rest_days": get_rest_days(team_data["last_match_date"], current_match_date),
     }
     return features
 
 
-def update_team_history(team_data, points, goals_scored, xg_value, match_date, new_elo):
+def update_team_history(team_data, points, goals_scored, xg_value, edge_weight, match_date, new_elo):
     """Store the finished match so future rows can use it."""
     team_data["points"].append(points)
     team_data["goals_scored"].append(goals_scored)
     team_data["xg"].append(xg_value)
+    team_data["graph_edge_weights"].append(edge_weight)
     team_data["last_match_date"] = match_date
     team_data["elo"] = new_elo
 
@@ -95,6 +144,7 @@ def build_match_features(df):
     df = df.sort_values("date").reset_index(drop=True)
 
     team_histories = {}
+    match_graph = create_match_graph()
     feature_rows = []
 
     for _, match in df.iterrows():
@@ -119,6 +169,9 @@ def build_match_features(df):
             "date": match_date,
             "home_team": home_team,
             "away_team": away_team,
+            "is_played": match["is_played"],
+            "home_goals": match["home_goals"],
+            "away_goals": match["away_goals"],
             "match_result": match["match_result"],
             **home_features,
             **away_features,
@@ -128,6 +181,14 @@ def build_match_features(df):
 
         # Scheduled fixtures should contribute features but must not update history.
         if pd.notna(match["match_result"]):
+            home_edge_weight, away_edge_weight = register_match_graph_edges(
+                match_graph=match_graph,
+                home_team=home_team,
+                away_team=away_team,
+                match_date=match_date,
+                home_xg=match["home_xg"],
+                away_xg=match["away_xg"],
+            )
             home_points = 3 if match["match_result"] == 0 else 1 if match["match_result"] == 1 else 0
             away_points = 3 if match["match_result"] == 2 else 1 if match["match_result"] == 1 else 0
 
@@ -135,6 +196,7 @@ def build_match_features(df):
                 home_elo=home_history["elo"],
                 away_elo=away_history["elo"],
                 match_result=match["match_result"],
+                edge_weight=home_edge_weight,
             )
 
             update_team_history(
@@ -142,6 +204,7 @@ def build_match_features(df):
                 points=home_points,
                 goals_scored=match["home_goals"],
                 xg_value=match["home_xg"],
+                edge_weight=home_edge_weight,
                 match_date=match_date,
                 new_elo=new_home_elo,
             )
@@ -150,6 +213,7 @@ def build_match_features(df):
                 points=away_points,
                 goals_scored=match["away_goals"],
                 xg_value=match["away_xg"],
+                edge_weight=away_edge_weight,
                 match_date=match_date,
                 new_elo=new_away_elo,
             )

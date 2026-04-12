@@ -2,7 +2,14 @@ import joblib
 import pandas as pd
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, log_loss
 
-from config import EVALUATION_FILE, FEATURE_COLUMNS_FILE, FEATURES_FILE, MODEL_FILE, TEST_PREDICTIONS_FILE
+from config import (
+    EVALUATION_FILE,
+    FEATURES_FILE,
+    MODEL_FILE,
+    PREPROCESSOR_FILE,
+    TEST_PREDICTIONS_FILE,
+)
+from preprocessing import transform_features
 
 
 RESULT_LABELS = {
@@ -13,8 +20,8 @@ RESULT_LABELS = {
 
 
 def recreate_test_split(df):
-    """Return only the 2024 test season."""
-    return df[df["season"] == 2024].copy()
+    """Return only the played matches from the 2024 test season."""
+    return df[(df["season"] == 2024) & df["match_result"].notna()].copy()
 
 
 def evaluate_predictions(y_true, y_pred, y_prob):
@@ -52,10 +59,10 @@ def main():
     df = df.sort_values("date").reset_index(drop=True)
     test_df = recreate_test_split(df)
 
-    feature_columns = joblib.load(FEATURE_COLUMNS_FILE)
+    preprocessor = joblib.load(PREPROCESSOR_FILE)
     model = joblib.load(MODEL_FILE)
 
-    X_test = test_df[feature_columns]
+    X_test = transform_features(test_df, preprocessor)
     y_test = test_df["match_result"].astype(int)
 
     predictions = model.predict(X_test)
@@ -68,6 +75,7 @@ def main():
         "Football Match Prediction Evaluation",
         "=" * 40,
         "Test season: 2024",
+        "Preprocessing: encoded team names + scaled numeric features",
         f"Number of matches: {len(test_df)}",
         f"Accuracy: {metrics['accuracy']:.4f}",
         f"Macro F1: {metrics['macro_f1']:.4f}",

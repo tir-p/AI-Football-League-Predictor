@@ -9,7 +9,7 @@ This project predicts football match outcomes for the Top 5 European leagues:
 It also simulates league-table outcomes for the current season by combining:
 
 - played matches already on the board
-- modelled probabilities for the remaining fixtures
+- modelled probabilities and sampled scorelines for the remaining fixtures
 
 ## Project Structure
 
@@ -49,6 +49,12 @@ Cleaned data keeps both played matches and scheduled fixtures. The cleaned file 
 - `is_played`
 - `match_result`
 
+Engineered data is then converted into the final 2D model matrix by:
+
+- encoding `home_team` and `away_team`
+- scaling numeric pre-match features from training-set statistics
+- saving the fitted preprocessing artifacts alongside the model
+
 ## Pipeline
 
 Run the full pipeline step by step:
@@ -67,10 +73,10 @@ What each step does:
 
 - `collect_data.py` downloads Understat data through season `2025`
 - `clean_data.py` preserves unplayed fixtures instead of dropping them
-- `feature_engineering.py` builds pre-match features without leaking future results
-- `train_model.py` backtests on seasons `2023` and `2024`, then trains the production model on all played matches through `2024/25`
+- `feature_engineering.py` builds pre-match features without leaking future results and updates Elo from a directed xG-difference match graph
+- `train_model.py` backtests on seasons `2023` and `2024`, encodes team names, scales numeric features, saves transformed train/test matrices, then trains the production model on all played matches through `2024/25`
 - `evaluate_model.py` writes a detailed season `2024` evaluation report for the saved model
-- `simulate_table.py` simulates season `2025` (`2025/26`) from the current points table plus remaining fixtures
+- `simulate_table.py` simulates season `2025` (`2025/26`) from the current table plus remaining fixtures, including goal difference and European qualification probabilities
 
 ## Current Artifacts
 
@@ -79,7 +85,11 @@ Latest generated files:
 - `data/raw/matches_raw.csv`
 - `data/processed/matches_clean.csv`
 - `data/processed/matches_features.csv`
+- `data/processed/train_data.csv`
+- `data/processed/test_data.csv`
 - `models/xgboost_model.joblib`
+- `models/feature_columns.joblib`
+- `models/preprocessor.joblib`
 - `outputs/model_metrics.json`
 - `outputs/evaluation_report.txt`
 - `outputs/test_predictions.csv`
@@ -92,6 +102,9 @@ Latest run snapshot:
 - Cleaned rows: `21690`
 - Played matches: `21276`
 - Scheduled fixtures: `414`
+- Final model matrix columns: `15`
+- Encoded categorical columns: `2`
+- Scaled numeric columns: `13`
 - Backtest validation season: `2023/24`
 - Backtest test season: `2024/25`
 - Simulation target season: `2025/26`
@@ -99,13 +112,14 @@ Latest run snapshot:
 
 Backtest metrics from `outputs/model_metrics.json`:
 
-- Validation accuracy: `0.5211`
-- Validation macro F1: `0.3993`
-- Test accuracy: `0.5257`
-- Test macro F1: `0.3980`
+- Validation accuracy: `0.5365`
+- Validation macro F1: `0.4247`
+- Test accuracy: `0.5285`
+- Test macro F1: `0.4150`
 
 ## Notes
 
 - The implementation is intentionally simple and oriented toward learning.
-- Feature engineering uses rolling team form, xG, Elo, and rest-day features.
-- The simulator ranks teams by points, then team name as a fixed tie-breaker.
+- Feature engineering uses rolling team form, xG, graph-backed Elo, and rest-day features.
+- The saved model consumes an encoded and scaled 2D feature matrix.
+- The simulator ranks teams by points, goal difference, goals scored, then team name.

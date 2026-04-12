@@ -4,13 +4,36 @@
     "test_rows": 1752,
     "final_train_rows": 19837,
     "final_train_end_season": 2024,
-    "feature_columns": [
+    "categorical_feature_columns": [
+        "home_team",
+        "away_team"
+    ],
+    "scaled_numeric_feature_columns": [
         "home_avg_points_last_5",
         "away_avg_points_last_5",
         "home_goals_scored_avg_last_5",
         "away_goals_scored_avg_last_5",
         "home_xg_avg_last_5",
         "away_xg_avg_last_5",
+        "home_graph_xg_diff_avg_last_5",
+        "away_graph_xg_diff_avg_last_5",
+        "home_elo",
+        "away_elo",
+        "elo_difference",
+        "home_rest_days",
+        "away_rest_days"
+    ],
+    "feature_columns": [
+        "home_team_encoded",
+        "away_team_encoded",
+        "home_avg_points_last_5",
+        "away_avg_points_last_5",
+        "home_goals_scored_avg_last_5",
+        "away_goals_scored_avg_last_5",
+        "home_xg_avg_last_5",
+        "away_xg_avg_last_5",
+        "home_graph_xg_diff_avg_last_5",
+        "away_graph_xg_diff_avg_last_5",
         "home_elo",
         "away_elo",
         "elo_difference",
@@ -18,13 +41,13 @@
         "away_rest_days"
     ],
     "validation_metrics": {
-        "accuracy": 0.5211187214611872,
-        "macro_f1": 0.399263600844324,
-        "log_loss": 0.9834169756596062
+        "accuracy": 0.5365296803652968,
+        "macro_f1": 0.42474066264727606,
+        "log_loss": 0.9798574525167197
     },
     "test_metrics": {
-        "accuracy": 0.5256849315068494,
-        "macro_f1": 0.3980329425330808,
-        "log_loss": 0.9927644821221351
+        "accuracy": 0.5285388127853882,
+        "macro_f1": 0.41504945700705714,
+        "log_loss": 0.992472666954529
     }
 }

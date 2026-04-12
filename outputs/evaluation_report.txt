@@ -1,8 +1,9 @@
 Football Match Prediction Evaluation
 ========================================
 Test season: 2024
+Preprocessing: encoded team names + scaled numeric features
 Number of matches: 1752
-Accuracy: 0.5491
-Macro F1: 0.4283
-Log loss: 0.9337
-Confusion matrix: [[600, 1, 135], [270, 13, 155], [229, 0, 349]]
+Accuracy: 0.5639
+Macro F1: 0.4537
+Log loss: 0.9115
+Confusion matrix: [[604, 7, 125], [266, 24, 148], [206, 12, 360]]
