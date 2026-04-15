@@ -1,0 +1,17 @@
+{
+    "best_model": "weighted_xgboost_expanded",
+    "best_test_macro_f1": 0.4774879854580847,
+    "best_test_accuracy": 0.5079908675799086,
+    "ensemble_members": [
+        "weighted_xgboost_expanded",
+        "tuned_xgboost_expanded",
+        "random_forest_expanded"
+    ],
+    "selected_tuned_xgboost_params": {
+        "n_estimators": 400,
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8
+    }
+}

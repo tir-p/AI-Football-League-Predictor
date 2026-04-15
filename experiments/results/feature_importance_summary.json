@@ -1,0 +1,40 @@
+{
+    "selected_xgboost_params": {
+        "n_estimators": 200,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8
+    },
+    "test_metrics": {
+        "accuracy": 0.509703196347032,
+        "macro_f1": 0.4825526365625265,
+        "log_loss": 0.9980581384969373,
+        "multiclass_brier": 0.5965178680603271,
+        "ece": 0.053293900537748684
+    },
+    "top_builtin_features": [
+        "elo_difference",
+        "away_elo",
+        "home_elo",
+        "away_graph_xg_diff_avg_last_5",
+        "home_home_xg_avg_last_5",
+        "head_to_head_home_xg_diff_avg_last_3",
+        "home_graph_xg_diff_avg_last_5",
+        "away_away_xg_avg_last_5",
+        "home_xg_avg_last_5",
+        "head_to_head_matches_seen"
+    ],
+    "top_permutation_features": [
+        "elo_difference",
+        "away_elo",
+        "away_team_encoded",
+        "head_to_head_home_xg_diff_avg_last_3",
+        "home_xg_conceded_avg_last_5",
+        "away_xg_avg_last_5",
+        "away_goals_conceded_avg_last_5",
+        "away_away_xg_avg_last_5",
+        "home_xg_avg_last_5",
+        "away_avg_points_last_5"
+    ]
+}
