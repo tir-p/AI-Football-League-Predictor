@@ -1,0 +1,5 @@
+{
+    "baseline_test_macro_f1": 0.4126579488181596,
+    "largest_drop_ablation": "without_xg_family",
+    "largest_drop_delta_test_macro_f1": -0.009287623546552826
+}

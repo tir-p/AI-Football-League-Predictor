@@ -1,0 +1,105 @@
+{
+    "feature_expansion": {
+        "best_configuration": "baseline_current_features",
+        "best_test_macro_f1": 0.41294723435145136,
+        "best_test_accuracy": 0.5256849315068494,
+        "unavailable_raw_feature_sources": [
+            "shots",
+            "shots_on_target",
+            "goalkeeper_statistics"
+        ]
+    },
+    "ablation": {
+        "baseline_test_macro_f1": 0.4126579488181596,
+        "largest_drop_ablation": "without_xg_family",
+        "largest_drop_delta_test_macro_f1": -0.009287623546552826
+    },
+    "model_comparison": {
+        "best_model": "weighted_xgboost_expanded",
+        "best_test_macro_f1": 0.4774879854580847,
+        "best_test_accuracy": 0.5079908675799086,
+        "ensemble_members": [
+            "weighted_xgboost_expanded",
+            "tuned_xgboost_expanded",
+            "random_forest_expanded"
+        ],
+        "selected_tuned_xgboost_params": {
+            "n_estimators": 400,
+            "max_depth": 5,
+            "learning_rate": 0.03,
+            "subsample": 0.8,
+            "colsample_bytree": 0.8
+        }
+    },
+    "calibration": {
+        "best_calibration_method_on_test_log_loss": "sigmoid",
+        "validation_reference_metrics_before_calibration": {
+            "accuracy": 0.5319634703196348,
+            "macro_f1": 0.4279713009065024,
+            "log_loss": 0.9829609868653457,
+            "multiclass_brier": 0.583951478044306,
+            "ece": 0.02875118098497761
+        },
+        "selected_xgboost_params": {
+            "n_estimators": 400,
+            "max_depth": 5,
+            "learning_rate": 0.03,
+            "subsample": 0.8,
+            "colsample_bytree": 0.8
+        }
+    },
+    "out_of_sample_validation": {
+        "evaluated_seasons": [
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025
+        ],
+        "mean_accuracy": 0.49215237054987726,
+        "mean_macro_f1": 0.4645944940264724,
+        "latest_season": 2025
+    },
+    "feature_importance": {
+        "selected_xgboost_params": {
+            "n_estimators": 200,
+            "max_depth": 3,
+            "learning_rate": 0.05,
+            "subsample": 0.8,
+            "colsample_bytree": 0.8
+        },
+        "test_metrics": {
+            "accuracy": 0.509703196347032,
+            "macro_f1": 0.4825526365625265,
+            "log_loss": 0.9980581384969373,
+            "multiclass_brier": 0.5965178680603271,
+            "ece": 0.053293900537748684
+        },
+        "top_builtin_features": [
+            "elo_difference",
+            "away_elo",
+            "home_elo",
+            "away_graph_xg_diff_avg_last_5",
+            "home_home_xg_avg_last_5",
+            "head_to_head_home_xg_diff_avg_last_3",
+            "home_graph_xg_diff_avg_last_5",
+            "away_away_xg_avg_last_5",
+            "home_xg_avg_last_5",
+            "head_to_head_matches_seen"
+        ],
+        "top_permutation_features": [
+            "elo_difference",
+            "away_elo",
+            "away_team_encoded",
+            "head_to_head_home_xg_diff_avg_last_3",
+            "home_xg_conceded_avg_last_5",
+            "away_xg_avg_last_5",
+            "away_goals_conceded_avg_last_5",
+            "away_away_xg_avg_last_5",
+            "home_xg_avg_last_5",
+            "away_avg_points_last_5"
+        ]
+    }
+}
