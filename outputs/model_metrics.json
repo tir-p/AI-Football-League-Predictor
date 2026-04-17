@@ -41,13 +41,21 @@
         "away_rest_days"
     ],
     "validation_metrics": {
-        "accuracy": 0.5365296803652968,
-        "macro_f1": 0.42474066264727606,
-        "log_loss": 0.9798574525167197
+        "accuracy": 0.5399543378995434,
+        "macro_f1": 0.4284496478456397,
+        "log_loss": 0.9782115074475326
     },
     "test_metrics": {
-        "accuracy": 0.5285388127853882,
-        "macro_f1": 0.41504945700705714,
-        "log_loss": 0.992472666954529
+        "accuracy": 0.5268264840182648,
+        "macro_f1": 0.4106947990286716,
+        "log_loss": 0.99302397650846
+    },
+    "validation_home_win_baseline_metrics": {
+        "accuracy": 0.4309360730593607,
+        "macro_f1": 0.20077117404600453
+    },
+    "test_home_win_baseline_metrics": {
+        "accuracy": 0.4200913242009132,
+        "macro_f1": 0.19721329046087888
     }
 }

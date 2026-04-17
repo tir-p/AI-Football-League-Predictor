@@ -2,7 +2,8 @@ import json
 
 import joblib
 import pandas as pd
-from sklearn.metrics import accuracy_score, f1_score, log_loss
+from sklearn.metrics import accuracy_score, f1_score, log_loss, confusion_matrix, ConfusionMatrixDisplay
+import matplotlib.pyplot as plt
 from xgboost import XGBClassifier
 
 from config import (
@@ -67,6 +68,15 @@ def evaluate_split(model, X, y):
     }
     return predicted_classes, predicted_probabilities, metrics
 
+def evaluate_home_win_baseline(y_true):
+    """Baseline: always predict home win (class 0)."""
+    baseline_predictions = [0] * len(y_true)
+
+    metrics = {
+        "accuracy": accuracy_score(y_true, baseline_predictions),
+        "macro_f1": f1_score(y_true, baseline_predictions, average="macro"),
+    }
+    return metrics
 
 def save_metrics(metrics):
     """Save the model metrics to JSON."""
@@ -103,12 +113,16 @@ def main():
     X_validation, y_validation = separate_features_and_target(validation_df, backtest_preprocessor)
     X_test, y_test = separate_features_and_target(test_df, backtest_preprocessor)
 
+    validation_baseline_metrics = evaluate_home_win_baseline(y_validation)
+    test_baseline_metrics = evaluate_home_win_baseline(y_test)
+
     evaluation_model = train_xgboost_model(X_train, y_train)
 
     _, validation_probabilities, validation_metrics = evaluate_split(
         evaluation_model, X_validation, y_validation
     )
-    _, test_probabilities, test_metrics = evaluate_split(evaluation_model, X_test, y_test)
+    test_predictions, test_probabilities, test_metrics = evaluate_split(
+    evaluation_model, X_test, y_test)
 
     validation_predictions_df = add_probability_columns(validation_df, validation_probabilities)
     test_predictions_df = add_probability_columns(test_df, test_probabilities)
@@ -129,6 +143,8 @@ def main():
         "feature_columns": final_preprocessor["feature_columns"],
         "validation_metrics": validation_metrics,
         "test_metrics": test_metrics,
+        "validation_home_win_baseline_metrics": validation_baseline_metrics,
+        "test_home_win_baseline_metrics": test_baseline_metrics,
     }
 
     MODEL_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -166,7 +182,50 @@ def main():
             ["date", "home_team", "away_team", "prob_home_win", "prob_draw", "prob_away_win"]
         ].head(5)
     )
+    print()
+    print("Home-win baseline comparison")
+    print(f"Validation baseline accuracy: {validation_baseline_metrics['accuracy']:.4f}")
+    print(f"Validation baseline macro F1: {validation_baseline_metrics['macro_f1']:.4f}")
+    print(f"Test baseline accuracy: {test_baseline_metrics['accuracy']:.4f}")
+    print(f"Test baseline macro F1: {test_baseline_metrics['macro_f1']:.4f}")
+    print()
+    print("Generating confusion matrix for test set (2024)...")
 
+    cm = confusion_matrix(y_test, test_predictions, labels=[0, 1, 2])
+
+    disp = ConfusionMatrixDisplay(
+        confusion_matrix=cm,
+        display_labels=["Home Win", "Draw", "Away Win"]
+    )
+
+    disp.plot(cmap="Blues")
+    plt.title("Confusion Matrix - Test Set (2024)")
+    plt.savefig(MODEL_FILE.parent / "confusion_matrix_test.png")
+    plt.show()
+
+    print()
+    print("Generating feature importance plot...")
+
+    feature_names = backtest_preprocessor["feature_columns"]
+    importances = evaluation_model.feature_importances_
+
+    importance_df = pd.DataFrame({
+        "feature": feature_names,
+        "importance": importances
+    }).sort_values("importance", ascending=False)
+
+    print()
+    print("Top 10 most important features:")
+    print(importance_df.head(10))
+
+    plt.figure(figsize=(10, 6))
+    plt.barh(importance_df["feature"].head(10)[::-1], importance_df["importance"].head(10)[::-1])
+    plt.xlabel("Importance")
+    plt.ylabel("Feature")
+    plt.title("Top 10 Feature Importances - XGBoost")
+    plt.tight_layout()
+    plt.savefig(MODEL_FILE.parent / "feature_importance_top10.png")
+    plt.show()
 
 if __name__ == "__main__":
     main()
